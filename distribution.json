@@ -1,0 +1,42 @@
+{
+    "version": "1.0.0",
+    "rss": "https://minecraft.net/en-us/articles/feed/json/4",
+    "discord": {
+        "clientId": "12345678901234567"
+    },
+    "servers": [
+        {
+            "id": "MeuServidor",
+            "name": "Meu Servidor Minecraft",
+            "description": "Servidor com NeoForge e Mods para Minecraft 1.21.1",
+            "icon": "https://raw.githubusercontent.com/WesleyNogueiraOne/modpack/main/icon.png",
+            "version": "1.0.0",
+            "address": "localhost:25565",
+            "minecraftVersion": "1.21.1",
+            "discord": {
+                "shortId": "MeuServidor",
+                "largeImageText": "Meu Servidor Minecraft",
+                "largeImageKey": "server-icon"
+            },
+            "mainServer": true,
+            "autoconnect": false,
+            "javaOptions": {
+                "supported": ">=21",
+                "suggestedMajor": 21,
+                "distribution": "temurin"
+            },
+            "modules": [
+                {
+                    "id": "net.neoforged:neoforge:21.1.185",
+                    "name": "NeoForge 21.1.185",
+                    "type": "NeoForge",
+                    "artifact": {
+                        "size": 0,
+                        "MD5": "0",
+                        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.185/neoforge-21.1.185-installer.jar"
+                    }
+                }
+            ]
+        }
+    ]
+}
