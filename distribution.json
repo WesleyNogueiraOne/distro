@@ -13,11 +13,7 @@
             "version": "1.0.0",
             "address": "localhost:25565",
             "minecraftVersion": "1.21.1",
-            "discord": {
-                "shortId": "MeuServidor",
-                "largeImageText": "Meu Servidor Minecraft",
-                "largeImageKey": "server-icon"
-            },
+            "discord": null,
             "mainServer": true,
             "autoconnect": false,
             "javaOptions": {
@@ -31,8 +27,8 @@
                     "name": "NeoForge 21.1.224",
                     "type": "NeoForge",
                     "artifact": {
-                        "size": 0,
-                        "MD5": "0",
+                        "size": 6961132,
+                        "MD5": "d222b3fde527d68c83c396ddb0d939ce",
                         "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.224/neoforge-21.1.224-installer.jar"
                     }
                 }
