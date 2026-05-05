@@ -29,12 +29,11 @@
                 {
                     "id": "net.neoforged:neoforge:21.1.224",
                     "name": "NeoForge 21.1.224",
-                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.224/neoforge-21.1.224-installer.jar"
                     "type": "NeoForge",
                     "artifact": {
                         "size": 0,
                         "MD5": "0",
-                        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.185/neoforge-21.1.185-installer.jar"
+                        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.224/neoforge-21.1.224-installer.jar"
                     }
                 }
             ]
