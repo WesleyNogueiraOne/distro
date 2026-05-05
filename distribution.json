@@ -25,7 +25,7 @@
                 {
                     "id": "net.neoforged:neoforge:21.1.224",
                     "name": "NeoForge 21.1.224",
-                    "type": "ForgeHosted",
+                    "type": "NeoForge",
                     "artifact": {
                         "size": 6961132,
                         "MD5": "d222b3fde527d68c83c396ddb0d939ce",
