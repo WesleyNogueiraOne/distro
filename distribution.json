@@ -383,7 +383,7 @@
                                         },
                                         {
                                             "id":  "curse.maven:owo-lib:0.12.15",
-                                            "name":  "oÃƒÂÃ¢â‚¬Â°o",
+                                            "name":  "oÃƒÆ’Ã‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã‚Â°o",
                                             "type":  "ForgeMod",
                                             "artifact":  {
                                                              "size":  1221583,
@@ -587,8 +587,8 @@
                                             "type":  "File",
                                             "path":  "kubejs",
                                             "artifact":  {
-                                                             "size":  4132,
-                                                             "MD5":  "851fd9fdc5ec0d4b1f81cb3bbadcf267",
+                                                             "size":  3854,
+                                                             "MD5":  "b0402fded4d6268a50cd2fef07bfc620",
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs.zip"
                                                          }
                                         },
@@ -598,8 +598,8 @@
                                             "type":  "File",
                                             "path":  "config",
                                             "artifact":  {
-                                                             "size":  191702,
-                                                             "MD5":  "55ff1c2b112b3acfee993336476263b3",
+                                                             "size":  191705,
+                                                             "MD5":  "0e4a3857c9580c87ee95d660b12a551c",
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/config.zip"
                                                          }
                                         },
