@@ -1,4 +1,4 @@
-{
+﻿{
     "version": "1.0.0",
     "rss": "https://minecraft.net/en-us/articles/feed/json/4",
     "discord": {
@@ -386,7 +386,7 @@
                 },
                 {
                     "id": "curse.maven:owo-lib:0.12.15",
-                    "name": "oωo",
+                    "name": "oÏ‰o",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1221583,
@@ -580,7 +580,7 @@
                 "type": "ForgeMod",
                 "artifact": {
                   "size": 4526785,
-                  "MD5": "",
+                  "MD5": "06cf27c786fe30a539b5bd23e66b62c9",
                   "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connector-2.0.0-beta.14%2B1.21.1-full.jar"
                 }
               },
@@ -590,7 +590,7 @@
                 "type": "ForgeMod",
                 "artifact": {
                   "size": 1014626,
-                  "MD5": "",
+                  "MD5": "06a2323e992834efcac3505e3ee57b15",
                   "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/continuity-3.0.0%2B1.21.neoforge.jar"
                 }
               },
@@ -600,7 +600,7 @@
                 "type": "ForgeMod",
                 "artifact": {
                   "size": 44232996,
-                  "MD5": "",
+                  "MD5": "74bc88e7859c8ecccc722683663d0ecd",
                   "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Axiom-5.3.0-for-MC1.21.1.jar"
                 }
               },
@@ -618,3 +618,4 @@
         }
     ]
 }
+
