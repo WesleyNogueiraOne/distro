@@ -225,16 +225,7 @@
                         "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar"
                     }
                 },
-                {
-                    "id": "curse.maven:distanthorizons:2.4.5",
-                    "name": "Distant Horizons",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 25493997,
-                        "MD5": "7b3426987fefdb6bb4c521dcbe64d1c6",
-                        "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar"
-                    }
-                },
+               
                 {
                     "id": "curse.maven:extraspellattributes:1.5.0",
                     "name": "Extra RPG Attributes",
