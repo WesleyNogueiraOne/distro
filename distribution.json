@@ -192,7 +192,7 @@
                     }
                 },
                 {
-                    "id": "curse.maven:connector:2.0.0",
+                    "id": "curse.maven:connector:2.0.0-beta.14-full",
                     "name": "Sinytra Connector",
                     "type": "ForgeMod",
                     "artifact": {
