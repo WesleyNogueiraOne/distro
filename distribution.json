@@ -32,7 +32,7 @@
                     }
                 },
                 {
-                    "id": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+                    "id": "curse.maven:accessories:1.1.0-beta.53",
                     "name": "Accessories",
                     "type": "ForgeMod",
                     "artifact": {
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "id": "alexsmobs-1.22.17.jar",
+                    "id": "curse.maven:alexsmobs:1.22.17",
                     "name": "Alex's Mobs",
                     "type": "ForgeMod",
                     "artifact": {
@@ -52,7 +52,7 @@
                     }
                 },
                 {
-                    "id": "alshanex_familiars-1.21.1_v3.8.5.jar",
+                    "id": "curse.maven:alshanex-familiars:1.21.1",
                     "name": "Alshanex's Familiars",
                     "type": "ForgeMod",
                     "artifact": {
@@ -62,7 +62,7 @@
                     }
                 },
                 {
-                    "id": "arcadia_games-1.2.0.jar",
+                    "id": "curse.maven:arcadia-games:1.2.0",
                     "name": "Arcadia Games",
                     "type": "ForgeMod",
                     "artifact": {
@@ -72,7 +72,7 @@
                     }
                 },
                 {
-                    "id": "archers-neoforge-2.7.0+1.21.1.jar",
+                    "id": "curse.maven:archers:2.7.0",
                     "name": "Archers (RPG Series)",
                     "type": "ForgeMod",
                     "artifact": {
@@ -82,7 +82,7 @@
                     }
                 },
                 {
-                    "id": "archers_expansion-neoforge-1.5.1+1.21.1.jar",
+                    "id": "curse.maven:archers-expansion:1.5.1",
                     "name": "Archers Expansion",
                     "type": "ForgeMod",
                     "artifact": {
@@ -92,7 +92,7 @@
                     }
                 },
                 {
-                    "id": "architectury-13.0.8-neoforge.jar",
+                    "id": "curse.maven:architectury:13.0.8",
                     "name": "Architectury",
                     "type": "ForgeMod",
                     "artifact": {
@@ -102,7 +102,7 @@
                     }
                 },
                 {
-                    "id": "armourersworkshop-forge-1.21.1-3.2.7-beta.jar",
+                    "id": "curse.maven:armourers-workshop:3.2.7",
                     "name": "Armourer's Workshop",
                     "type": "ForgeMod",
                     "artifact": {
@@ -112,7 +112,7 @@
                     }
                 },
                 {
-                    "id": "arsenal-neoforge-1.4.2+1.21.1.jar",
+                    "id": "curse.maven:arsenal:1.4.2",
                     "name": "Arsenal (RPG Series)",
                     "type": "ForgeMod",
                     "artifact": {
@@ -122,7 +122,7 @@
                     }
                 },
                 {
-                    "id": "Axiom-5.3.0-for-MC1.21.1.jar",
+                    "id": "curse.maven:axiom:5.3.0",
                     "name": "Axiom",
                     "type": "ForgeMod",
                     "artifact": {
@@ -132,7 +132,7 @@
                     }
                 },
                 {
-                    "id": "azurelibarmor-neo-1.21.1-3.1.3.jar",
+                    "id": "curse.maven:azurelibarmor:3.1.3",
                     "name": "AzureLib Armor",
                     "type": "ForgeMod",
                     "artifact": {
@@ -142,7 +142,7 @@
                     }
                 },
                 {
-                    "id": "bettercombat-neoforge-2.3.2+1.21.1.jar",
+                    "id": "curse.maven:bettercombat:2.3.2",
                     "name": "Better Combat",
                     "type": "ForgeMod",
                     "artifact": {
@@ -152,7 +152,7 @@
                     }
                 },
                 {
-                    "id": "better_weaponry-1.1.3-neoforge-1.21.1.jar",
+                    "id": "curse.maven:better-weaponry:1.1.3",
                     "name": "Better Weaponry",
                     "type": "ForgeMod",
                     "artifact": {
@@ -162,7 +162,7 @@
                     }
                 },
                 {
-                    "id": "bundle-api-neoforge-1.1.0.jar",
+                    "id": "curse.maven:bundle-api:1.1.0",
                     "name": "BundleAPI",
                     "type": "ForgeMod",
                     "artifact": {
@@ -172,7 +172,7 @@
                     }
                 },
                 {
-                    "id": "citadel-1.21.1-2.7.5.jar",
+                    "id": "curse.maven:citadel:2.7.5",
                     "name": "Citadel",
                     "type": "ForgeMod",
                     "artifact": {
@@ -182,7 +182,7 @@
                     }
                 },
                 {
-                    "id": "cloth-config-15.0.140-neoforge.jar",
+                    "id": "curse.maven:cloth-config:15.0.140",
                     "name": "Cloth Config",
                     "type": "ForgeMod",
                     "artifact": {
@@ -192,7 +192,7 @@
                     }
                 },
                 {
-                    "id": "connector-2.0.0-beta.14+1.21.1-full.jar",
+                    "id": "curse.maven:connector:2.0.0",
                     "name": "Sinytra Connector",
                     "type": "ForgeMod",
                     "artifact": {
@@ -202,7 +202,7 @@
                     }
                 },
                 {
-                    "id": "continuity-3.0.0+1.21.neoforge.jar",
+                    "id": "curse.maven:continuity:3.0.0",
                     "name": "Continuity",
                     "type": "ForgeMod",
                     "artifact": {
@@ -212,7 +212,7 @@
                     }
                 },
                 {
-                    "id": "create-1.21.1-6.0.10.jar",
+                    "id": "curse.maven:create:6.0.10",
                     "name": "Create",
                     "type": "ForgeMod",
                     "artifact": {
@@ -222,7 +222,7 @@
                     }
                 },
                 {
-                    "id": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
+                    "id": "curse.maven:create-aeronautics:1.2.1",
                     "name": "Create Aeronautics",
                     "type": "ForgeMod",
                     "artifact": {
@@ -232,7 +232,7 @@
                     }
                 },
                 {
-                    "id": "curios-neoforge-9.5.1+1.21.1.jar",
+                    "id": "curse.maven:curios:9.5.1",
                     "name": "Curios API",
                     "type": "ForgeMod",
                     "artifact": {
@@ -242,7 +242,7 @@
                     }
                 },
                 {
-                    "id": "CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
+                    "id": "curse.maven:customnpcs:1.21.1",
                     "name": "Custom NPCs",
                     "type": "ForgeMod",
                     "artifact": {
@@ -252,7 +252,7 @@
                     }
                 },
                 {
-                    "id": "DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
+                    "id": "curse.maven:distanthorizons:2.4.5",
                     "name": "Distant Horizons",
                     "type": "ForgeMod",
                     "artifact": {
@@ -262,7 +262,7 @@
                     }
                 },
                 {
-                    "id": "extraspellattributes-neoforge-1.5.0+1.21.1.jar",
+                    "id": "curse.maven:extraspellattributes:1.5.0",
                     "name": "Extra RPG Attributes",
                     "type": "ForgeMod",
                     "artifact": {
@@ -272,7 +272,7 @@
                     }
                 },
                 {
-                    "id": "familiarslib-1.21.1-1.6.jar",
+                    "id": "curse.maven:familiarslib:1.6",
                     "name": "FamiliarsLib",
                     "type": "ForgeMod",
                     "artifact": {
@@ -282,7 +282,7 @@
                     }
                 },
                 {
-                    "id": "FarmersDelight-1.21.1-1.2.11.jar",
+                    "id": "curse.maven:farmersdelight:1.2.11",
                     "name": "Farmer's Delight",
                     "type": "ForgeMod",
                     "artifact": {
@@ -292,7 +292,7 @@
                     }
                 },
                 {
-                    "id": "forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+                    "id": "curse.maven:forgified-fabric-api:0.116.7",
                     "name": "Forgified Fabric API",
                     "type": "ForgeMod",
                     "artifact": {
@@ -302,7 +302,7 @@
                     }
                 },
                 {
-                    "id": "geckolib-neoforge-1.21.1-4.8.4.jar",
+                    "id": "curse.maven:geckolib:4.8.4",
                     "name": "GeckoLib 4",
                     "type": "ForgeMod",
                     "artifact": {
@@ -312,7 +312,7 @@
                     }
                 },
                 {
-                    "id": "iris-flywheel-compat-NeoForge-2.1.2.jar",
+                    "id": "curse.maven:iris-flywheel-compat:2.1.2",
                     "name": "Iris Flywheel Compat",
                     "type": "ForgeMod",
                     "artifact": {
@@ -322,7 +322,7 @@
                     }
                 },
                 {
-                    "id": "iris-neoforge-1.8.12+mc1.21.1.jar",
+                    "id": "curse.maven:iris:1.8.12",
                     "name": "Iris",
                     "type": "ForgeMod",
                     "artifact": {
@@ -332,7 +332,7 @@
                     }
                 },
                 {
-                    "id": "irons_patreon_lib-1.21.1-1.0.1.jar",
+                    "id": "curse.maven:irons-patreon-lib:1.0.1",
                     "name": "Iron's Patreon Library",
                     "type": "ForgeMod",
                     "artifact": {
@@ -342,7 +342,7 @@
                     }
                 },
                 {
-                    "id": "irons_spellbooks-1.21.1-3.15.5.jar",
+                    "id": "curse.maven:irons-spellbooks:3.15.5",
                     "name": "Iron's Spells 'n Spellbooks",
                     "type": "ForgeMod",
                     "artifact": {
@@ -352,7 +352,7 @@
                     }
                 },
                 {
-                    "id": "irons_spells_js-4.0.3.jar",
+                    "id": "curse.maven:irons-spells-js:4.0.3",
                     "name": "Iron's Spellbooks KubeJS",
                     "type": "ForgeMod",
                     "artifact": {
@@ -362,7 +362,7 @@
                     }
                 },
                 {
-                    "id": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+                    "id": "curse.maven:kubejs-create:2101.3.1",
                     "name": "KubeJS Create",
                     "type": "ForgeMod",
                     "artifact": {
@@ -372,7 +372,7 @@
                     }
                 },
                 {
-                    "id": "kubejs-neoforge-2101.7.2-build.348.jar",
+                    "id": "curse.maven:kubejs:2101.7.2",
                     "name": "KubeJS",
                     "type": "ForgeMod",
                     "artifact": {
@@ -382,7 +382,7 @@
                     }
                 },
                 {
-                    "id": "kubejsdelight-1.21.1-1.1.5.jar",
+                    "id": "curse.maven:kubejsdelight:1.1.5",
                     "name": "KubeJSDelight",
                     "type": "ForgeMod",
                     "artifact": {
@@ -392,7 +392,7 @@
                     }
                 },
                 {
-                    "id": "lionfishapi-2.6.jar",
+                    "id": "curse.maven:lionfishapi:2.6",
                     "name": "lionfishapi",
                     "type": "ForgeMod",
                     "artifact": {
@@ -402,7 +402,7 @@
                     }
                 },
                 {
-                    "id": "more_rpg_library-neoforge-2.5.22+1.21.1.jar",
+                    "id": "curse.maven:more-rpg-library:2.5.22",
                     "name": "More RPG Library",
                     "type": "ForgeMod",
                     "artifact": {
@@ -412,7 +412,7 @@
                     }
                 },
                 {
-                    "id": "origins-0.1-alpha.3.jar",
+                    "id": "curse.maven:origins:0.1",
                     "name": "Origins",
                     "type": "ForgeMod",
                     "artifact": {
@@ -422,8 +422,8 @@
                     }
                 },
                 {
-                    "id": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
-                    "name": "oÏ‰o",
+                    "id": "curse.maven:owo-lib:0.12.15",
+                    "name": "oωo",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1221583,
@@ -432,7 +432,7 @@
                     }
                 },
                 {
-                    "id": "paladins-neoforge-2.7.1+1.21.1.jar",
+                    "id": "curse.maven:paladins:2.7.1",
                     "name": "Paladins & Priests (RPG Series)",
                     "type": "ForgeMod",
                     "artifact": {
@@ -442,7 +442,7 @@
                     }
                 },
                 {
-                    "id": "Placebo-1.21.1-9.9.1.jar",
+                    "id": "curse.maven:placebo:9.9.1",
                     "name": "Placebo",
                     "type": "ForgeMod",
                     "artifact": {
@@ -452,7 +452,7 @@
                     }
                 },
                 {
-                    "id": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+                    "id": "curse.maven:player-animator:2.0.4",
                     "name": "Player Animator",
                     "type": "ForgeMod",
                     "artifact": {
@@ -462,7 +462,7 @@
                     }
                 },
                 {
-                    "id": "ranged_weapon_api-neoforge-2.3.3+1.21.1.jar",
+                    "id": "curse.maven:ranged-weapon-api:2.3.3",
                     "name": "RangedWeaponAPI",
                     "type": "ForgeMod",
                     "artifact": {
@@ -472,7 +472,7 @@
                     }
                 },
                 {
-                    "id": "rhino-2101.2.7-build.81.jar",
+                    "id": "curse.maven:rhino:2101.2.7",
                     "name": "Rhino",
                     "type": "ForgeMod",
                     "artifact": {
@@ -482,7 +482,7 @@
                     }
                 },
                 {
-                    "id": "rogues-neoforge-2.7.0+1.21.1.jar",
+                    "id": "curse.maven:rogues:2.7.0",
                     "name": "Rogues & Warriors (RPG Series)",
                     "type": "ForgeMod",
                     "artifact": {
@@ -492,7 +492,7 @@
                     }
                 },
                 {
-                    "id": "runes-neoforge-1.2.1+1.21.1.jar",
+                    "id": "curse.maven:runes:1.2.1",
                     "name": "Runes",
                     "type": "ForgeMod",
                     "artifact": {
@@ -502,7 +502,7 @@
                     }
                 },
                 {
-                    "id": "sable-neoforge-1.21.1-1.2.1.jar",
+                    "id": "curse.maven:sable:1.2.1",
                     "name": "Sable",
                     "type": "ForgeMod",
                     "artifact": {
@@ -512,7 +512,7 @@
                     }
                 },
                 {
-                    "id": "shield_api-neoforge-2.2.0.jar",
+                    "id": "curse.maven:shield-api:2.2.0",
                     "name": "ShieldAPI",
                     "type": "ForgeMod",
                     "artifact": {
@@ -522,7 +522,7 @@
                     }
                 },
                 {
-                    "id": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+                    "id": "curse.maven:sodium:0.6.13",
                     "name": "Sodium",
                     "type": "ForgeMod",
                     "artifact": {
@@ -532,7 +532,7 @@
                     }
                 },
                 {
-                    "id": "spell_engine-neoforge-1.9.9+1.21.1.jar",
+                    "id": "curse.maven:spell-engine:1.9.9",
                     "name": "Spell Engine",
                     "type": "ForgeMod",
                     "artifact": {
@@ -542,7 +542,7 @@
                     }
                 },
                 {
-                    "id": "spell_power-neoforge-1.4.6+1.21.1.jar",
+                    "id": "curse.maven:spell-power:1.4.6",
                     "name": "Spell Power Attribute",
                     "type": "ForgeMod",
                     "artifact": {
@@ -552,7 +552,7 @@
                     }
                 },
                 {
-                    "id": "spudaciousshops-1.9.9.jar",
+                    "id": "curse.maven:spudaciousshops:1.9.9",
                     "name": "Spud's Shops",
                     "type": "ForgeMod",
                     "artifact": {
@@ -562,7 +562,7 @@
                     }
                 },
                 {
-                    "id": "structure_pool_api-neoforge-1.2.1+1.21.1.jar",
+                    "id": "curse.maven:structure-pool-api:1.2.1",
                     "name": "Structure Pool API",
                     "type": "ForgeMod",
                     "artifact": {
@@ -572,7 +572,7 @@
                     }
                 },
                 {
-                    "id": "watermedia-2.1.37.jar",
+                    "id": "curse.maven:watermedia:2.1.37",
                     "name": "WaterMedia",
                     "type": "ForgeMod",
                     "artifact": {
@@ -582,7 +582,7 @@
                     }
                 },
                 {
-                    "id": "watermedia_youtube_plugin-2.1.2.jar",
+                    "id": "curse.maven:watermedia-youtube:2.1.2",
                     "name": "WaterMedia YouTube Plugin",
                     "type": "ForgeMod",
                     "artifact": {
@@ -592,7 +592,7 @@
                     }
                 },
                 {
-                    "id": "watervision-NEOFORGE-mc1.21.1-v0.0.1-alpha.jar",
+                    "id": "curse.maven:watervision:0.0.1",
                     "name": "WaterVision",
                     "type": "ForgeMod",
                     "artifact": {
@@ -602,7 +602,7 @@
                     }
                 },
                 {
-                    "id": "wizards-neoforge-2.7.1+1.21.1.jar",
+                    "id": "curse.maven:wizards:2.7.1",
                     "name": "Wizards (RPG Series)",
                     "type": "ForgeMod",
                     "artifact": {
@@ -612,7 +612,7 @@
                     }
                 },
                 {
-                    "id": "worldedit-mod-7.3.8.jar",
+                    "id": "curse.maven:worldedit:7.3.8",
                     "name": "WorldEdit",
                     "type": "ForgeMod",
                     "artifact": {
