@@ -383,7 +383,7 @@
                                         },
                                         {
                                             "id":  "curse.maven:owo-lib:0.12.15",
-                                            "name":  "oÃƒÆ’Ã†â€™Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â°o",
+                                            "name":  "oÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°o",
                                             "type":  "ForgeMod",
                                             "artifact":  {
                                                              "size":  1221583,
@@ -586,8 +586,8 @@
                                             "name":  "KubeJS Scripts",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  5591,
-                                                             "MD5":  "ffe45bb5df254bb5cfb78e7ba8c21b05",
+                                                             "size":  10999,
+                                                             "MD5":  "56db1579aca8720698204ed426160fbe",
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs.zip",
                                                              "path":  "kubejs/kubejs.zip"
                                                          }
@@ -597,8 +597,8 @@
                                             "name":  "Configs",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  290893,
-                                                             "MD5":  "bc5c0fc5ec089ddef42c73d542ae0781",
+                                                             "size":  558352,
+                                                             "MD5":  "d4191a6952c98a5baa8f65bddc7d99e2",
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/config.zip",
                                                              "path":  "config/config.zip"
                                                          }
