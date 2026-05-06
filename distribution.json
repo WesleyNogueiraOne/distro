@@ -625,16 +625,17 @@
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/journeymap-neoforge-1.21.1-6.0.0-beta.66.jar"
                                                          }
                                         },
-                                        {
-                                            "id":  "curse.maven:neoforge-installer:21.1.224",
-                                            "name":  "NeoForge Installer",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  6961132,
-                                                             "MD5":  "d222b3fde527d68c83c396ddb0d939ce",
-                                                             "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/neoforge-21.1.224-installer.jar"
-                                                         }
-                                        }
+                          {
+                            "id": "curse.maven:neoforge-installer:21.1.224",
+                            "name": "NeoForge Installer",
+                            "type": "File",
+                            "artifact": {
+                              "size": 6961132,
+                              "MD5": "d222b3fde527d68c83c396ddb0d939ce",
+                              "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/neoforge-21.1.224-installer.jar",
+                              "path": "files/neoforge-installer/21.1.224/neoforge-installer-21.1.224.jar"
+                            }
+                          }
                                     ]
                     }
                 ]
