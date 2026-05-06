@@ -575,16 +575,6 @@
                     }
                 },
               {
-                "id": "curse.maven:connector:2.0.0-beta.14-full",
-                "name": "Sinytra Connector",
-                "type": "ForgeMod",
-                "artifact": {
-                  "size": 4526785,
-                  "MD5": "06cf27c786fe30a539b5bd23e66b62c9",
-                  "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connector-2.0.0-beta.14%2B1.21.1-full.jar"
-                }
-              },
-              {
                 "id": "curse.maven:continuity:3.0.0",
                 "name": "Continuity",
                 "type": "ForgeMod",
