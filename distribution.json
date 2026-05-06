@@ -121,15 +121,7 @@
                         "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/arsenal-neoforge-1.4.2%2B1.21.1.jar"
                     }
                 },
-                {
-                    "id": "curse.maven:axiom:5.3.0",
-                    "name": "Axiom",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 44232996,
-                        "MD5": "74bc88e7859c8ecccc722683663d0ecd",
-                        "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Axiom-5.3.0-for-MC1.21.1.jar"
-                    }
+               
                 },
                 {
                     "id": "curse.maven:azurelibarmor:3.1.3",
@@ -191,26 +183,8 @@
                         "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cloth-config-15.0.140-neoforge.jar"
                     }
                 },
-                {
-                    "id": "curse.maven:connector:2.0.0-beta.14-full",
-                    "name": "Sinytra Connector",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 4526785,
-                        "MD5": "06cf27c786fe30a539b5bd23e66b62c9",
-                        "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connector-2.0.0-beta.14%2B1.21.1-full.jar"
-                    }
-                },
-                {
-                    "id": "curse.maven:continuity:3.0.0",
-                    "name": "Continuity",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1014626,
-                        "MD5": "06a2323e992834efcac3505e3ee57b15",
-                        "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/continuity-3.0.0%2B1.21.neoforge.jar"
-                    }
-                },
+                
+                
                 {
                     "id": "curse.maven:create:6.0.10",
                     "name": "Create",
