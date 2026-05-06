@@ -383,7 +383,7 @@
                                         },
                                         {
                                             "id":  "curse.maven:owo-lib:0.12.15",
-                                            "name":  "oÃâ€°o",
+                                            "name":  "oÃƒÂÃ¢â‚¬Â°o",
                                             "type":  "ForgeMod",
                                             "artifact":  {
                                                              "size":  1221583,
@@ -587,8 +587,8 @@
                                             "type":  "File",
                                             "path":  "kubejs",
                                             "artifact":  {
-                                                             "size":  1953,
-                                                             "MD5":  "224adf3830e37ffb2f9ca220cde4a959",
+                                                             "size":  4132,
+                                                             "MD5":  "851fd9fdc5ec0d4b1f81cb3bbadcf267",
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs.zip"
                                                          }
                                         },
@@ -598,8 +598,8 @@
                                             "type":  "File",
                                             "path":  "config",
                                             "artifact":  {
-                                                             "size":  90875,
-                                                             "MD5":  "70a50369536cd23515096832b53a4d09",
+                                                             "size":  191702,
+                                                             "MD5":  "55ff1c2b112b3acfee993336476263b3",
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/config.zip"
                                                          }
                                         },
