@@ -574,6 +574,36 @@
                         "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/wizards-neoforge-2.7.1%2B1.21.1.jar"
                     }
                 },
+              {
+                "id": "curse.maven:connector:2.0.0-beta.14-full",
+                "name": "Sinytra Connector",
+                "type": "ForgeMod",
+                "artifact": {
+                  "size": 4526785,
+                  "MD5": "",
+                  "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connector-2.0.0-beta.14%2B1.21.1-full.jar"
+                }
+              },
+              {
+                "id": "curse.maven:continuity:3.0.0",
+                "name": "Continuity",
+                "type": "ForgeMod",
+                "artifact": {
+                  "size": 1014626,
+                  "MD5": "",
+                  "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/continuity-3.0.0%2B1.21.neoforge.jar"
+                }
+              },
+              {
+                "id": "curse.maven:axiom:5.3.0",
+                "name": "Axiom",
+                "type": "ForgeMod",
+                "artifact": {
+                  "size": 44232996,
+                  "MD5": "",
+                  "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Axiom-5.3.0-for-MC1.21.1.jar"
+                }
+              },
                 {
                     "id": "curse.maven:worldedit:7.3.8",
                     "name": "WorldEdit",
