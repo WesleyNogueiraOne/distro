@@ -1,16 +1,26 @@
 {
     "version":  "1.0.0",
     "rss": "https://minecraft.net/en-us/articles/feed/json/4",
-  "journal": [
+  "news": [
     {
         "id": "1",
-        "title": "Bem-vindo ao HootRP",
-        "date": "2026-05-07",
-        "category": "Anúncio",
-        "content": "O servidor HootRP está oficialmente aberto!",
-        "author": "Staff HootRP",
-        "image": "https://i.imgur.com/miTLbeq.png",
-        "video": "https://www.youtube.com/embed/5NARjQQKgf4"
+        "title": "DevLog #1 — Primeiros Passos",
+        "date": "2026-05-08",
+        "category": "DevLog",
+        "content": "Olá aventureiros! Esta semana finalizamos a estrutura base do servidor. O sistema de classes RPG está em desenvolvimento, com 6 origens jogáveis previstas para o lançamento. O mapa de Notumbria já tem suas primeiras regiões construídas: a Cidade de Arenvhal, a Floresta de Mireth e as Ruínas do Antigo Reino. Fiquem ligados nas próximas atualizações!",
+        "author": "Wesley — Dev Principal",
+        "image": "https://i.imgur.com/SUAIMAGEM.png"
+    }
+],
+"journal": [
+    {
+        "id": "1",
+        "title": "A Queda das Estrelas Douradas",
+        "date": "2026-05-08",
+        "category": "Lore",
+        "content": "Dizem os anciãos de Notumbria que há mil anos, quando os deuses ainda caminhavam entre os mortais, uma chuva de estrelas douradas caiu sobre as Planícies de Avel. Cada estrela que tocou o solo floresceu em um cristal de poder imenso — os chamados Fragmentos da Aurora. Guerreiros, magos e ladrões de toda a terra partiram em busca dessas relíquias. Poucos retornaram. Os que voltaram jamais falaram do que viram. Até hoje, os fragmentos permanecem escondidos, esperando por aqueles dignos o suficiente para carregá-los.",
+        "author": "Cronista Real de Arenvhal",
+        "image": "https://i.imgur.com/SUAIMAGEM.png"
     }
 ],
     "discord":  {
