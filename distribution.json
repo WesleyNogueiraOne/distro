@@ -3,14 +3,16 @@
     "rss": "https://minecraft.net/en-us/articles/feed/json/4",
   "journal": [
     {
-      "id": "1",
-      "title": "Bem-vindo ao HootRP",
-      "date": "2026-05-07",
-      "category": "Anúncio",
-      "content": "O servidor HootRP está oficialmente aberto! Explore o mundo de Notumbria, uma terra repleta de magia, mistério e aventura. Junte-se a nós e escreva sua história.",
-      "author": "Staff HootRP"
+        "id": "1",
+        "title": "Bem-vindo ao HootRP",
+        "date": "2026-05-07",
+        "category": "Anúncio",
+        "content": "O servidor HootRP está oficialmente aberto!",
+        "author": "Staff HootRP",
+        "image": "https://i.imgur.com/suaimagem.png",
+        "video": "https://www.youtube.com/embed/SEU_VIDEO_ID"
     }
-  ],
+],
     "discord":  {
                     "clientId":  "12345678901234567"
                 },
