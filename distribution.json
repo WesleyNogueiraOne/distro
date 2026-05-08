@@ -270,16 +270,6 @@
                                                          }
                                         },
                                         {
-                                            "id":  "curse.maven:distanthorizons:3.0.3",
-                                            "name":  "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  30113661,
-                                                             "MD5":  "361d0ee31a685a290d8bf1a4d418bf74",
-                                                             "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar"
-                                                         }
-                                        },
-                                        {
                                             "id":  "curse.maven:extraspellattributes-neoforge:1.5.0",
                                             "name":  "extraspellattributes-neoforge-1.5.0+1.21.1",
                                             "type":  "ForgeMod",
