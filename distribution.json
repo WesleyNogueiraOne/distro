@@ -370,16 +370,6 @@
                                                          }
                                         },
                                         {
-                                            "id":  "curse.maven:journeymap-neoforge:1.21.1",
-                                            "name":  "journeymap-neoforge-1.21.1-6.0.0-beta.66",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  3666530,
-                                                             "MD5":  "6020504261aaa08ad6a018031c1f297e",
-                                                             "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/journeymap-neoforge-1.21.1-6.0.0-beta.66.jar"
-                                                         }
-                                        },
-                                        {
                                             "id":  "curse.maven:kubejs-create-neoforge:2101.3.1",
                                             "name":  "kubejs-create-neoforge-2101.3.1-build.18",
                                             "type":  "ForgeMod",
