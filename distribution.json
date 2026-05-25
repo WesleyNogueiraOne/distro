@@ -54,6 +54,17 @@
                               "path": "files/neoforge-installer/21.1.224/neoforge-installer-21.1.224.jar"
                             }
                           },
+                          {
+                            "id": "net.neoforged:neoforge:21.1.224",
+                            "name": "NeoForge",
+                            "type": "NeoForge",
+                            "artifact": {
+                              "size": 6961132,
+                              "MD5": "d222b3fde527d68c83c396ddb0d939ce",
+                              "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.224/neoforge-21.1.224-installer.jar",
+                              "path": "files/neoforge-installer/21.1.224/neoforge-installer-21.1.224.jar"
+                            }
+                          },
                                         {
                                             "id":  "curse.maven:kubejs-pack:1.0.0",
                                             "name":  "KubeJS Scripts",
