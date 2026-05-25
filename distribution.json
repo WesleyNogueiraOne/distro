@@ -241,16 +241,7 @@
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cloth-config-15.0.140-neoforge.jar"
                                                          }
                                         },
-                                        {
-                                            "id":  "curse.maven:continuity:3.0.0",
-                                            "name":  "continuity-3.0.0+1.21.neoforge",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  1014626,
-                                                             "MD5":  "06a2323e992834efcac3505e3ee57b15",
-                                                             "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/continuity-3.0.0%2B1.21.neoforge.jar"
-                                                         }
-                                        },
+                                        
                                         {
                                             "id":  "curse.maven:create:1.21.1",
                                             "name":  "create-1.21.1-6.0.9",
