@@ -4,11 +4,11 @@
     "news":  [
                  {
                      "id":  "1",
-                     "title":  "DevLog #1 â€” Primeiros Passos",
+                     "title":  "DevLog #1 Ã¢â‚¬â€ Primeiros Passos",
                      "date":  "2026-05-08",
                      "category":  "DevLog",
-                     "content":  "OlÃ¡ aventureiros! Esta semana finalizamos a estrutura base do servidor. O sistema de classes RPG estÃ¡ em desenvolvimento, com 6 origens jogÃ¡veis previstas para o lanÃ§amento. O mapa de Notumbria jÃ¡ tem suas primeiras regiÃµes construÃ­das: a Cidade de Arenvhal, a Floresta de Mireth e as RuÃ­nas do Antigo Reino. Fiquem ligados nas prÃ³ximas atualizaÃ§Ãµes!",
-                     "author":  "Wesley â€” Dev Principal",
+                     "content":  "OlÃƒÂ¡ aventureiros! Esta semana finalizamos a estrutura base do servidor. O sistema de classes RPG estÃƒÂ¡ em desenvolvimento, com 6 origens jogÃƒÂ¡veis previstas para o lanÃƒÂ§amento. O mapa de Notumbria jÃƒÂ¡ tem suas primeiras regiÃƒÂµes construÃƒÂ­das: a Cidade de Arenvhal, a Floresta de Mireth e as RuÃƒÂ­nas do Antigo Reino. Fiquem ligados nas prÃƒÂ³ximas atualizaÃƒÂ§ÃƒÂµes!",
+                     "author":  "Wesley Ã¢â‚¬â€ Dev Principal",
                      "image":  "https://i.pinimg.com/1200x/30/48/13/304813b44111c19602fd9152d1679ea9.jpg"
                  }
              ],
@@ -18,7 +18,7 @@
                         "title":  "A Queda das Estrelas Douradas",
                         "date":  "2026-05-08",
                         "category":  "Lore",
-                        "content":  "Dizem os anciÃ£os de Notumbria que hÃ¡ mil anos, quando os deuses ainda caminhavam entre os mortais, uma chuva de estrelas douradas caiu sobre as PlanÃ­cies de Avel. Cada estrela que tocou o solo floresceu em um cristal de poder imenso â€” os chamados Fragmentos da Aurora. Guerreiros, magos e ladrÃµes de toda a terra partiram em busca dessas relÃ­quias. Poucos retornaram. Os que voltaram jamais falaram do que viram. AtÃ© hoje, os fragmentos permanecem escondidos, esperando por aqueles dignos o suficiente para carregÃ¡-los.",
+                        "content":  "Dizem os anciÃƒÂ£os de Notumbria que hÃƒÂ¡ mil anos, quando os deuses ainda caminhavam entre os mortais, uma chuva de estrelas douradas caiu sobre as PlanÃƒÂ­cies de Avel. Cada estrela que tocou o solo floresceu em um cristal de poder imenso Ã¢â‚¬â€ os chamados Fragmentos da Aurora. Guerreiros, magos e ladrÃƒÂµes de toda a terra partiram em busca dessas relÃƒÂ­quias. Poucos retornaram. Os que voltaram jamais falaram do que viram. AtÃƒÂ© hoje, os fragmentos permanecem escondidos, esperando por aqueles dignos o suficiente para carregÃƒÂ¡-los.",
                         "author":  "Cronista Real de Arenvhal",
                         "image":  "https://i.pinimg.com/736x/46/0e/ad/460eada6c67753772269de177a0bd53c.jpg"
                     }
@@ -239,7 +239,6 @@
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cloth-config-15.0.140-neoforge.jar"
                                                          }
                                         },
-                                        
                                         {
                                             "id":  "curse.maven:create:1.21.1",
                                             "name":  "create-1.21.1-6.0.9",
@@ -588,16 +587,6 @@
                                                              "size":  6222854,
                                                              "MD5":  "f5d6f09ca5c4b1958780d01a099b779d",
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/worldedit-mod-7.3.8.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "curse.maven:elytratrails-neoforged:1.0.0",
-                                            "name":  "Elytra Trails",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  304612,
-                                                             "MD5":  "2dfee3fbce883686fc8c085060a815bb",
-                                                             "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/elytratrails-neoforged-1.0.0.jar"
                                                          }
                                         }
                                     ]
