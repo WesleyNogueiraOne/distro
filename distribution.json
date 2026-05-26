@@ -4,11 +4,11 @@
     "news":  [
                  {
                      "id":  "1",
-                     "title":  "DevLog #1 Ã¢â‚¬â€ Primeiros Passos",
+                     "title":  "DevLog #1 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Primeiros Passos",
                      "date":  "2026-05-08",
                      "category":  "DevLog",
-                     "content":  "OlÃƒÂ¡ aventureiros! Esta semana finalizamos a estrutura base do servidor. O sistema de classes RPG estÃƒÂ¡ em desenvolvimento, com 6 origens jogÃƒÂ¡veis previstas para o lanÃƒÂ§amento. O mapa de Notumbria jÃƒÂ¡ tem suas primeiras regiÃƒÂµes construÃƒÂ­das: a Cidade de Arenvhal, a Floresta de Mireth e as RuÃƒÂ­nas do Antigo Reino. Fiquem ligados nas prÃƒÂ³ximas atualizaÃƒÂ§ÃƒÂµes!",
-                     "author":  "Wesley Ã¢â‚¬â€ Dev Principal",
+                     "content":  "OlÃƒÆ’Ã‚Â¡ aventureiros! Esta semana finalizamos a estrutura base do servidor. O sistema de classes RPG estÃƒÆ’Ã‚Â¡ em desenvolvimento, com 6 origens jogÃƒÆ’Ã‚Â¡veis previstas para o lanÃƒÆ’Ã‚Â§amento. O mapa de Notumbria jÃƒÆ’Ã‚Â¡ tem suas primeiras regiÃƒÆ’Ã‚Âµes construÃƒÆ’Ã‚Â­das: a Cidade de Arenvhal, a Floresta de Mireth e as RuÃƒÆ’Ã‚Â­nas do Antigo Reino. Fiquem ligados nas prÃƒÆ’Ã‚Â³ximas atualizaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes!",
+                     "author":  "Wesley ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Dev Principal",
                      "image":  "https://i.pinimg.com/1200x/30/48/13/304813b44111c19602fd9152d1679ea9.jpg"
                  }
              ],
@@ -18,7 +18,7 @@
                         "title":  "A Queda das Estrelas Douradas",
                         "date":  "2026-05-08",
                         "category":  "Lore",
-                        "content":  "Dizem os anciÃƒÂ£os de Notumbria que hÃƒÂ¡ mil anos, quando os deuses ainda caminhavam entre os mortais, uma chuva de estrelas douradas caiu sobre as PlanÃƒÂ­cies de Avel. Cada estrela que tocou o solo floresceu em um cristal de poder imenso Ã¢â‚¬â€ os chamados Fragmentos da Aurora. Guerreiros, magos e ladrÃƒÂµes de toda a terra partiram em busca dessas relÃƒÂ­quias. Poucos retornaram. Os que voltaram jamais falaram do que viram. AtÃƒÂ© hoje, os fragmentos permanecem escondidos, esperando por aqueles dignos o suficiente para carregÃƒÂ¡-los.",
+                        "content":  "Dizem os anciÃƒÆ’Ã‚Â£os de Notumbria que hÃƒÆ’Ã‚Â¡ mil anos, quando os deuses ainda caminhavam entre os mortais, uma chuva de estrelas douradas caiu sobre as PlanÃƒÆ’Ã‚Â­cies de Avel. Cada estrela que tocou o solo floresceu em um cristal de poder imenso ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â os chamados Fragmentos da Aurora. Guerreiros, magos e ladrÃƒÆ’Ã‚Âµes de toda a terra partiram em busca dessas relÃƒÆ’Ã‚Â­quias. Poucos retornaram. Os que voltaram jamais falaram do que viram. AtÃƒÆ’Ã‚Â© hoje, os fragmentos permanecem escondidos, esperando por aqueles dignos o suficiente para carregÃƒÆ’Ã‚Â¡-los.",
                         "author":  "Cronista Real de Arenvhal",
                         "image":  "https://i.pinimg.com/736x/46/0e/ad/460eada6c67753772269de177a0bd53c.jpg"
                     }
@@ -587,6 +587,16 @@
                                                              "size":  6222854,
                                                              "MD5":  "f5d6f09ca5c4b1958780d01a099b779d",
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/worldedit-mod-7.3.8.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "curse.maven:time-stop:1.1.2",
+                                            "name":  "Time Stop",
+                                            "type":  "ForgeMod",
+                                            "artifact":  {
+                                                             "size":  308531,
+                                                             "MD5":  "4df5ec305c2fa3a8813d92d2be102192",
+                                                             "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/time_stop-1.1.2-neoforge-1.21.1.jar"
                                                          }
                                         }
                                     ]
