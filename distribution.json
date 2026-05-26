@@ -1,28 +1,28 @@
 {
     "version":  "1.0.0",
     "rss":  "https://minecraft.net/en-us/articles/feed/json/4",
-    "news": [
-    {
-        "id": "1",
-        "title": "DevLog #1 — Primeiros Passos",
-        "date": "2026-05-08",
-        "category": "DevLog",
-        "content": "Olá aventureiros! Esta semana finalizamos a estrutura base do servidor. O sistema de classes RPG está em desenvolvimento, com 6 origens jogáveis previstas para o lançamento. O mapa de Notumbria já tem suas primeiras regiões construídas: a Cidade de Arenvhal, a Floresta de Mireth e as Ruínas do Antigo Reino. Fiquem ligados nas próximas atualizações!",
-        "author": "Wesley — Dev Principal",
-        "image": "https://i.pinimg.com/1200x/30/48/13/304813b44111c19602fd9152d1679ea9.jpg"
-    }
-],
-"journal": [
-    {
-        "id": "1",
-        "title": "A Queda das Estrelas Douradas",
-        "date": "2026-05-08",
-        "category": "Lore",
-        "content": "Dizem os anciãos de Notumbria que há mil anos, quando os deuses ainda caminhavam entre os mortais, uma chuva de estrelas douradas caiu sobre as Planícies de Avel. Cada estrela que tocou o solo floresceu em um cristal de poder imenso — os chamados Fragmentos da Aurora. Guerreiros, magos e ladrões de toda a terra partiram em busca dessas relíquias. Poucos retornaram. Os que voltaram jamais falaram do que viram. Até hoje, os fragmentos permanecem escondidos, esperando por aqueles dignos o suficiente para carregá-los.",
-        "author": "Cronista Real de Arenvhal",
-        "image": "https://i.pinimg.com/736x/46/0e/ad/460eada6c67753772269de177a0bd53c.jpg"
-    }
-],
+    "news":  [
+                 {
+                     "id":  "1",
+                     "title":  "DevLog #1 â€” Primeiros Passos",
+                     "date":  "2026-05-08",
+                     "category":  "DevLog",
+                     "content":  "OlÃ¡ aventureiros! Esta semana finalizamos a estrutura base do servidor. O sistema de classes RPG estÃ¡ em desenvolvimento, com 6 origens jogÃ¡veis previstas para o lanÃ§amento. O mapa de Notumbria jÃ¡ tem suas primeiras regiÃµes construÃ­das: a Cidade de Arenvhal, a Floresta de Mireth e as RuÃ­nas do Antigo Reino. Fiquem ligados nas prÃ³ximas atualizaÃ§Ãµes!",
+                     "author":  "Wesley â€” Dev Principal",
+                     "image":  "https://i.pinimg.com/1200x/30/48/13/304813b44111c19602fd9152d1679ea9.jpg"
+                 }
+             ],
+    "journal":  [
+                    {
+                        "id":  "1",
+                        "title":  "A Queda das Estrelas Douradas",
+                        "date":  "2026-05-08",
+                        "category":  "Lore",
+                        "content":  "Dizem os anciÃ£os de Notumbria que hÃ¡ mil anos, quando os deuses ainda caminhavam entre os mortais, uma chuva de estrelas douradas caiu sobre as PlanÃ­cies de Avel. Cada estrela que tocou o solo floresceu em um cristal de poder imenso â€” os chamados Fragmentos da Aurora. Guerreiros, magos e ladrÃµes de toda a terra partiram em busca dessas relÃ­quias. Poucos retornaram. Os que voltaram jamais falaram do que viram. AtÃ© hoje, os fragmentos permanecem escondidos, esperando por aqueles dignos o suficiente para carregÃ¡-los.",
+                        "author":  "Cronista Real de Arenvhal",
+                        "image":  "https://i.pinimg.com/736x/46/0e/ad/460eada6c67753772269de177a0bd53c.jpg"
+                    }
+                ],
     "discord":  {
                     "clientId":  "12345678901234567"
                 },
@@ -43,28 +43,28 @@
                         "mainServer":  true,
                         "autoconnect":  false,
                         "modules":  [
-                          {
-                            "id": "curse.maven:neoforge-installer:21.1.224",
-                            "name": "NeoForge Installer",
-                            "type": "File",
-                            "artifact": {
-                              "size": 6961132,
-                              "MD5": "d222b3fde527d68c83c396ddb0d939ce",
-                              "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.224/neoforge-21.1.224-installer.jar",
-                              "path": "files/neoforge-installer/21.1.224/neoforge-installer-21.1.224.jar"
-                            }
-                          },
-                          {
-                            "id": "net.neoforged:neoforge:21.1.224",
-                            "name": "NeoForge",
-                            "type": "NeoForge",
-                            "artifact": {
-                              "size": 6961132,
-                              "MD5": "d222b3fde527d68c83c396ddb0d939ce",
-                              "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.224/neoforge-21.1.224-installer.jar",
-                              "path": "files/neoforge-installer/21.1.224/neoforge-installer-21.1.224.jar"
-                            }
-                          },
+                                        {
+                                            "id":  "curse.maven:neoforge-installer:21.1.224",
+                                            "name":  "NeoForge Installer",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  6961132,
+                                                             "MD5":  "d222b3fde527d68c83c396ddb0d939ce",
+                                                             "url":  "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.224/neoforge-21.1.224-installer.jar",
+                                                             "path":  "files/neoforge-installer/21.1.224/neoforge-installer-21.1.224.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "net.neoforged:neoforge:21.1.224",
+                                            "name":  "NeoForge",
+                                            "type":  "NeoForge",
+                                            "artifact":  {
+                                                             "size":  6961132,
+                                                             "MD5":  "d222b3fde527d68c83c396ddb0d939ce",
+                                                             "url":  "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.224/neoforge-21.1.224-installer.jar",
+                                                             "path":  "files/neoforge-installer/21.1.224/neoforge-installer-21.1.224.jar"
+                                                         }
+                                        },
                                         {
                                             "id":  "curse.maven:kubejs-pack:1.0.0",
                                             "name":  "KubeJS Scripts",
@@ -89,7 +89,6 @@
                                                              "path":  "files/config-pack/1.0.0/config-pack-1.0.0.zip"
                                                          }
                                         },
-                                        
                                         {
                                             "id":  "curse.maven:accessories-neoforge:1.1.0",
                                             "name":  "accessories-neoforge-1.1.0-beta.53+1.21.1",
@@ -170,7 +169,6 @@
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/arsenal-neoforge-1.4.2%2B1.21.1.jar"
                                                          }
                                         },
-                                        
                                         {
                                             "id":  "curse.maven:azurelibarmor-neo:1.21.1",
                                             "name":  "azurelibarmor-neo-1.21.1-3.1.3",
@@ -590,6 +588,16 @@
                                                              "size":  6222854,
                                                              "MD5":  "f5d6f09ca5c4b1958780d01a099b779d",
                                                              "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/worldedit-mod-7.3.8.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "curse.maven:elytratrails-neoforged:1.0.0",
+                                            "name":  "Elytra Trails",
+                                            "type":  "ForgeMod",
+                                            "artifact":  {
+                                                             "size":  304612,
+                                                             "MD5":  "2dfee3fbce883686fc8c085060a815bb",
+                                                             "url":  "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/elytratrails-neoforged-1.0.0.jar"
                                                          }
                                         }
                                     ]
