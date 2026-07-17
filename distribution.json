@@ -510,6 +510,16 @@
           }
         },
         {
+          "id": "curse.maven:root-skills:1.0.0",
+          "name": "root_skills-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 261018,
+            "MD5": "564a842be2a97d6a3b9a23b2edafac42",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_skills-1.0.0.jar"
+          }
+        },
+        {
           "id": "curse.maven:runes-neoforge:1.2.1",
           "name": "runes-neoforge-1.2.1+1.21.1",
           "type": "ForgeMod",
