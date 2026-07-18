@@ -1,17 +1,7 @@
 {
   "version": "1.0.0",
   "rss": "https://minecraft.net/en-us/articles/feed/json/4",
-  "news": [
-    {
-      "id": "1",
-      "title": "DevLog #1 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Primeiros Passos",
-      "date": "2026-05-08",
-      "category": "DevLog",
-      "content": "OlÃƒÆ’Ã‚Â¡ aventureiros! Esta semana finalizamos a estrutura base do servidor. O sistema de classes RPG estÃƒÆ’Ã‚Â¡ em desenvolvimento, com 6 origens jogÃƒÆ’Ã‚Â¡veis previstas para o lanÃƒÆ’Ã‚Â§amento. O mapa de Notumbria jÃƒÆ’Ã‚Â¡ tem suas primeiras regiÃƒÆ’Ã‚Âµes construÃƒÆ’Ã‚Â­das: a Cidade de Arenvhal, a Floresta de Mireth e as RuÃƒÆ’Ã‚Â­nas do Antigo Reino. Fiquem ligados nas prÃƒÆ’Ã‚Â³ximas atualizaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes!",
-      "author": "Wesley ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Dev Principal",
-      "image": "https://i.pinimg.com/1200x/30/48/13/304813b44111c19602fd9152d1679ea9.jpg"
-    }
-  ],
+  "news": [],
   "journal": [
     {
       "id": "1",
