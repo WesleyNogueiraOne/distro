@@ -1,7 +1,16 @@
 {
   "version": "1.0.0",
   "rss": "https://minecraft.net/en-us/articles/feed/json/4",
-  "news": [],
+  "news": [
+    {
+      "id": "1",
+      "title": "A VOLTA DOS QUE NÃO FORAM",
+      "date": "2026-07-18",
+      "category": "Lore",
+      "content": "Eu não sei se foram ou se vão porque eles nao comentam nada comigo, por que sou criança e fala que isso é coisa de adulto, no entanto eu vi o arrombado do meu primo mais novo do que eu escutando... e dando pitaco affs juro.\nAte quando essa injustiça rsrs!!",
+      "author": "Paulo Tema"
+    }
+  ],
   "journal": [
     {
       "id": "1",
