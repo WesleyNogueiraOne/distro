@@ -28,7 +28,7 @@
   "servers": [
     {
       "id": "MeuServidor",
-      "name": "Meu Servidor",
+      "name": "Root RP",
       "description": "Modpack NeoForge 1.21.1",
       "icon": "icon.png",
       "version": "1.0.0",
@@ -296,6 +296,16 @@
             "size": 1041541,
             "MD5": "0c784250ae3dbfddf57c247a4fad3b38",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/displaydelight-1.5.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:dj-praevi:1.0.0",
+          "name": "dj_praevi-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 172247,
+            "MD5": "2a82e840925d26dcc5375ca0c4fb9b2d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dj_praevi-1.0.0.jar"
           }
         },
         {
