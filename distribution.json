@@ -299,16 +299,6 @@
           }
         },
         {
-          "id": "curse.maven:dj-praevi:1.0.0",
-          "name": "dj_praevi-1.0.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 173024,
-            "MD5": "1fae44983fb1ee48bbc00b5d575a8e1c",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dj_praevi-1.0.0.jar"
-          }
-        },
-        {
           "id": "curse.maven:dragonscale-nf:0.0.2",
           "name": "dragonscale-nf-0.0.2-1.21.1",
           "type": "ForgeMod",
