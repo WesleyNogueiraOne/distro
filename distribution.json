@@ -429,6 +429,16 @@
           }
         },
         {
+          "id": "curse.maven:expandability:12.0.0",
+          "name": "expandability-12.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 44765,
+            "MD5": "4a68d349424c2235201afe62208a05e0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/expandability-12.0.0.jar"
+          }
+        },
+        {
           "id": "curse.maven:fancymenu-neoforge:3.9.8",
           "name": "fancymenu_neoforge_3.9.8_MC_1.21.1",
           "type": "ForgeMod",
