@@ -139,6 +139,16 @@
           }
         },
         {
+          "id": "curse.maven:azurelib-neo:3.1.11",
+          "name": "azurelib-neo-1.21.1-3.1.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 877948,
+            "MD5": "4fbf4fc81f71cf544674dbce5a65ce08",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/azurelib-neo-1.21.1-3.1.11.jar"
+          }
+        },
+        {
           "id": "curse.maven:backport-neogorge:2.1.0",
           "name": "backport_neogorge-2.1.0-neoforge-1.21.1",
           "type": "ForgeMod",
