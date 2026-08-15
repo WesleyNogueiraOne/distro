@@ -219,6 +219,16 @@
           }
         },
         {
+          "id": "curse.maven:connectivity:7.6",
+          "name": "connectivity-1.21.1-7.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 114165,
+            "MD5": "f2d38f850688eefa338b807801df2b4b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connectivity-1.21.1-7.6.jar"
+          }
+        },
+        {
           "id": "curse.maven:copycats:3.0.4",
           "name": "copycats-3.0.4+mc.1.21.1-neoforge",
           "type": "ForgeMod",
