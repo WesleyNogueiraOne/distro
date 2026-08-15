@@ -89,6 +89,16 @@
           }
         },
         {
+          "id": "curse.maven:aces-spell-utils:1.2.7",
+          "name": "aces_spell_utils-1.2.7.1-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 244529,
+            "MD5": "d4569545f1c87a192c657fb0b99fc11f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/aces_spell_utils-1.2.7.1-1.21.1.jar"
+          }
+        },
+        {
           "id": "curse.maven:almanac:1.5.2",
           "name": "Almanac-1.21.1-2-neoforge-1.5.2",
           "type": "ForgeMod",
