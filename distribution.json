@@ -109,6 +109,16 @@
           }
         },
         {
+          "id": "curse.maven:asterismarcanum:0.1.0",
+          "name": "asterismarcanum-1.21.1-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 987245,
+            "MD5": "0cc4cb562892449555ec0dd77bb3f795",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/asterismarcanum-1.21.1-0.1.0.jar"
+          }
+        },
+        {
           "id": "curse.maven:auroras:1.6.2",
           "name": "Auroras-1.21-1.6.2",
           "type": "ForgeMod",
