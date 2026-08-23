@@ -349,6 +349,16 @@
           }
         },
         {
+          "id": "curse.maven:dj-praevi:1.0.0",
+          "name": "dj_praevi-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 224770,
+            "MD5": "ed5ab8912f1b89246b099abc58e78e44",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dj_praevi-1.0.0.jar"
+          }
+        },
+        {
           "id": "curse.maven:drippyloadingscreen-neoforge:3.1.2",
           "name": "drippyloadingscreen_neoforge_3.1.2_MC_1.21.1",
           "type": "ForgeMod",
