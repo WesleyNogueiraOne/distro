@@ -859,16 +859,6 @@
           }
         },
         {
-          "id": "curse.maven:root-skills:1.0.0",
-          "name": "root_skills-1.0.0 (1)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 853195,
-            "MD5": "39671f97b9b00a4a633981ad1c770d02",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_skills-1.0.0%20(1).jar"
-          }
-        },
-        {
           "id": "curse.maven:sereneseasons-neoforge:10.1.0",
           "name": "SereneSeasons-neoforge-1.21.1-10.1.0.3",
           "type": "ForgeMod",
