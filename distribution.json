@@ -1260,7 +1260,8 @@
             "size": 4527066,
             "MD5": "b2129fe4eb40ebbef0e56e02b3ab53b1",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connector-2.0.0-beta.15%2B1.21.1-full.jar"
-          }
+          },
+          "placeInMods": true
         },
         {
           "id": "rootrp:copycats:3.0.4+mc.1.21.1-neoforge",
@@ -2187,16 +2188,6 @@
           }
         },
         {
-          "id": "curse.maven:connectivity:7.6",
-          "name": "connectivity-1.21.1-7.6",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 114165,
-            "MD5": "f2d38f850688eefa338b807801df2b4b",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connectivity-1.21.1-7.6.jar"
-          }
-        },
-        {
           "id": "rootrp:connector:2.0.0",
           "name": "connector-2.0.0-beta.15+1.21.1-full",
           "type": "ForgeMod",
@@ -2204,7 +2195,8 @@
             "size": 4527066,
             "MD5": "b2129fe4eb40ebbef0e56e02b3ab53b1",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connector-2.0.0-beta.15%2B1.21.1-full.jar"
-          }
+          },
+          "placeInMods": true
         },
         {
           "id": "rootrp:copycats:3.0.4+mc.1.21.1-neoforge",
