@@ -899,6 +899,26 @@
           }
         },
         {
+          "id": "rootrp:root_origins:0.1.0",
+          "name": "root_origins-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6259367,
+            "MD5": "41d3fe6e613e1b92ad2dceba071e00f8",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_origins-0.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:root_skills:1.0.0",
+          "name": "root_skills-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1341921,
+            "MD5": "d699f8d30086e64a932a2096f0d5aea2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_skills-1.0.0.jar"
+          }
+        },
+        {
           "id": "rootrp:scalablelux:0.1.0.1+neoforge.1cb1e91",
           "name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all",
           "type": "ForgeMod",
@@ -1914,6 +1934,26 @@
           }
         },
         {
+          "id": "rootrp:root_origins:0.1.0",
+          "name": "root_origins-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6259367,
+            "MD5": "41d3fe6e613e1b92ad2dceba071e00f8",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_origins-0.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:root_skills:1.0.0",
+          "name": "root_skills-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1341921,
+            "MD5": "d699f8d30086e64a932a2096f0d5aea2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_skills-1.0.0.jar"
+          }
+        },
+        {
           "id": "rootrp:scalablelux:0.1.0.1+neoforge.1cb1e91",
           "name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all",
           "type": "ForgeMod",
@@ -2586,6 +2626,26 @@
             "size": 882075,
             "MD5": "f5df23fab1aef88b69f67776e0f79904",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rhino-2101.2.7-build.85.jar"
+          }
+        },
+        {
+          "id": "rootrp:root_origins:0.1.0",
+          "name": "root_origins-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6259367,
+            "MD5": "41d3fe6e613e1b92ad2dceba071e00f8",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_origins-0.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:root_skills:1.0.0",
+          "name": "root_skills-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1341921,
+            "MD5": "d699f8d30086e64a932a2096f0d5aea2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_skills-1.0.0.jar"
           }
         },
         {
