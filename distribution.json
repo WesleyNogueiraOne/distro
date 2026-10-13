@@ -439,6 +439,16 @@
           }
         },
         {
+          "id": "rootrp:entitydatafix:1.0.0",
+          "name": "entitydatafix-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7046,
+            "MD5": "49fd7bfd4dc9332693a8f8973e4e88d2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entitydatafix-1.0.0.jar"
+          }
+        },
+        {
           "id": "curse.maven:fancymenu-neoforge:3.9.8",
           "name": "fancymenu_neoforge_3.9.8_MC_1.21.1",
           "type": "ForgeMod",
@@ -1494,6 +1504,16 @@
           }
         },
         {
+          "id": "rootrp:entitydatafix:1.0.0",
+          "name": "entitydatafix-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7046,
+            "MD5": "49fd7bfd4dc9332693a8f8973e4e88d2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entitydatafix-1.0.0.jar"
+          }
+        },
+        {
           "id": "curse.maven:fancymenu-neoforge:3.9.8",
           "name": "fancymenu_neoforge_3.9.8_MC_1.21.1",
           "type": "ForgeMod",
@@ -2436,6 +2456,16 @@
             "size": 861829,
             "MD5": "c4840725c74865e2ba95807396c66a4f",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:entitydatafix:1.0.0",
+          "name": "entitydatafix-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7046,
+            "MD5": "49fd7bfd4dc9332693a8f8973e4e88d2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entitydatafix-1.0.0.jar"
           }
         },
         {
