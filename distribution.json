@@ -389,6 +389,16 @@
           }
         },
         {
+          "id": "rootrp:dj_praevi:1.0.0",
+          "name": "dj_praevi-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 368529,
+            "MD5": "a088988c800929f4f65fc559b86718ba",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dj_praevi-1.0.0.jar"
+          }
+        },
+        {
           "id": "curse.maven:drippyloadingscreen-neoforge:3.1.2",
           "name": "drippyloadingscreen_neoforge_3.1.2_MC_1.21.1",
           "type": "ForgeMod",
@@ -1414,6 +1424,16 @@
           }
         },
         {
+          "id": "rootrp:dj_praevi:1.0.0",
+          "name": "dj_praevi-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 368529,
+            "MD5": "a088988c800929f4f65fc559b86718ba",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dj_praevi-1.0.0.jar"
+          }
+        },
+        {
           "id": "curse.maven:drippyloadingscreen-neoforge:3.1.2",
           "name": "drippyloadingscreen_neoforge_3.1.2_MC_1.21.1",
           "type": "ForgeMod",
@@ -2356,6 +2376,16 @@
             "size": 30207268,
             "MD5": "8925d0f3c3be448e895dcab6a64de0e6",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:dj_praevi:1.0.0",
+          "name": "dj_praevi-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 368529,
+            "MD5": "a088988c800929f4f65fc559b86718ba",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dj_praevi-1.0.0.jar"
           }
         },
         {
