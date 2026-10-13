@@ -1,0 +1,27 @@
+{
+  "profiles": [
+    {
+      "id": "MeuServidor",
+      "name": "Root RP",
+      "description": "Modpack oficial do Root RP",
+      "folder": "mods",
+      "main": true
+    },
+    {
+      "id": "RootStaff",
+      "name": "Root RP · Staff",
+      "description": "Versão da staff",
+      "folder": "mods-staff",
+      "extends": "MeuServidor",
+      "exclude": []
+    },
+    {
+      "id": "RootGravacao",
+      "name": "Root RP · Gravação",
+      "description": "Versão do time de marketing",
+      "folder": "mods-gravacao",
+      "extends": "MeuServidor",
+      "exclude": []
+    }
+  ]
+}
