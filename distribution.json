@@ -72,8 +72,8 @@
           "type": "File",
           "extractTo": "config",
           "artifact": {
-            "size": 825533,
-            "MD5": "b20212719690422511a448a9613a0a6f",
+            "size": 386545,
+            "MD5": "9560b0a0e28b9dc50471385e561f7efe",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/config.zip",
             "path": "files/config-pack/1.0.0/config-pack-1.0.0.zip"
           }
@@ -1116,8 +1116,8 @@
           "type": "File",
           "extractTo": "config",
           "artifact": {
-            "size": 825533,
-            "MD5": "b20212719690422511a448a9613a0a6f",
+            "size": 386545,
+            "MD5": "9560b0a0e28b9dc50471385e561f7efe",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/config.zip",
             "path": "files/config-pack/1.0.0/config-pack-1.0.0.zip"
           }
@@ -2191,8 +2191,8 @@
           "type": "File",
           "extractTo": "config",
           "artifact": {
-            "size": 825533,
-            "MD5": "b20212719690422511a448a9613a0a6f",
+            "size": 386545,
+            "MD5": "9560b0a0e28b9dc50471385e561f7efe",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/config.zip",
             "path": "files/config-pack/1.0.0/config-pack-1.0.0.zip"
           }
