@@ -2449,6 +2449,16 @@
           }
         },
         {
+          "id": "rootrp:fix_flashback:1.0.3",
+          "name": "fix_flashback-1.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 45123,
+            "MD5": "a9709d13fe6da19bf612b62fb22f6ee0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/fix_flashback-1.0.3.jar"
+          }
+        },
+        {
           "id": "rootrp:flashback_neoforge_fixed:1.0.9",
           "name": "flashback_neoforge_fixed-1.0.9",
           "type": "ForgeMod",
