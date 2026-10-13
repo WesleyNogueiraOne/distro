@@ -1,7 +1,16 @@
 {
   "version": "1.0.0",
   "rss": "https://minecraft.net/en-us/articles/feed/json/4",
-  "news": [],
+  "news": [
+    {
+      "id": "1",
+      "title": "Algo está rodando fora do servidor",
+      "date": "2026-10-13",
+      "category": "Geral",
+      "content": "O launcher do dia do lançamento é nosso, feito do zero.\n\nPerfis separados por conta.\nReinstalação automática de mod quebrado.\nAtualização aplicada antes do play.\nEntrada direta no servidor.\nVerificação de arquivos a cada abertura.\nInterface própria, só pra Root.\n\nO resto fica pra depois.",
+      "author": "RAMO 1147-N · FICHA 62"
+    }
+  ],
   "journal": [],
   "discord": {
     "clientId": ""
