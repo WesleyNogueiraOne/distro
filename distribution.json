@@ -439,26 +439,6 @@
           }
         },
         {
-          "id": "rootrp:entity_model_features:3.3.11",
-          "name": "entity_model_features-3.3.11-1.21-neoforge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 655485,
-            "MD5": "9ddd1c220b916087fc441c0f6adec94b",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entity_model_features-3.3.11-1.21-neoforge.jar"
-          }
-        },
-        {
-          "id": "rootrp:entity_texture_features:7.2.5",
-          "name": "entity_texture_features-7.2.5-1.21-neoforge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 806812,
-            "MD5": "19ef3582014439ce967f11b002ca8b04",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entity_texture_features-7.2.5-1.21-neoforge.jar"
-          }
-        },
-        {
           "id": "curse.maven:fancymenu-neoforge:3.9.8",
           "name": "fancymenu_neoforge_3.9.8_MC_1.21.1",
           "type": "ForgeMod",
@@ -1514,26 +1494,6 @@
           }
         },
         {
-          "id": "rootrp:entity_model_features:3.3.11",
-          "name": "entity_model_features-3.3.11-1.21-neoforge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 655485,
-            "MD5": "9ddd1c220b916087fc441c0f6adec94b",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entity_model_features-3.3.11-1.21-neoforge.jar"
-          }
-        },
-        {
-          "id": "rootrp:entity_texture_features:7.2.5",
-          "name": "entity_texture_features-7.2.5-1.21-neoforge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 806812,
-            "MD5": "19ef3582014439ce967f11b002ca8b04",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entity_texture_features-7.2.5-1.21-neoforge.jar"
-          }
-        },
-        {
           "id": "curse.maven:fancymenu-neoforge:3.9.8",
           "name": "fancymenu_neoforge_3.9.8_MC_1.21.1",
           "type": "ForgeMod",
@@ -2486,26 +2446,6 @@
             "size": 861829,
             "MD5": "c4840725c74865e2ba95807396c66a4f",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
-          }
-        },
-        {
-          "id": "rootrp:entity_model_features:3.3.11",
-          "name": "entity_model_features-3.3.11-1.21-neoforge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 655485,
-            "MD5": "9ddd1c220b916087fc441c0f6adec94b",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entity_model_features-3.3.11-1.21-neoforge.jar"
-          }
-        },
-        {
-          "id": "rootrp:entity_texture_features:7.2.5",
-          "name": "entity_texture_features-7.2.5-1.21-neoforge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 806812,
-            "MD5": "19ef3582014439ce967f11b002ca8b04",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entity_texture_features-7.2.5-1.21-neoforge.jar"
           }
         },
         {
