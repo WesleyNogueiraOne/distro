@@ -64,7 +64,8 @@
         "scalablelux",
         "sodiumdynamiclights",
         "sound_physics_remastered",
-        "spark"
+        "spark",
+        "spatial_gui"
       ]
     }
   ]

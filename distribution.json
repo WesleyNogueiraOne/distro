@@ -2729,16 +2729,6 @@
           }
         },
         {
-          "id": "rootrp:spatial_gui:1.7.2",
-          "name": "spatial-gui-1.7.2+1.21.1-neoforge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 251869,
-            "MD5": "b939ed72d781bf9901638ca6f1564746",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/spatial-gui-1.7.2%2B1.21.1-neoforge.jar"
-          }
-        },
-        {
           "id": "curse.maven:spawn:4.0.7",
           "name": "spawn-4.0.7-1.21.1",
           "type": "ForgeMod",
