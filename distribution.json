@@ -2238,16 +2238,6 @@
           }
         },
         {
-          "id": "curse.maven:betterthirdperson-neoforge:1.9.0",
-          "name": "BetterThirdPerson-neoforge-1.9.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 60941,
-            "MD5": "cb6470da1b6bbe6880fcf721aa87e0e1",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/BetterThirdPerson-neoforge-1.9.0.jar"
-          }
-        },
-        {
           "id": "curse.maven:cloth-config:15.0.140",
           "name": "cloth-config-15.0.140-neoforge",
           "type": "ForgeMod",
