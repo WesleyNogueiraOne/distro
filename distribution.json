@@ -929,6 +929,16 @@
           }
         },
         {
+          "id": "rootrp:rootpets:0.1.0",
+          "name": "rootpets-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 359186,
+            "MD5": "866c9a354fb44136bce1cf1c0a1fb5c3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootpets-0.1.0.jar"
+          }
+        },
+        {
           "id": "rootrp:scalablelux:0.1.0.1+neoforge.1cb1e91",
           "name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all",
           "type": "ForgeMod",
@@ -2004,6 +2014,16 @@
           }
         },
         {
+          "id": "rootrp:rootpets:0.1.0",
+          "name": "rootpets-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 359186,
+            "MD5": "866c9a354fb44136bce1cf1c0a1fb5c3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootpets-0.1.0.jar"
+          }
+        },
+        {
           "id": "rootrp:scalablelux:0.1.0.1+neoforge.1cb1e91",
           "name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all",
           "type": "ForgeMod",
@@ -2746,6 +2766,16 @@
             "size": 13238,
             "MD5": "0849c97108fdebaa63a6dbdffc711e2c",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootmobs-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootpets:0.1.0",
+          "name": "rootpets-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 359186,
+            "MD5": "866c9a354fb44136bce1cf1c0a1fb5c3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootpets-0.1.0.jar"
           }
         },
         {
