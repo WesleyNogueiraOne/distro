@@ -30,7 +30,7 @@
         "smallImageKey": "icon"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "curse.maven:neoforge-installer:21.1.248",
@@ -1094,7 +1094,7 @@
         "smallImageKey": "icon"
       },
       "mainServer": false,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "curse.maven:neoforge-installer:21.1.248",
@@ -2189,7 +2189,7 @@
         "smallImageKey": "icon"
       },
       "mainServer": false,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "curse.maven:neoforge-installer:21.1.248",
