@@ -2001,7 +2001,8 @@
             "size": 2640569,
             "MD5": "363e412f1ceafa3338996d7095d713b7",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/roxy-1.21.1-NeoForge-0.4.0.jar"
-          }
+          },
+          "placeInMods": true
         },
         {
           "id": "rootrp:scalablelux:0.1.0.1+neoforge.1cb1e91",
@@ -2041,7 +2042,8 @@
             "size": 1292934,
             "MD5": "c2bc7287841c29e25ce553baae1700a0",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
-          }
+          },
+          "placeInMods": true
         },
         {
           "id": "curse.maven:sound-physics-remastered-neoforge:1.5.1",
