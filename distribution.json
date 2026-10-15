@@ -1654,13 +1654,13 @@
           }
         },
         {
-          "id": "rootrp:iris:1.8.14-beta.1+mc1.21.1",
-          "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1",
+          "id": "curse.maven:iris-neoforge:1.8.12",
+          "name": "iris-neoforge-1.8.12+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2540723,
-            "MD5": "6b68276a6718656ec476cfac69dfe013",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
+            "size": 2438548,
+            "MD5": "6c1122aa7c2b1a4f24831e394c5b513f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
           }
         },
         {
