@@ -1994,17 +1994,6 @@
           }
         },
         {
-          "id": "rootrp:roxy:0.4.0",
-          "name": "roxy-1.21.1-NeoForge-0.4.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2640569,
-            "MD5": "363e412f1ceafa3338996d7095d713b7",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/roxy-1.21.1-NeoForge-0.4.0.jar"
-          },
-          "placeInMods": true
-        },
-        {
           "id": "rootrp:scalablelux:0.1.0.1+neoforge.1cb1e91",
           "name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all",
           "type": "ForgeMod",
@@ -2102,16 +2091,6 @@
             "size": 6276522,
             "MD5": "69cd87744e40cc444b4176022ec6d17a",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/txnilib-neoforge-1.0.24-1.21.1.jar"
-          }
-        },
-        {
-          "id": "rootrp:voxy:0.2.16-beta",
-          "name": "voxy-0.2.16-beta+1.21.11",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 12620254,
-            "MD5": "7041df16e2902f444316a4f932d74979",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/voxy-0.2.16-beta%2B1.21.11.jar"
           }
         },
         {
