@@ -2094,6 +2094,16 @@
           }
         },
         {
+          "id": "rootrp:voxy:0.2.9-alpha",
+          "name": "voxy-0.2.9-alpha",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 89102985,
+            "MD5": "d2771f0a604beba53802cac803d0f17d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/voxy-0.2.9-alpha.jar"
+          }
+        },
+        {
           "id": "rootrp:walkers:5.8.13",
           "name": "walkers-5.8.13",
           "type": "ForgeMod",
