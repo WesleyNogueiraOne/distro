@@ -2035,15 +2035,14 @@
           }
         },
         {
-          "id": "rootrp:sodium:0.8.13+mc1.21.1",
-          "name": "sodium-neoforge-0.8.13+mc1.21.1",
+          "id": "curse.maven:sodium-neoforge:0.6.13",
+          "name": "sodium-neoforge-0.6.13+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1292934,
-            "MD5": "c2bc7287841c29e25ce553baae1700a0",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
-          },
-          "placeInMods": true
+            "size": 1162994,
+            "MD5": "e5018c782d851fea76be0205b7616e5d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+          }
         },
         {
           "id": "curse.maven:sound-physics-remastered-neoforge:1.5.1",
