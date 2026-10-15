@@ -13,7 +13,16 @@
       "description": "Versão da staff",
       "folder": "mods-staff",
       "extends": "MeuServidor",
-      "exclude": []
+      "exclude": [
+        "colorwheel",
+        "colorwheel_patcher",
+        "createbetterfps",
+        "distanthorizons",
+        "iris",
+        "moreculling",
+        "sodium",
+        "sodiumdynamiclights"
+      ]
     },
     {
       "id": "RootGravacao",

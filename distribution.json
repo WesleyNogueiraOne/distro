@@ -1283,26 +1283,6 @@
           }
         },
         {
-          "id": "curse.maven:colorwheel-patcher-neoforge:1.0.5",
-          "name": "colorwheel_patcher-neoforge-1.0.5+mc1.21.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 210569,
-            "MD5": "395253024ca2839433d824b9eb715ad4",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/colorwheel_patcher-neoforge-1.0.5%2Bmc1.21.1.jar"
-          }
-        },
-        {
-          "id": "curse.maven:colorwheel-neoforge:1.2.9",
-          "name": "colorwheel-neoforge-1.2.9+mc1.21.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 398004,
-            "MD5": "5fb6fde45515060b695c245ecbf5f1ae",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/colorwheel-neoforge-1.2.9%2Bmc1.21.1.jar"
-          }
-        },
-        {
           "id": "curse.maven:connectivity:7.6",
           "name": "connectivity-1.21.1-7.6",
           "type": "ForgeMod",
@@ -1361,16 +1341,6 @@
             "size": 19123767,
             "MD5": "179189c52b45a469e683570be4e77188",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/create-1.21.1-6.0.10.jar"
-          }
-        },
-        {
-          "id": "curse.maven:createbetterfps:1.1.4",
-          "name": "createbetterfps-1.21.1-1.1.4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 26547,
-            "MD5": "88827dcbad6f5bf8974c40e6fff77ed5",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/createbetterfps-1.21.1-1.1.4.jar"
           }
         },
         {
@@ -1441,16 +1411,6 @@
             "size": 458075,
             "MD5": "d30558e280ec4ee34b831f96ebd2e148",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/despawntweaks-neoforge-1.0.0-1.21.1.jar"
-          }
-        },
-        {
-          "id": "curse.maven:distanthorizons:3.2.0",
-          "name": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 30207268,
-            "MD5": "8925d0f3c3be448e895dcab6a64de0e6",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
           }
         },
         {
@@ -1694,13 +1654,13 @@
           }
         },
         {
-          "id": "curse.maven:iris-neoforge:1.8.12",
-          "name": "iris-neoforge-1.8.12+mc1.21.1",
+          "id": "rootrp:iris:1.8.14-beta.1+mc1.21.1",
+          "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2438548,
-            "MD5": "6c1122aa7c2b1a4f24831e394c5b513f",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+            "size": 2540723,
+            "MD5": "6b68276a6718656ec476cfac69dfe013",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
           }
         },
         {
@@ -1851,16 +1811,6 @@
             "size": 2135671,
             "MD5": "a13f5142d4ff5aec62561976bc374732",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/moonlight-neoforge-1.21.1-3.3.0.jar"
-          }
-        },
-        {
-          "id": "curse.maven:moreculling-neoforge:1.0.7",
-          "name": "moreculling-neoforge-1.21.1-1.0.7",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 344279,
-            "MD5": "97f704f5fca2a00952f75abe78bac964",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/moreculling-neoforge-1.21.1-1.0.7.jar"
           }
         },
         {
@@ -2044,6 +1994,16 @@
           }
         },
         {
+          "id": "rootrp:roxy:0.4.0",
+          "name": "roxy-1.21.1-NeoForge-0.4.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2640569,
+            "MD5": "363e412f1ceafa3338996d7095d713b7",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/roxy-1.21.1-NeoForge-0.4.0.jar"
+          }
+        },
+        {
           "id": "rootrp:scalablelux:0.1.0.1+neoforge.1cb1e91",
           "name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all",
           "type": "ForgeMod",
@@ -2074,23 +2034,13 @@
           }
         },
         {
-          "id": "curse.maven:sodium-neoforge:0.6.13",
-          "name": "sodium-neoforge-0.6.13+mc1.21.1",
+          "id": "rootrp:sodium:0.8.13+mc1.21.1",
+          "name": "sodium-neoforge-0.8.13+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1162994,
-            "MD5": "e5018c782d851fea76be0205b7616e5d",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
-          }
-        },
-        {
-          "id": "curse.maven:sodiumdynamiclights-neoforge:1.0.10",
-          "name": "sodiumdynamiclights-neoforge-1.0.10-1.21.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 299353,
-            "MD5": "daaa3a9e438fddffc1db19bf8a7dfba0",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
+            "size": 1292934,
+            "MD5": "c2bc7287841c29e25ce553baae1700a0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
           }
         },
         {
@@ -2151,6 +2101,16 @@
             "size": 6276522,
             "MD5": "69cd87744e40cc444b4176022ec6d17a",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/txnilib-neoforge-1.0.24-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:voxy:0.2.16-beta",
+          "name": "voxy-0.2.16-beta+1.21.11",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12620254,
+            "MD5": "7041df16e2902f444316a4f932d74979",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/voxy-0.2.16-beta%2B1.21.11.jar"
           }
         },
         {
