@@ -359,13 +359,13 @@
           }
         },
         {
-          "id": "curse.maven:distanthorizons:3.2.0",
-          "name": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge",
+          "id": "rootrp:distanthorizons:3.3.3",
+          "name": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge",
           "type": "ForgeMod",
           "artifact": {
-            "size": 30207268,
-            "MD5": "8925d0f3c3be448e895dcab6a64de0e6",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
+            "size": 28289212,
+            "MD5": "578523767ee8cef71a9933a79126f67b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
           }
         },
         {
@@ -1414,6 +1414,16 @@
           }
         },
         {
+          "id": "rootrp:distanthorizons:3.3.3",
+          "name": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28289212,
+            "MD5": "578523767ee8cef71a9933a79126f67b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+          }
+        },
+        {
           "id": "rootrp:dj_praevi:1.0.0",
           "name": "dj_praevi-1.0.0",
           "type": "ForgeMod",
@@ -2094,16 +2104,6 @@
           }
         },
         {
-          "id": "rootrp:voxy:0.2.9-alpha",
-          "name": "voxy-0.2.9-alpha",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 89102985,
-            "MD5": "d2771f0a604beba53802cac803d0f17d",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/voxy-0.2.9-alpha.jar"
-          }
-        },
-        {
           "id": "rootrp:walkers:5.8.13",
           "name": "walkers-5.8.13",
           "type": "ForgeMod",
@@ -2399,13 +2399,13 @@
           }
         },
         {
-          "id": "curse.maven:distanthorizons:3.2.0",
-          "name": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge",
+          "id": "rootrp:distanthorizons:3.3.3",
+          "name": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge",
           "type": "ForgeMod",
           "artifact": {
-            "size": 30207268,
-            "MD5": "8925d0f3c3be448e895dcab6a64de0e6",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
+            "size": 28289212,
+            "MD5": "578523767ee8cef71a9933a79126f67b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
           }
         },
         {
