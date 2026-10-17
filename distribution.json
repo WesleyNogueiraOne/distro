@@ -60,8 +60,8 @@
           "type": "File",
           "extractTo": "kubejs",
           "artifact": {
-            "size": 112530,
-            "MD5": "e0201d07d527e59f060a34fcbedfb2a4",
+            "size": 58205,
+            "MD5": "6bc2ff639db682753696e12b99d5ef23",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs.zip",
             "path": "files/kubejs-pack/1.0.0/kubejs-pack-1.0.0.zip"
           }
@@ -1124,8 +1124,8 @@
           "type": "File",
           "extractTo": "kubejs",
           "artifact": {
-            "size": 112530,
-            "MD5": "e0201d07d527e59f060a34fcbedfb2a4",
+            "size": 58205,
+            "MD5": "6bc2ff639db682753696e12b99d5ef23",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs.zip",
             "path": "files/kubejs-pack/1.0.0/kubejs-pack-1.0.0.zip"
           }
@@ -2169,8 +2169,8 @@
           "type": "File",
           "extractTo": "kubejs",
           "artifact": {
-            "size": 112530,
-            "MD5": "e0201d07d527e59f060a34fcbedfb2a4",
+            "size": 58205,
+            "MD5": "6bc2ff639db682753696e12b99d5ef23",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs.zip",
             "path": "files/kubejs-pack/1.0.0/kubejs-pack-1.0.0.zip"
           }
