@@ -2910,6 +2910,16 @@
           }
         },
         {
+          "id": "curse.maven:curios-neoforge:9.5.1",
+          "name": "curios-neoforge-9.5.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 410690,
+            "MD5": "e8f0a3574264bb202c153b90293dc84c",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/curios-neoforge-9.5.1%2B1.21.1.jar"
+          }
+        },
+        {
           "id": "curse.maven:customplayermodels:0.6.27",
           "name": "CustomPlayerModels-1.21-0.6.27a",
           "type": "ForgeMod",
