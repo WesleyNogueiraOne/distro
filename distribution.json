@@ -22,7 +22,7 @@
       "description": "Modpack oficial do Root RP",
       "icon": "icon.png",
       "version": "1.0.0",
-      "address": "sd-br10.blazebr.com:26490",
+      "address": "sd-br10.blazebr.com:25899",
       "minecraftVersion": "1.21.1",
       "discord": {
         "clientId": "",
@@ -30,7 +30,7 @@
         "smallImageKey": "icon"
       },
       "mainServer": true,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "curse.maven:neoforge-installer:21.1.248",
@@ -1086,7 +1086,7 @@
       "description": "Versão da staff",
       "icon": "icon.png",
       "version": "1.0.0",
-      "address": "sd-br10.blazebr.com:26490",
+      "address": "sd-br10.blazebr.com:25899",
       "minecraftVersion": "1.21.1",
       "discord": {
         "clientId": "",
@@ -1094,7 +1094,7 @@
         "smallImageKey": "icon"
       },
       "mainServer": false,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "curse.maven:neoforge-installer:21.1.248",
@@ -2131,7 +2131,7 @@
       "description": "Versão do time de marketing",
       "icon": "icon.png",
       "version": "1.0.0",
-      "address": "sd-br10.blazebr.com:26490",
+      "address": "sd-br10.blazebr.com:25899",
       "minecraftVersion": "1.21.1",
       "discord": {
         "clientId": "",
@@ -2139,7 +2139,7 @@
         "smallImageKey": "icon"
       },
       "mainServer": false,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "curse.maven:neoforge-installer:21.1.248",
