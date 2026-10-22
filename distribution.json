@@ -2990,13 +2990,13 @@
           }
         },
         {
-          "id": "curse.maven:iris-neoforge:1.8.12",
-          "name": "iris-neoforge-1.8.12+mc1.21.1",
+          "id": "rootrp:iris:1.8.14-beta.1+mc1.21.1",
+          "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2438548,
-            "MD5": "6c1122aa7c2b1a4f24831e394c5b513f",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+            "size": 2540723,
+            "MD5": "6b68276a6718656ec476cfac69dfe013",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
           }
         },
         {
@@ -3020,13 +3020,14 @@
           }
         },
         {
-          "id": "curse.maven:sodium-neoforge:0.6.13",
-          "name": "sodium-neoforge-0.6.13+mc1.21.1",
+          "id": "rootrp:sodium:0.8.13+mc1.21.1",
+          "name": "sodium-neoforge-0.8.13+mc1.21.1",
           "type": "ForgeMod",
+          "placeInMods": true,
           "artifact": {
-            "size": 1162994,
-            "MD5": "e5018c782d851fea76be0205b7616e5d",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+            "size": 1292934,
+            "MD5": "c2bc7287841c29e25ce553baae1700a0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
           }
         },
         {
