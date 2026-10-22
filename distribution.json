@@ -2839,6 +2839,156 @@
           }
         }
       ]
+    },
+    {
+      "id": "AMT",
+      "name": "A.M.T",
+      "description": "Gravações fora do Root RP",
+      "icon": "icon.png",
+      "version": "1.0.0",
+      "address": "localhost",
+      "minecraftVersion": "1.21.1",
+      "discord": {
+        "clientId": "",
+        "smallImageText": "Meu Servidor",
+        "smallImageKey": "icon"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "curse.maven:neoforge-installer:21.1.248",
+          "name": "NeoForge Installer",
+          "type": "File",
+          "artifact": {
+            "size": 6972104,
+            "MD5": "90eee26ffd6be552a8453e23a15a6e35",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-installer.jar",
+            "path": "files/neoforge-installer/21.1.248/neoforge-installer-21.1.248.jar"
+          }
+        },
+        {
+          "id": "net.neoforged:neoforge:21.1.248",
+          "name": "NeoForge",
+          "type": "NeoForge",
+          "artifact": {
+            "size": 6972104,
+            "MD5": "90eee26ffd6be552a8453e23a15a6e35",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-installer.jar",
+            "path": "files/neoforge-installer/21.1.248/neoforge-installer-21.1.248.jar"
+          }
+        },
+        {
+          "id": "curse.maven:architectury:13.0.11",
+          "name": "architectury-13.0.11-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 584734,
+            "MD5": "aefbea361809755c331126bcff6e6d3e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/architectury-13.0.11-neoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:customplayermodels:0.6.27",
+          "name": "CustomPlayerModels-1.21-0.6.27a",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2793136,
+            "MD5": "d74eddfd5685aec041d6c5b097b689f3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/CustomPlayerModels-1.21-0.6.27a.jar"
+          }
+        },
+        {
+          "id": "rootrp:exposure:1.9.19",
+          "name": "exposure-neoforge-1.21.1-1.9.19",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2206392,
+            "MD5": "1a71e20f6551adf0780f61037d6cefac",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/exposure-neoforge-1.21.1-1.9.19.jar"
+          }
+        },
+        {
+          "id": "rootrp:forgematica:0.4.3+mc1.21.1",
+          "name": "forgematica-0.4.3+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1646167,
+            "MD5": "b49f820225b53e70788b9a69a73d5efa",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/forgematica-0.4.3%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:lambdynlights:4.8.11+1.21.1",
+          "name": "lambdynamiclights-4.8.11+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2023375,
+            "MD5": "fc7e8b48d98bc94025ea70c1ed441b2f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/lambdynamiclights-4.8.11%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:mafglib:0.4.3",
+          "name": "mafglib-0.4.3+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1314767,
+            "MD5": "3b3dafc71cfb16845d3e019a0d8670ec",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/mafglib-0.4.3%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:tacz:1.1.8-hotfix-r7",
+          "name": "tacz-neoforge-1.21.1-1.1.8-hotfix-r7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 57247579,
+            "MD5": "c01eb9b8a88ab547caaa7cbbc4591476",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/tacz-neoforge-1.21.1-1.1.8-hotfix-r7.jar"
+          }
+        },
+        {
+          "id": "rootrp:thebrokenscript:2.0.5",
+          "name": "thebrokenscript-neoforge-2.0.5+mc1.21.1-build.3658",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 313976987,
+            "MD5": "760454f74a2e170f1565da35403ad804",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/thebrokenscript-neoforge-2.0.5%2Bmc1.21.1-build.3658.jar"
+          }
+        },
+        {
+          "id": "rootrp:voicechat:1.21.1-2.6.22",
+          "name": "voicechat-neoforge-1.21.1-2.6.22",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4918442,
+            "MD5": "f2c1f0eb15d2fb2a8cf8a0040282df51",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/voicechat-neoforge-1.21.1-2.6.22.jar"
+          }
+        },
+        {
+          "id": "rootrp:walkietalkie:1.0.5",
+          "name": "walkietalkie-neoforge-1.21.1-1.0.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 219171,
+            "MD5": "cc2fc234bb56b7e6da989c898dc2973e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/walkietalkie-neoforge-1.21.1-1.0.5.jar"
+          }
+        },
+        {
+          "id": "rootrp:yyzsbackpack:21.1.13",
+          "name": "yyzsbackpack-neoforge-21.1.13",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 209479,
+            "MD5": "fa5d06dd6e0dd78e7d44720218a62162",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/yyzsbackpack-neoforge-21.1.13.jar"
+          }
+        }
+      ]
     }
   ]
 }

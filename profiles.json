@@ -73,6 +73,15 @@
         "sound_physics_remastered",
         "spark"
       ]
+    },
+    {
+      "id": "AMT",
+      "name": "A.M.T",
+      "description": "Gravações fora do Root RP",
+      "folder": "mods-amt",
+      "standalone": true,
+      "address": "localhost",
+      "exclude": []
     }
   ]
 }
