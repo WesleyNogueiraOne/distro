@@ -2846,7 +2846,7 @@
       "description": "Gravações fora do Root RP",
       "icon": "icon.png",
       "version": "1.0.0",
-      "address": "localhost",
+      "address": "sd-br12.blazebr.com:26233",
       "minecraftVersion": "1.21.1",
       "discord": {
         "clientId": "",

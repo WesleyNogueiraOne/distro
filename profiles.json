@@ -80,7 +80,7 @@
       "description": "Gravações fora do Root RP",
       "folder": "mods-amt",
       "standalone": true,
-      "address": "localhost",
+      "address": "sd-br12.blazebr.com:26233",
       "exclude": []
     }
   ]
