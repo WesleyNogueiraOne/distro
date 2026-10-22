@@ -2857,25 +2857,25 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "curse.maven:neoforge-installer:21.1.248",
+          "id": "curse.maven:neoforge-installer:21.1.264",
           "name": "NeoForge Installer",
           "type": "File",
           "artifact": {
-            "size": 6972104,
-            "MD5": "90eee26ffd6be552a8453e23a15a6e35",
-            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-installer.jar",
-            "path": "files/neoforge-installer/21.1.248/neoforge-installer-21.1.248.jar"
+            "size": 6992411,
+            "MD5": "f426febcb5e3c6c5df570eca234f8a7c",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.264/neoforge-21.1.264-installer.jar",
+            "path": "files/neoforge-installer/21.1.264/neoforge-installer-21.1.264.jar"
           }
         },
         {
-          "id": "net.neoforged:neoforge:21.1.248",
+          "id": "net.neoforged:neoforge:21.1.264",
           "name": "NeoForge",
           "type": "NeoForge",
           "artifact": {
-            "size": 6972104,
-            "MD5": "90eee26ffd6be552a8453e23a15a6e35",
-            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-installer.jar",
-            "path": "files/neoforge-installer/21.1.248/neoforge-installer-21.1.248.jar"
+            "size": 6992411,
+            "MD5": "f426febcb5e3c6c5df570eca234f8a7c",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.264/neoforge-21.1.264-installer.jar",
+            "path": "files/neoforge-installer/21.1.264/neoforge-installer-21.1.264.jar"
           }
         },
         {
