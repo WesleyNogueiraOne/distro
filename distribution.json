@@ -2889,6 +2889,27 @@
           }
         },
         {
+          "id": "rootrp:connector:2.0.0-beta.17+1.21.1",
+          "name": "connector-2.0.0-beta.17+1.21.1-full",
+          "type": "ForgeMod",
+          "placeInMods": true,
+          "artifact": {
+            "size": 4573244,
+            "MD5": "9b79e8afcd0f4b428fecc789b08ae0f6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connector-2.0.0-beta.17%2B1.21.1-full.jar"
+          }
+        },
+        {
+          "id": "rootrp:cpm-flashback-compat:1.2.0",
+          "name": "cpm-flashback-1.21-1.2.0",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 83023,
+            "MD5": "60698bca33784781727f5c8ce54f6060",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cpm-flashback-1.21-1.2.0.jar"
+          }
+        },
+        {
           "id": "curse.maven:customplayermodels:0.6.27",
           "name": "CustomPlayerModels-1.21-0.6.27a",
           "type": "ForgeMod",
@@ -2909,6 +2930,46 @@
           }
         },
         {
+          "id": "rootrp:fix_flashback:1.0.3",
+          "name": "fix_flashback-1.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 45123,
+            "MD5": "a9709d13fe6da19bf612b62fb22f6ee0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/fix_flashback-1.0.3.jar"
+          }
+        },
+        {
+          "id": "rootrp:flashback_neoforge_fixed:1.0.9",
+          "name": "flashback_neoforge_fixed-1.0.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 170766,
+            "MD5": "0edb97e6baf2121447b102ac8e6ba2c3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/flashback_neoforge_fixed-1.0.9.jar"
+          }
+        },
+        {
+          "id": "rootrp:flashback:0.39.10",
+          "name": "Flashback-0.39.10-for-MC1.21.1",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 210786498,
+            "MD5": "418b9bfa6425047c0dc3c4b3e3e33bb8",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Flashback-0.39.10-for-MC1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:flashback_recipe_fix:0.4.47",
+          "name": "flashback-neoforge-compat-0.4.47+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 72190,
+            "MD5": "08b5a4277e33ef76a17925158fd72eb6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/flashback-neoforge-compat-0.4.47%2Bmc1.21.1.jar"
+          }
+        },
+        {
           "id": "rootrp:forgematica:0.4.3+mc1.21.1",
           "name": "forgematica-0.4.3+mc1.21.1",
           "type": "ForgeMod",
@@ -2916,6 +2977,16 @@
             "size": 1646167,
             "MD5": "b49f820225b53e70788b9a69a73d5efa",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/forgematica-0.4.3%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:fabric_api:0.116.15+2.3.6+1.21.1",
+          "name": "forgified-fabric-api-0.116.15+2.3.6+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5612888,
+            "MD5": "4b698a05cf4058f877faf6ccf6665705",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/forgified-fabric-api-0.116.15%2B2.3.6%2B1.21.1.jar"
           }
         },
         {
@@ -2959,13 +3030,13 @@
           }
         },
         {
-          "id": "rootrp:voicechat:1.21.1-2.6.22",
-          "name": "voicechat-neoforge-1.21.1-2.6.22",
+          "id": "rootrp:voicechat:1.21.1-2.6.24",
+          "name": "voicechat-neoforge-1.21.1-2.6.24",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4918442,
-            "MD5": "f2c1f0eb15d2fb2a8cf8a0040282df51",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/voicechat-neoforge-1.21.1-2.6.22.jar"
+            "size": 4934688,
+            "MD5": "1c168e0abc600db2a809d2c4daa5db26",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/voicechat-neoforge-1.21.1-2.6.24.jar"
           }
         },
         {
