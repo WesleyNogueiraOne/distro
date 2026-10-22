@@ -2990,6 +2990,16 @@
           }
         },
         {
+          "id": "curse.maven:iris-neoforge:1.8.12",
+          "name": "iris-neoforge-1.8.12+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2438548,
+            "MD5": "6c1122aa7c2b1a4f24831e394c5b513f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+          }
+        },
+        {
           "id": "rootrp:lambdynlights:4.8.11+1.21.1",
           "name": "lambdynamiclights-4.8.11+1.21.1",
           "type": "ForgeMod",
@@ -3007,6 +3017,16 @@
             "size": 1314767,
             "MD5": "3b3dafc71cfb16845d3e019a0d8670ec",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/mafglib-0.4.3%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:sodium-neoforge:0.6.13",
+          "name": "sodium-neoforge-0.6.13+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1162994,
+            "MD5": "e5018c782d851fea76be0205b7616e5d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
           }
         },
         {
