@@ -309,6 +309,16 @@
           }
         },
         {
+          "id": "rootrp:cronarca:1.0.0",
+          "name": "cronarca-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215069,
+            "MD5": "2114ba1a287de8a3f2821ad897edb4e9",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cronarca-1.0.0.jar"
+          }
+        },
+        {
           "id": "curse.maven:cupboard:3.9",
           "name": "cupboard-1.21.1-3.9",
           "type": "ForgeMod",
@@ -1364,6 +1374,16 @@
           }
         },
         {
+          "id": "rootrp:cronarca:1.0.0",
+          "name": "cronarca-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215069,
+            "MD5": "2114ba1a287de8a3f2821ad897edb4e9",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cronarca-1.0.0.jar"
+          }
+        },
+        {
           "id": "curse.maven:cupboard:3.9",
           "name": "cupboard-1.21.1-3.9",
           "type": "ForgeMod",
@@ -2356,6 +2376,16 @@
             "size": 77249,
             "MD5": "b238820bf15c5250150632d6712c5da3",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/createthreadedtrains-neoforge-1.21.1-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:cronarca:1.0.0",
+          "name": "cronarca-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215069,
+            "MD5": "2114ba1a287de8a3f2821ad897edb4e9",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cronarca-1.0.0.jar"
           }
         },
         {
