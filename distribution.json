@@ -589,6 +589,16 @@
           }
         },
         {
+          "id": "rootrp:icys_better_horses:2.1.6",
+          "name": "icys-better-horses-2.1.6-neo-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4068703,
+            "MD5": "78b7d259a8ca9d404d02ed51ef4efb2a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/icys-better-horses-2.1.6-neo-1.21.1.jar"
+          }
+        },
+        {
           "id": "curse.maven:imfast-neoforge:1.0.2",
           "name": "imfast-NEOFORGE-1.0.2",
           "type": "ForgeMod",
@@ -756,6 +766,16 @@
             "size": 22329,
             "MD5": "801e0c3e6050b1311880b750b73b4362",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/memorysettings-1.21-6.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:modonomicon:1.120.7",
+          "name": "modonomicon-1.21.1-neoforge-1.120.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2407448,
+            "MD5": "51c3a92e194e0bb9ff8d595e735f1d22",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/modonomicon-1.21.1-neoforge-1.120.7.jar"
           }
         },
         {
@@ -1664,6 +1684,16 @@
           }
         },
         {
+          "id": "rootrp:icys_better_horses:2.1.6",
+          "name": "icys-better-horses-2.1.6-neo-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4068703,
+            "MD5": "78b7d259a8ca9d404d02ed51ef4efb2a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/icys-better-horses-2.1.6-neo-1.21.1.jar"
+          }
+        },
+        {
           "id": "curse.maven:imfast-neoforge:1.0.2",
           "name": "imfast-NEOFORGE-1.0.2",
           "type": "ForgeMod",
@@ -1831,6 +1861,16 @@
             "size": 22329,
             "MD5": "801e0c3e6050b1311880b750b73b4362",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/memorysettings-1.21-6.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:modonomicon:1.120.7",
+          "name": "modonomicon-1.21.1-neoforge-1.120.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2407448,
+            "MD5": "51c3a92e194e0bb9ff8d595e735f1d22",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/modonomicon-1.21.1-neoforge-1.120.7.jar"
           }
         },
         {
@@ -2579,6 +2619,16 @@
           }
         },
         {
+          "id": "rootrp:icys_better_horses:2.1.6",
+          "name": "icys-better-horses-2.1.6-neo-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4068703,
+            "MD5": "78b7d259a8ca9d404d02ed51ef4efb2a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/icys-better-horses-2.1.6-neo-1.21.1.jar"
+          }
+        },
+        {
           "id": "curse.maven:imfast-neoforge:1.0.2",
           "name": "imfast-NEOFORGE-1.0.2",
           "type": "ForgeMod",
@@ -2636,6 +2686,16 @@
             "size": 2294111,
             "MD5": "95e68543f4be46edc6d2cac8a9a4cfd3",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs-neoforge-2101.7.2-build.377.jar"
+          }
+        },
+        {
+          "id": "rootrp:modonomicon:1.120.7",
+          "name": "modonomicon-1.21.1-neoforge-1.120.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2407448,
+            "MD5": "51c3a92e194e0bb9ff8d595e735f1d22",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/modonomicon-1.21.1-neoforge-1.120.7.jar"
           }
         },
         {
