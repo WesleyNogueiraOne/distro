@@ -149,6 +149,16 @@
           }
         },
         {
+          "id": "rootrp:better_deco:2.0.0",
+          "name": "better_deco-neoforge-1.21.1-2.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3335365,
+            "MD5": "cc958c90fd9fe685d4030b7a039320a3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/better_deco-neoforge-1.21.1-2.0.0.jar"
+          }
+        },
+        {
           "id": "rootrp:betteradvancedtooltips:2101.1.0-build.5",
           "name": "better-advanced-tooltips-2101.1.0-build.5",
           "type": "ForgeMod",
@@ -590,12 +600,12 @@
         },
         {
           "id": "rootrp:icys_better_horses:2.1.6",
-          "name": "icys-better-horses-2.1.6-neo-1.21.1",
+          "name": "icys-better-horses-2.1.6-neo-1.21.1-youerfix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4068703,
-            "MD5": "78b7d259a8ca9d404d02ed51ef4efb2a",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/icys-better-horses-2.1.6-neo-1.21.1.jar"
+            "size": 4069096,
+            "MD5": "ce25fc3bb5d43d5af26c7850f5de4e36",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/icys-better-horses-2.1.6-neo-1.21.1-youerfix.jar"
           }
         },
         {
@@ -1253,6 +1263,16 @@
           }
         },
         {
+          "id": "rootrp:better_deco:2.0.0",
+          "name": "better_deco-neoforge-1.21.1-2.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3335365,
+            "MD5": "cc958c90fd9fe685d4030b7a039320a3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/better_deco-neoforge-1.21.1-2.0.0.jar"
+          }
+        },
+        {
           "id": "rootrp:betteradvancedtooltips:2101.1.0-build.5",
           "name": "better-advanced-tooltips-2101.1.0-build.5",
           "type": "ForgeMod",
@@ -1685,12 +1705,12 @@
         },
         {
           "id": "rootrp:icys_better_horses:2.1.6",
-          "name": "icys-better-horses-2.1.6-neo-1.21.1",
+          "name": "icys-better-horses-2.1.6-neo-1.21.1-youerfix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4068703,
-            "MD5": "78b7d259a8ca9d404d02ed51ef4efb2a",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/icys-better-horses-2.1.6-neo-1.21.1.jar"
+            "size": 4069096,
+            "MD5": "ce25fc3bb5d43d5af26c7850f5de4e36",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/icys-better-horses-2.1.6-neo-1.21.1-youerfix.jar"
           }
         },
         {
@@ -2288,6 +2308,16 @@
           }
         },
         {
+          "id": "rootrp:better_deco:2.0.0",
+          "name": "better_deco-neoforge-1.21.1-2.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3335365,
+            "MD5": "cc958c90fd9fe685d4030b7a039320a3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/better_deco-neoforge-1.21.1-2.0.0.jar"
+          }
+        },
+        {
           "id": "rootrp:betteradvancedtooltips:2101.1.0-build.5",
           "name": "better-advanced-tooltips-2101.1.0-build.5",
           "type": "ForgeMod",
@@ -2620,12 +2650,12 @@
         },
         {
           "id": "rootrp:icys_better_horses:2.1.6",
-          "name": "icys-better-horses-2.1.6-neo-1.21.1",
+          "name": "icys-better-horses-2.1.6-neo-1.21.1-youerfix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4068703,
-            "MD5": "78b7d259a8ca9d404d02ed51ef4efb2a",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/icys-better-horses-2.1.6-neo-1.21.1.jar"
+            "size": 4069096,
+            "MD5": "ce25fc3bb5d43d5af26c7850f5de4e36",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/icys-better-horses-2.1.6-neo-1.21.1-youerfix.jar"
           }
         },
         {
