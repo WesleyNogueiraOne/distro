@@ -549,6 +549,16 @@
           }
         },
         {
+          "id": "rootrp:framework:0.13.11",
+          "name": "framework-neoforge-1.21.1-0.13.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387334,
+            "MD5": "06f94f31d9e0b59c8b42a5b0df7013d6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/framework-neoforge-1.21.1-0.13.11.jar"
+          }
+        },
+        {
           "id": "rootrp:geckolib:4.9.3",
           "name": "geckolib-neoforge-1.21.1-4.9.3",
           "type": "ForgeMod",
@@ -1654,6 +1664,16 @@
           }
         },
         {
+          "id": "rootrp:framework:0.13.11",
+          "name": "framework-neoforge-1.21.1-0.13.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387334,
+            "MD5": "06f94f31d9e0b59c8b42a5b0df7013d6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/framework-neoforge-1.21.1-0.13.11.jar"
+          }
+        },
+        {
           "id": "rootrp:geckolib:4.9.3",
           "name": "geckolib-neoforge-1.21.1-4.9.3",
           "type": "ForgeMod",
@@ -2616,6 +2636,16 @@
             "size": 5592546,
             "MD5": "0138e5f389f7e8905075090bae94f25f",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/forgified-fabric-api-0.116.14%2B2.3.0%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:framework:0.13.11",
+          "name": "framework-neoforge-1.21.1-0.13.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387334,
+            "MD5": "06f94f31d9e0b59c8b42a5b0df7013d6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/framework-neoforge-1.21.1-0.13.11.jar"
           }
         },
         {
