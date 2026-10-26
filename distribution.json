@@ -969,6 +969,16 @@
           }
         },
         {
+          "id": "rootrp:rootmonsters:1.0.0",
+          "name": "rootmonsters-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 597037,
+            "MD5": "b7b9cd85d2aacab3008c9a6c65c9ffe2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootmonsters-1.0.0.jar"
+          }
+        },
+        {
           "id": "rootrp:rootpets:0.1.0",
           "name": "rootpets-0.1.0",
           "type": "ForgeMod",
@@ -2054,6 +2064,16 @@
           }
         },
         {
+          "id": "rootrp:rootmonsters:1.0.0",
+          "name": "rootmonsters-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 597037,
+            "MD5": "b7b9cd85d2aacab3008c9a6c65c9ffe2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootmonsters-1.0.0.jar"
+          }
+        },
+        {
           "id": "rootrp:rootpets:0.1.0",
           "name": "rootpets-0.1.0",
           "type": "ForgeMod",
@@ -2826,6 +2846,16 @@
             "size": 13238,
             "MD5": "0849c97108fdebaa63a6dbdffc711e2c",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootmobs-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootmonsters:1.0.0",
+          "name": "rootmonsters-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 597037,
+            "MD5": "b7b9cd85d2aacab3008c9a6c65c9ffe2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootmonsters-1.0.0.jar"
           }
         },
         {
