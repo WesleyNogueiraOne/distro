@@ -469,6 +469,16 @@
           }
         },
         {
+          "id": "rootrp:everycomp:1.21-2.11.55",
+          "name": "everycomp-1.21-2.11.55-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2657174,
+            "MD5": "5167ed06b9c7c4caf6ad1d2562eaa38f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/everycomp-1.21-2.11.55-neoforge.jar"
+          }
+        },
+        {
           "id": "curse.maven:fancymenu-neoforge:3.9.8",
           "name": "fancymenu_neoforge_3.9.8_MC_1.21.1",
           "type": "ForgeMod",
@@ -1574,6 +1584,16 @@
           }
         },
         {
+          "id": "rootrp:everycomp:1.21-2.11.55",
+          "name": "everycomp-1.21-2.11.55-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2657174,
+            "MD5": "5167ed06b9c7c4caf6ad1d2562eaa38f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/everycomp-1.21-2.11.55-neoforge.jar"
+          }
+        },
+        {
           "id": "curse.maven:fancymenu-neoforge:3.9.8",
           "name": "fancymenu_neoforge_3.9.8_MC_1.21.1",
           "type": "ForgeMod",
@@ -2576,6 +2596,16 @@
             "size": 7046,
             "MD5": "49fd7bfd4dc9332693a8f8973e4e88d2",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entitydatafix-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:everycomp:1.21-2.11.55",
+          "name": "everycomp-1.21-2.11.55-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2657174,
+            "MD5": "5167ed06b9c7c4caf6ad1d2562eaa38f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/everycomp-1.21-2.11.55-neoforge.jar"
           }
         },
         {
