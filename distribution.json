@@ -3182,5 +3182,107 @@
         }
       ]
     }
-  ]
+  ],
+  "bancada": {
+    "catalog": [
+      {
+        "id": "appleskin",
+        "name": "AppleSkin",
+        "category": "Interface",
+        "desc": "Mostra quanto cada comida recupera de fome e saturação, direto na barra.",
+        "icon": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+        "project": "EsAfCjCV",
+        "version": "uAKA6Laj",
+        "versionName": "3.0.9+mc1.21",
+        "file": "appleskin-neoforge-mc1.21-3.0.9.jar",
+        "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
+        "sha512": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937",
+        "size": 75804
+      },
+      {
+        "id": "mouse-tweaks",
+        "name": "Mouse Tweaks",
+        "category": "Interface",
+        "desc": "Arraste e role o mouse pra mover itens no inventário bem mais rápido.",
+        "icon": "https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp",
+        "project": "aC3cM3Vq",
+        "version": "9I21YYxf",
+        "versionName": "1.21-2.26.1-neoforge",
+        "file": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "sha512": "f95c0cc881211ee0442434976775e07aae40b4a2ba4e3a85455bc57ca9d3c991e239cd98374a8abd442dc9c378dcd9001e2caa1bf69991d424b5652dd7f3483b",
+        "size": 73938
+      },
+      {
+        "id": "3dskinlayers",
+        "name": "3D Skin Layers",
+        "category": "Visual",
+        "desc": "A segunda camada da skin ganha volume em 3D: capuz, mangas e acessórios saltam.",
+        "icon": "https://cdn.modrinth.com/data/zV5r3pPn/ff7010d4ec0275609866c8b0f603b25e25949c08_96.webp",
+        "project": "zV5r3pPn",
+        "version": "GJTnQGfe",
+        "versionName": "1.11.4",
+        "file": "skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/GJTnQGfe/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
+        "sha512": "541d39edf2781676d9777e3c4a18f179f0b0c04f3ea10d279154996b165e02ae5431100f74f95125ba6df2d7f78aacb9353a02e0c2a436b878e7393788cb0a6b",
+        "size": 1905514
+      },
+      {
+        "id": "not-enough-animations",
+        "name": "Not Enough Animations",
+        "category": "Visual",
+        "desc": "Animações em terceira pessoa: comer, ler mapa, segurar tocha e mais.",
+        "icon": "https://cdn.modrinth.com/data/MPCX6s5C/b97fd5f7a893165052408b747286d6eb38d57abb_96.webp",
+        "project": "MPCX6s5C",
+        "version": "VCuMsK45",
+        "versionName": "1.12.6",
+        "file": "notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/VCuMsK45/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+        "sha512": "2b392f770cac669abcc796e836fc86579e29c1c70174f773fadbb747d8a49763fefd938835aeef8681a384aee9a7b6a8fa4684aaa1961159ccddea680e936acd",
+        "size": 1866035
+      },
+      {
+        "id": "particle-rain",
+        "name": "Particle Rain",
+        "category": "Ambiente",
+        "desc": "Chuva, neve e tempestades de areia com partículas de verdade, sem pesar.",
+        "icon": "https://cdn.modrinth.com/data/nrikgvxm/e637304d1bec07c39e833d810aa4bdbb9703bf95_96.webp",
+        "project": "nrikgvxm",
+        "version": "RxfaR4ud",
+        "versionName": "v4.0.2+1.21.1-neoforge",
+        "file": "particlerain-4.0.2+1.21.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/RxfaR4ud/particlerain-4.0.2%2B1.21.1-neoforge.jar",
+        "sha512": "dc5fd6224dbd58079d9c82ef318ba2b945e5aa58f3476daea371ca86bb9ce976db5f4893a7093a990c0c1a8ddb7716089b24cced176f30cb253c2696b0cfd5b2",
+        "size": 623257
+      }
+    ],
+    "blocked": [
+      {
+        "modId": "freecam",
+        "reason": "Câmera livre: dá pra espiar através de paredes e bases",
+        "rule": "Proibido: vantagem indevida"
+      },
+      {
+        "modId": "xray",
+        "pattern": "x-?ray",
+        "reason": "X-ray revela minérios e bases escondidas",
+        "rule": "Proibido: vantagem indevida"
+      },
+      {
+        "modId": "baritone",
+        "reason": "Automação de movimento e mineração",
+        "rule": "Proibido: automação"
+      },
+      {
+        "modId": "meteor-client",
+        "reason": "Client de trapaça",
+        "rule": "Proibido: hack client"
+      },
+      {
+        "modId": "wurst",
+        "reason": "Client de trapaça",
+        "rule": "Proibido: hack client"
+      }
+    ]
+  }
 }
