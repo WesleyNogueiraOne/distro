@@ -1273,6 +1273,16 @@
           }
         },
         {
+          "id": "rootrp:bbs:2.3.3-1.21.1",
+          "name": "bbs-2.3.3-1.21.1",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 10739246,
+            "MD5": "b9a43825d025a36fec806de7f34135a3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/bbs-2.3.3-1.21.1.jar"
+          }
+        },
+        {
           "id": "rootrp:betteradvancedtooltips:2101.1.0-build.5",
           "name": "better-advanced-tooltips-2101.1.0-build.5",
           "type": "ForgeMod",
