@@ -959,6 +959,16 @@
           }
         },
         {
+          "id": "rootrp:escalada:1.0.0",
+          "name": "root-escalada-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73290,
+            "MD5": "2e3d042fe6f0f9c67c59731d1b9b45d6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root-escalada-1.0.0.jar"
+          }
+        },
+        {
           "id": "rootrp:rootmobs:1.0.0",
           "name": "rootmobs-1.0.0",
           "type": "ForgeMod",
@@ -2054,6 +2064,16 @@
           }
         },
         {
+          "id": "rootrp:escalada:1.0.0",
+          "name": "root-escalada-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73290,
+            "MD5": "2e3d042fe6f0f9c67c59731d1b9b45d6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root-escalada-1.0.0.jar"
+          }
+        },
+        {
           "id": "rootrp:rootmobs:1.0.0",
           "name": "rootmobs-1.0.0",
           "type": "ForgeMod",
@@ -2846,6 +2866,16 @@
             "size": 1681747,
             "MD5": "e7d7192b2b8e81a6e7ab9bc9fc410995",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_skills-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:escalada:1.0.0",
+          "name": "root-escalada-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73290,
+            "MD5": "2e3d042fe6f0f9c67c59731d1b9b45d6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root-escalada-1.0.0.jar"
           }
         },
         {
