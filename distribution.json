@@ -419,6 +419,16 @@
           }
         },
         {
+          "id": "rootrp:easy_mob_spawn_control:1.6.2",
+          "name": "easy_mob_spawn_control-1.6.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517612,
+            "MD5": "8795f4c3822885ffc491fa47aad33ce0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/easy_mob_spawn_control-1.6.2.jar"
+          }
+        },
+        {
           "id": "curse.maven:eatinganimation:6.0.1",
           "name": "eatinganimation-1.21.0-6.0.1",
           "type": "ForgeMod",
@@ -1534,6 +1544,16 @@
           }
         },
         {
+          "id": "rootrp:easy_mob_spawn_control:1.6.2",
+          "name": "easy_mob_spawn_control-1.6.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517612,
+            "MD5": "8795f4c3822885ffc491fa47aad33ce0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/easy_mob_spawn_control-1.6.2.jar"
+          }
+        },
+        {
           "id": "curse.maven:eatinganimation:6.0.1",
           "name": "eatinganimation-1.21.0-6.0.1",
           "type": "ForgeMod",
@@ -2556,6 +2576,16 @@
             "size": 214030,
             "MD5": "ac9b3ac4a46b8f062261106e6b8ee9e5",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dummmmmmy-neoforge-1.21-2.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:easy_mob_spawn_control:1.6.2",
+          "name": "easy_mob_spawn_control-1.6.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517612,
+            "MD5": "8795f4c3822885ffc491fa47aad33ce0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/easy_mob_spawn_control-1.6.2.jar"
           }
         },
         {
