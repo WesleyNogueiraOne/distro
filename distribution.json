@@ -26,8 +26,9 @@
       "minecraftVersion": "1.21.1",
       "discord": {
         "clientId": "1572333823646240768",
-        "smallImageText": "Root RP",
-        "smallImageKey": "icon"
+        "shortId": "Root RP",
+        "largeImageKey": "icon",
+        "largeImageText": "Root RP · rootrp.com.br"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -1251,8 +1252,9 @@
       "minecraftVersion": "1.21.1",
       "discord": {
         "clientId": "1572333823646240768",
-        "smallImageText": "Root RP",
-        "smallImageKey": "icon"
+        "shortId": "Root RP",
+        "largeImageKey": "icon",
+        "largeImageText": "Root RP · rootrp.com.br"
       },
       "mainServer": false,
       "autoconnect": true,
@@ -2436,8 +2438,9 @@
       "minecraftVersion": "1.21.1",
       "discord": {
         "clientId": "1572333823646240768",
-        "smallImageText": "Root RP",
-        "smallImageKey": "icon"
+        "shortId": "Root RP",
+        "largeImageKey": "icon",
+        "largeImageText": "Root RP · rootrp.com.br"
       },
       "mainServer": false,
       "autoconnect": true,
