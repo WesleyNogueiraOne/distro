@@ -569,6 +569,16 @@
           }
         },
         {
+          "id": "rootrp:fabric_api:0.116.14+2.3.0+1.21.1",
+          "name": "forgified-fabric-api-0.116.14+2.3.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5592546,
+            "MD5": "0138e5f389f7e8905075090bae94f25f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/forgified-fabric-api-0.116.14%2B2.3.0%2B1.21.1.jar"
+          }
+        },
+        {
           "id": "curse.maven:forgivingvoid-neoforge:21.1.7",
           "name": "forgivingvoid-neoforge-1.21.1-21.1.7",
           "type": "ForgeMod",
@@ -1208,6 +1218,9 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
           }
         }
+      ],
+      "access": [
+        "APOIADOR"
       ]
     },
     {
@@ -2393,6 +2406,12 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
           }
         }
+      ],
+      "access": [
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
       ]
     },
     {
@@ -3248,6 +3267,12 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
           }
         }
+      ],
+      "access": [
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
       ]
     },
     {
@@ -3500,6 +3525,12 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/yyzsbackpack-neoforge-21.1.13.jar"
           }
         }
+      ],
+      "access": [
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
       ]
     }
   ],
