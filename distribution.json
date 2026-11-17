@@ -159,6 +159,16 @@
           }
         },
         {
+          "id": "rootrp:bbs:2.3.3-1.21.1",
+          "name": "bbs-2.3.3-1.21.1",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 10739246,
+            "MD5": "b9a43825d025a36fec806de7f34135a3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/bbs-2.3.3-1.21.1.jar"
+          }
+        },
+        {
           "id": "rootrp:betteradvancedtooltips:2101.1.0-build.5",
           "name": "better-advanced-tooltips-2101.1.0-build.5",
           "type": "ForgeMod",
@@ -257,6 +267,17 @@
             "MD5": "f2d38f850688eefa338b807801df2b4b",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connectivity-1.21.1-7.6.jar"
           }
+        },
+        {
+          "id": "rootrp:connector:2.0.0",
+          "name": "connector-2.0.0-beta.15+1.21.1-full",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4527066,
+            "MD5": "b2129fe4eb40ebbef0e56e02b3ab53b1",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connector-2.0.0-beta.15%2B1.21.1-full.jar"
+          },
+          "placeInMods": true
         },
         {
           "id": "rootrp:copycats:3.0.4+mc.1.21.1-neoforge",
@@ -1218,9 +1239,6 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
           }
         }
-      ],
-      "access": [
-        "APOIADOR"
       ]
     },
     {
@@ -2406,12 +2424,6 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
           }
         }
-      ],
-      "access": [
-        "STAFF",
-        "MANAGER",
-        "ADMIN",
-        "OWNER"
       ]
     },
     {
@@ -3267,12 +3279,6 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
           }
         }
-      ],
-      "access": [
-        "STAFF",
-        "MANAGER",
-        "ADMIN",
-        "OWNER"
       ]
     },
     {
@@ -3525,12 +3531,6 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/yyzsbackpack-neoforge-21.1.13.jar"
           }
         }
-      ],
-      "access": [
-        "STAFF",
-        "MANAGER",
-        "ADMIN",
-        "OWNER"
       ]
     }
   ],
