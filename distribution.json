@@ -761,6 +761,46 @@
           }
         },
         {
+          "id": "rootrp:kaleidoscope_chinesefood:1.2.0-neoforge+1.21.1",
+          "name": "kaleidoscope_chinesefood-1.2.0-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5009895,
+            "MD5": "c4f97e6dcd18e17d70606330e6a2ef09",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_chinesefood-1.2.0-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_grilling:1.1.1",
+          "name": "kaleidoscope_grilling-1.1.1-neoforge1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3245725,
+            "MD5": "ee988e2b1a076c94b0991a72fe0b6c5e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_grilling-1.1.1-neoforge1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_world_liquor:1.2.0-neoforge+1.21.1",
+          "name": "kaleidoscope_world_liquor-1.2.0-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2667260,
+            "MD5": "83673b0ec5e63984015bfd8c9bf2ed6d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_world_liquor-1.2.0-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_flora:0.3.5.1",
+          "name": "kaleidoscope-flora-0.3.5.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 837545,
+            "MD5": "36990736968e29b68a6f95ab218e340e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope-flora-0.3.5.1-neoforge.jar"
+          }
+        },
+        {
           "id": "rootrp:kaleidoscope_cookery:1.6.0-neoforge+mc1.21.1",
           "name": "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1",
           "type": "ForgeMod",
@@ -768,6 +808,16 @@
             "size": 3496661,
             "MD5": "a01c3d2872f12f8a4b020bfd66affac3",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_tavern:1.2.0-neoforge+mc1.21.1",
+          "name": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1708047,
+            "MD5": "35c1224358390f52abd619ff08e68f3a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar"
           }
         },
         {
@@ -1065,8 +1115,8 @@
           "name": "rootjobs-1.0.0",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1941108,
-            "MD5": "a3c2634d1b70a6e712f3add10b11d933",
+            "size": 2660992,
+            "MD5": "c331687c67e1ea72749bb5e852476217",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootjobs-1.0.0.jar"
           }
         },
@@ -1967,6 +2017,46 @@
           }
         },
         {
+          "id": "rootrp:kaleidoscope_chinesefood:1.2.0-neoforge+1.21.1",
+          "name": "kaleidoscope_chinesefood-1.2.0-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5009895,
+            "MD5": "c4f97e6dcd18e17d70606330e6a2ef09",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_chinesefood-1.2.0-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_grilling:1.1.1",
+          "name": "kaleidoscope_grilling-1.1.1-neoforge1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3245725,
+            "MD5": "ee988e2b1a076c94b0991a72fe0b6c5e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_grilling-1.1.1-neoforge1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_world_liquor:1.2.0-neoforge+1.21.1",
+          "name": "kaleidoscope_world_liquor-1.2.0-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2667260,
+            "MD5": "83673b0ec5e63984015bfd8c9bf2ed6d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_world_liquor-1.2.0-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_flora:0.3.5.1",
+          "name": "kaleidoscope-flora-0.3.5.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 837545,
+            "MD5": "36990736968e29b68a6f95ab218e340e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope-flora-0.3.5.1-neoforge.jar"
+          }
+        },
+        {
           "id": "rootrp:kaleidoscope_cookery:1.6.0-neoforge+mc1.21.1",
           "name": "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1",
           "type": "ForgeMod",
@@ -1974,6 +2064,16 @@
             "size": 3496661,
             "MD5": "a01c3d2872f12f8a4b020bfd66affac3",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_tavern:1.2.0-neoforge+mc1.21.1",
+          "name": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1708047,
+            "MD5": "35c1224358390f52abd619ff08e68f3a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar"
           }
         },
         {
@@ -2261,8 +2361,8 @@
           "name": "rootjobs-1.0.0",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1941108,
-            "MD5": "a3c2634d1b70a6e712f3add10b11d933",
+            "size": 2660992,
+            "MD5": "c331687c67e1ea72749bb5e852476217",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootjobs-1.0.0.jar"
           }
         },
@@ -2973,6 +3073,46 @@
           }
         },
         {
+          "id": "rootrp:kaleidoscope_chinesefood:1.2.0-neoforge+1.21.1",
+          "name": "kaleidoscope_chinesefood-1.2.0-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5009895,
+            "MD5": "c4f97e6dcd18e17d70606330e6a2ef09",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_chinesefood-1.2.0-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_grilling:1.1.1",
+          "name": "kaleidoscope_grilling-1.1.1-neoforge1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3245725,
+            "MD5": "ee988e2b1a076c94b0991a72fe0b6c5e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_grilling-1.1.1-neoforge1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_world_liquor:1.2.0-neoforge+1.21.1",
+          "name": "kaleidoscope_world_liquor-1.2.0-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2667260,
+            "MD5": "83673b0ec5e63984015bfd8c9bf2ed6d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_world_liquor-1.2.0-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_flora:0.3.5.1",
+          "name": "kaleidoscope-flora-0.3.5.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 837545,
+            "MD5": "36990736968e29b68a6f95ab218e340e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope-flora-0.3.5.1-neoforge.jar"
+          }
+        },
+        {
           "id": "rootrp:kaleidoscope_cookery:1.6.0-neoforge+mc1.21.1",
           "name": "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1",
           "type": "ForgeMod",
@@ -2980,6 +3120,16 @@
             "size": 3496661,
             "MD5": "a01c3d2872f12f8a4b020bfd66affac3",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_tavern:1.2.0-neoforge+mc1.21.1",
+          "name": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1708047,
+            "MD5": "35c1224358390f52abd619ff08e68f3a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar"
           }
         },
         {
@@ -3147,8 +3297,8 @@
           "name": "rootjobs-1.0.0",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1941108,
-            "MD5": "a3c2634d1b70a6e712f3add10b11d933",
+            "size": 2660992,
+            "MD5": "c331687c67e1ea72749bb5e852476217",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootjobs-1.0.0.jar"
           }
         },
