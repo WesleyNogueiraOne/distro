@@ -431,16 +431,6 @@
           }
         },
         {
-          "id": "rootrp:dj_praevi:1.0.0",
-          "name": "dj_praevi-1.0.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 403107,
-            "MD5": "8801d1e58ead89a36b853778c225d783",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dj_praevi-1.0.0.jar"
-          }
-        },
-        {
           "id": "rootrp:do_a_barrel_roll:3.7.3",
           "name": "do_a_barrel_roll-neoforge-3.7.3+1.21",
           "type": "ForgeMod",
@@ -1111,6 +1101,16 @@
           }
         },
         {
+          "id": "rootrp:rootbeats:1.1.0",
+          "name": "rootbeats-1.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 420515,
+            "MD5": "fc6c681ec7c57b6fa8b250e3c4637d39",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootbeats-1.1.0.jar"
+          }
+        },
+        {
           "id": "rootrp:rootjobs:1.0.0",
           "name": "rootjobs-1.0.0",
           "type": "ForgeMod",
@@ -1684,16 +1684,6 @@
             "size": 28289212,
             "MD5": "578523767ee8cef71a9933a79126f67b",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
-          }
-        },
-        {
-          "id": "rootrp:dj_praevi:1.0.0",
-          "name": "dj_praevi-1.0.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 403107,
-            "MD5": "8801d1e58ead89a36b853778c225d783",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dj_praevi-1.0.0.jar"
           }
         },
         {
@@ -2357,6 +2347,16 @@
           }
         },
         {
+          "id": "rootrp:rootbeats:1.1.0",
+          "name": "rootbeats-1.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 420515,
+            "MD5": "fc6c681ec7c57b6fa8b250e3c4637d39",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootbeats-1.1.0.jar"
+          }
+        },
+        {
           "id": "rootrp:rootjobs:1.0.0",
           "name": "rootjobs-1.0.0",
           "type": "ForgeMod",
@@ -2863,16 +2863,6 @@
           }
         },
         {
-          "id": "rootrp:dj_praevi:1.0.0",
-          "name": "dj_praevi-1.0.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 403107,
-            "MD5": "8801d1e58ead89a36b853778c225d783",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dj_praevi-1.0.0.jar"
-          }
-        },
-        {
           "id": "curse.maven:dummmmmmy-neoforge:2.1.0",
           "name": "dummmmmmy-neoforge-1.21-2.1.0",
           "type": "ForgeMod",
@@ -3290,6 +3280,16 @@
             "size": 73290,
             "MD5": "2e3d042fe6f0f9c67c59731d1b9b45d6",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root-escalada-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootbeats:1.1.0",
+          "name": "rootbeats-1.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 420515,
+            "MD5": "fc6c681ec7c57b6fa8b250e3c4637d39",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootbeats-1.1.0.jar"
           }
         },
         {
