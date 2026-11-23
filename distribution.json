@@ -811,6 +811,16 @@
           }
         },
         {
+          "id": "rootrp:kiwi:15.8.7+neoforge",
+          "name": "Kiwi-1.21.1-NeoForge-15.8.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1539578,
+            "MD5": "9c95ce435a090529797c9564c71221cb",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Kiwi-1.21.1-NeoForge-15.8.7.jar"
+          }
+        },
+        {
           "id": "curse.maven:konkrete-neoforge:1.9.9",
           "name": "konkrete_neoforge_1.9.9_MC_1.21",
           "type": "ForgeMod",
@@ -1181,6 +1191,16 @@
           }
         },
         {
+          "id": "rootrp:snowrealmagic:12.2.7+neoforge",
+          "name": "SnowRealMagic-1.21.1-NeoForge-12.2.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3911825,
+            "MD5": "f1f127df785d74e0c98db9a324ef4b8b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/SnowRealMagic-1.21.1-NeoForge-12.2.7.jar"
+          }
+        },
+        {
           "id": "curse.maven:sodium-neoforge:0.6.13",
           "name": "sodium-neoforge-0.6.13+mc1.21.1",
           "type": "ForgeMod",
@@ -1268,6 +1288,16 @@
             "size": 6276522,
             "MD5": "69cd87744e40cc444b4176022ec6d17a",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/txnilib-neoforge-1.0.24-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:vanilla_timber:2.2.8+1.21.1-neoforge",
+          "name": "vanilla_timber-2.2.8-1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 561076,
+            "MD5": "01405f7b9d9a1cb155b625f3b3e67ab2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/vanilla_timber-2.2.8-1.21.1-neoforge.jar"
           }
         },
         {
@@ -2070,6 +2100,16 @@
           }
         },
         {
+          "id": "rootrp:kiwi:15.8.7+neoforge",
+          "name": "Kiwi-1.21.1-NeoForge-15.8.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1539578,
+            "MD5": "9c95ce435a090529797c9564c71221cb",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Kiwi-1.21.1-NeoForge-15.8.7.jar"
+          }
+        },
+        {
           "id": "curse.maven:konkrete-neoforge:1.9.9",
           "name": "konkrete_neoforge_1.9.9_MC_1.21",
           "type": "ForgeMod",
@@ -2430,6 +2470,16 @@
           }
         },
         {
+          "id": "rootrp:snowrealmagic:12.2.7+neoforge",
+          "name": "SnowRealMagic-1.21.1-NeoForge-12.2.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3911825,
+            "MD5": "f1f127df785d74e0c98db9a324ef4b8b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/SnowRealMagic-1.21.1-NeoForge-12.2.7.jar"
+          }
+        },
+        {
           "id": "curse.maven:sodium-neoforge:0.6.13",
           "name": "sodium-neoforge-0.6.13+mc1.21.1",
           "type": "ForgeMod",
@@ -2507,6 +2557,16 @@
             "size": 6276522,
             "MD5": "69cd87744e40cc444b4176022ec6d17a",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/txnilib-neoforge-1.0.24-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:vanilla_timber:2.2.8+1.21.1-neoforge",
+          "name": "vanilla_timber-2.2.8-1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 561076,
+            "MD5": "01405f7b9d9a1cb155b625f3b3e67ab2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/vanilla_timber-2.2.8-1.21.1-neoforge.jar"
           }
         },
         {
@@ -3132,6 +3192,16 @@
           }
         },
         {
+          "id": "rootrp:kiwi:15.8.7+neoforge",
+          "name": "Kiwi-1.21.1-NeoForge-15.8.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1539578,
+            "MD5": "9c95ce435a090529797c9564c71221cb",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Kiwi-1.21.1-NeoForge-15.8.7.jar"
+          }
+        },
+        {
           "id": "rootrp:kubejs:2101.7.2-build.377",
           "name": "kubejs-neoforge-2101.7.2-build.377",
           "type": "ForgeMod",
@@ -3362,6 +3432,16 @@
           }
         },
         {
+          "id": "rootrp:snowrealmagic:12.2.7+neoforge",
+          "name": "SnowRealMagic-1.21.1-NeoForge-12.2.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3911825,
+            "MD5": "f1f127df785d74e0c98db9a324ef4b8b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/SnowRealMagic-1.21.1-NeoForge-12.2.7.jar"
+          }
+        },
+        {
           "id": "curse.maven:sodium-neoforge:0.6.13",
           "name": "sodium-neoforge-0.6.13+mc1.21.1",
           "type": "ForgeMod",
@@ -3419,6 +3499,16 @@
             "size": 6276522,
             "MD5": "69cd87744e40cc444b4176022ec6d17a",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/txnilib-neoforge-1.0.24-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:vanilla_timber:2.2.8+1.21.1-neoforge",
+          "name": "vanilla_timber-2.2.8-1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 561076,
+            "MD5": "01405f7b9d9a1cb155b625f3b3e67ab2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/vanilla_timber-2.2.8-1.21.1-neoforge.jar"
           }
         },
         {
@@ -4394,6 +4484,16 @@
           }
         },
         {
+          "id": "rootrp:kiwi:15.8.7+neoforge",
+          "name": "Kiwi-1.21.1-NeoForge-15.8.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1539578,
+            "MD5": "9c95ce435a090529797c9564c71221cb",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Kiwi-1.21.1-NeoForge-15.8.7.jar"
+          }
+        },
+        {
           "id": "curse.maven:konkrete-neoforge:1.9.9",
           "name": "konkrete_neoforge_1.9.9_MC_1.21",
           "type": "ForgeMod",
@@ -4865,6 +4965,16 @@
           }
         },
         {
+          "id": "rootrp:snowrealmagic:12.2.7+neoforge",
+          "name": "SnowRealMagic-1.21.1-NeoForge-12.2.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3911825,
+            "MD5": "f1f127df785d74e0c98db9a324ef4b8b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/SnowRealMagic-1.21.1-NeoForge-12.2.7.jar"
+          }
+        },
+        {
           "id": "curse.maven:sodium-neoforge:0.6.13",
           "name": "sodium-neoforge-0.6.13+mc1.21.1",
           "type": "ForgeMod",
@@ -4982,6 +5092,16 @@
             "size": 6276522,
             "MD5": "69cd87744e40cc444b4176022ec6d17a",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/txnilib-neoforge-1.0.24-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:vanilla_timber:2.2.8+1.21.1-neoforge",
+          "name": "vanilla_timber-2.2.8-1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 561076,
+            "MD5": "01405f7b9d9a1cb155b625f3b3e67ab2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/vanilla_timber-2.2.8-1.21.1-neoforge.jar"
           }
         },
         {
@@ -5807,6 +5927,16 @@
           }
         },
         {
+          "id": "rootrp:kiwi:15.8.7+neoforge",
+          "name": "Kiwi-1.21.1-NeoForge-15.8.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1539578,
+            "MD5": "9c95ce435a090529797c9564c71221cb",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Kiwi-1.21.1-NeoForge-15.8.7.jar"
+          }
+        },
+        {
           "id": "curse.maven:konkrete-neoforge:1.9.9",
           "name": "konkrete_neoforge_1.9.9_MC_1.21",
           "type": "ForgeMod",
@@ -6207,6 +6337,16 @@
           }
         },
         {
+          "id": "rootrp:snowrealmagic:12.2.7+neoforge",
+          "name": "SnowRealMagic-1.21.1-NeoForge-12.2.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3911825,
+            "MD5": "f1f127df785d74e0c98db9a324ef4b8b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/SnowRealMagic-1.21.1-NeoForge-12.2.7.jar"
+          }
+        },
+        {
           "id": "curse.maven:sodium-neoforge:0.6.13",
           "name": "sodium-neoforge-0.6.13+mc1.21.1",
           "type": "ForgeMod",
@@ -6264,6 +6404,16 @@
             "size": 6276522,
             "MD5": "69cd87744e40cc444b4176022ec6d17a",
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/txnilib-neoforge-1.0.24-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:vanilla_timber:2.2.8+1.21.1-neoforge",
+          "name": "vanilla_timber-2.2.8-1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 561076,
+            "MD5": "01405f7b9d9a1cb155b625f3b3e67ab2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/vanilla_timber-2.2.8-1.21.1-neoforge.jar"
           }
         },
         {
