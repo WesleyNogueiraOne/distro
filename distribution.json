@@ -6638,6 +6638,23 @@
           "RootLite",
           "AMT"
         ]
+      },
+      {
+        "id": "punchy-fpa",
+        "name": "Punchy!",
+        "category": "Visual",
+        "desc": "Animações em primeira pessoa: soco, golpe, troca de item e movimento com mais peso.",
+        "icon": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
+        "project": "8aoMKplv",
+        "version": "aVZEe0j8",
+        "versionName": "3.2b",
+        "file": "punchy-3.2b-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/aVZEe0j8/punchy-3.2b-neoforge-1.21.1.jar",
+        "sha512": "6f8426512d5ba99e356a151f4c73f85e6d287e6e2c19756b88037f7cf443e758cf2cbfb7964ba8e00ccd3ecb5826b572302e20bf1236e7a6d1e9676d541feb3d",
+        "size": 4523878,
+        "servers": [
+          "RootImersiva"
+        ]
       }
     ],
     "blocked": [
