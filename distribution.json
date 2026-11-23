@@ -5005,13 +5005,23 @@
           }
         },
         {
-          "id": "rootrp:windy:1.1.1+1.21-neoforge",
-          "name": "windy-1.1.1+1.21-neoforge",
+          "id": "rootrp:weatherglass:0.6.2+1.21.1-neoforge",
+          "name": "weatherglass-0.6.2-1.21.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
-            "size": 33416,
-            "MD5": "8f27e1dfd0336b069f06661dc5214c55",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/windy-1.1.1%2B1.21-neoforge.jar"
+            "size": 616874,
+            "MD5": "f1026a0748ec0ad7d2379f6b03bcb982",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weatherglass-0.6.2-1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:windy:1.2.1",
+          "name": "Windy_NeoForge-1.21.1-v1.2.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 68868,
+            "MD5": "8a9a2e5f4c3a0d69377633f7b8fb7547",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Windy_NeoForge-1.21.1-v1.2.1.jar"
           }
         },
         {
