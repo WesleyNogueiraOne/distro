@@ -5,7 +5,10 @@
       "name": "Root RP",
       "description": "Modpack oficial do Root RP",
       "folder": "mods",
-      "main": true
+      "main": true,
+      "access": [
+        "APOIADOR"
+      ]
     },
     {
       "id": "RootStaff",
@@ -13,6 +16,12 @@
       "description": "Versão da staff",
       "folder": "mods-staff",
       "extends": "MeuServidor",
+      "access": [
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
+      ],
       "exclude": [
         "colorwheel",
         "colorwheel_patcher",
@@ -27,6 +36,12 @@
       "description": "Versão do time de marketing",
       "folder": "mods-gravacao",
       "extends": "MeuServidor",
+      "access": [
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
+      ],
       "exclude": [
         "almanac",
         "architectury",
@@ -81,7 +96,10 @@
       "folder": "mods-imersiva",
       "extends": "MeuServidor",
       "access": [
-        "STAFF"
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
       ],
       "exclude": []
     },
@@ -92,7 +110,10 @@
       "folder": "mods-lite",
       "extends": "MeuServidor",
       "access": [
-        "STAFF"
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
       ],
       "exclude": [
         "auroras",
@@ -115,6 +136,12 @@
       "folder": "mods-amt",
       "standalone": true,
       "address": "sd-br12.blazebr.com:26233",
+      "access": [
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
+      ],
       "exclude": []
     }
   ]

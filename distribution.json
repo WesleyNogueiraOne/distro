@@ -1290,6 +1290,9 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
           }
         }
+      ],
+      "access": [
+        "APOIADOR"
       ]
     },
     {
@@ -2526,6 +2529,12 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
           }
         }
+      ],
+      "access": [
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
       ]
     },
     {
@@ -3432,6 +3441,12 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
           }
         }
+      ],
+      "access": [
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
       ]
     },
     {
@@ -5031,7 +5046,10 @@
         }
       ],
       "access": [
-        "STAFF"
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
       ]
     },
     {
@@ -6270,7 +6288,10 @@
         }
       ],
       "access": [
-        "STAFF"
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
       ]
     },
     {
@@ -6523,6 +6544,12 @@
             "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/yyzsbackpack-neoforge-21.1.13.jar"
           }
         }
+      ],
+      "access": [
+        "STAFF",
+        "MANAGER",
+        "ADMIN",
+        "OWNER"
       ]
     }
   ],
