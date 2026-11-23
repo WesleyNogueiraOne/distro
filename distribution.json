@@ -3693,16 +3693,6 @@
           }
         },
         {
-          "id": "rootrp:chunksfadein:3.0.26-1.21",
-          "name": "chunksfadein-neoforge-3.0.26-1.21",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 674876,
-            "MD5": "498b28ac40b99e08d69be37b6ab33d81",
-            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/chunksfadein-neoforge-3.0.26-1.21.jar"
-          }
-        },
-        {
           "id": "curse.maven:clientcrafting:2.1",
           "name": "clientcrafting-1.21-2.1",
           "type": "ForgeMod",
