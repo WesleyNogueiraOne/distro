@@ -3435,6 +3435,2845 @@
       ]
     },
     {
+      "id": "RootImersiva",
+      "name": "Root RP · Imersiva",
+      "description": "Visual e sons caprichados: chuva, partículas, nuvens, animações de comer e beber. Pra PC bom.",
+      "icon": "icon.png",
+      "version": "1.0.0",
+      "address": "sd-br10.blazebr.com:25899",
+      "minecraftVersion": "1.21.1",
+      "discord": {
+        "clientId": "1572333823646240768",
+        "shortId": "Root RP",
+        "largeImageKey": "icon",
+        "largeImageText": "Root RP · rootrp.com.br"
+      },
+      "mainServer": false,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "curse.maven:neoforge-installer:21.1.248",
+          "name": "NeoForge Installer",
+          "type": "File",
+          "artifact": {
+            "size": 6972104,
+            "MD5": "90eee26ffd6be552a8453e23a15a6e35",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-installer.jar",
+            "path": "files/neoforge-installer/21.1.248/neoforge-installer-21.1.248.jar"
+          }
+        },
+        {
+          "id": "net.neoforged:neoforge:21.1.248",
+          "name": "NeoForge",
+          "type": "NeoForge",
+          "artifact": {
+            "size": 6972104,
+            "MD5": "90eee26ffd6be552a8453e23a15a6e35",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-installer.jar",
+            "path": "files/neoforge-installer/21.1.248/neoforge-installer-21.1.248.jar"
+          }
+        },
+        {
+          "id": "curse.maven:kubejs-pack:1.0.0",
+          "name": "KubeJS Scripts",
+          "type": "File",
+          "extractTo": "kubejs",
+          "artifact": {
+            "size": 127604,
+            "MD5": "4a6cec9a79cbfe5574195a77a6859681",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs.zip",
+            "path": "files/kubejs-pack/1.0.0/kubejs-pack-1.0.0.zip"
+          }
+        },
+        {
+          "id": "curse.maven:config-pack:1.0.0",
+          "name": "Configs",
+          "type": "File",
+          "extractTo": "config",
+          "artifact": {
+            "size": 386545,
+            "MD5": "9560b0a0e28b9dc50471385e561f7efe",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/config.zip",
+            "path": "files/config-pack/1.0.0/config-pack-1.0.0.zip"
+          }
+        },
+        {
+          "id": "rootrp:a_good_place:1.21-1.2.6",
+          "name": "a_good_place-1.21-1.2.6-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 103243,
+            "MD5": "36117252fe226f2b190e28c7e839d845",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/a_good_place-1.21-1.2.6-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:alexsmobs:2.2.2",
+          "name": "alexsmobs-2.2.2-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27464680,
+            "MD5": "c3ff76e655f2b2ef1649973ff9e374d2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/alexsmobs-2.2.2-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:almanac:1.5.2",
+          "name": "Almanac-1.21.1-2-neoforge-1.5.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25593,
+            "MD5": "49d03c4b56618fda3c7e01af2fc73e7d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Almanac-1.21.1-2-neoforge-1.5.2.jar"
+          }
+        },
+        {
+          "id": "rootrp:ambientenvironment:18.0.0.2",
+          "name": "AmbientEnvironment-neoforge-1.21.1-18.0.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50812,
+            "MD5": "5a80454ea74dc40ebddf998f083b8029",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar"
+          }
+        },
+        {
+          "id": "rootrp:ambientsounds:6.3.11",
+          "name": "AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 84815086,
+            "MD5": "558ef1c73b4a597bc237857253d0effb",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:aquaculture:2.7.21",
+          "name": "Aquaculture-1.21.1-2.7.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 605949,
+            "MD5": "53d4d0d0f62c555638c27206087c2476",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Aquaculture-1.21.1-2.7.21.jar"
+          }
+        },
+        {
+          "id": "curse.maven:architectury:13.0.11",
+          "name": "architectury-13.0.11-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 584734,
+            "MD5": "aefbea361809755c331126bcff6e6d3e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/architectury-13.0.11-neoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:auroras:1.6.2",
+          "name": "Auroras-1.21-1.6.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2116122,
+            "MD5": "d90c6dc4706cd67a1faf324a7f28046b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Auroras-1.21-1.6.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:backport-neogorge:2.1.0",
+          "name": "backport_neogorge-2.1.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 148633,
+            "MD5": "596c76d3f984dde7a3a3ff25b9eaf1fd",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/backport_neogorge-2.1.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:badoptimizations:2.4.1",
+          "name": "BadOptimizations-2.4.1-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 283566,
+            "MD5": "59ee243a5ccd09fff1dd2879b3cad72a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/BadOptimizations-2.4.1-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:balm-neoforge:21.0.63",
+          "name": "balm-neoforge-1.21.1-21.0.63",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 782380,
+            "MD5": "dc3cfe59a6b263a39c5234d69e227900",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/balm-neoforge-1.21.1-21.0.63.jar"
+          }
+        },
+        {
+          "id": "rootrp:bbs:2.3.3-1.21.1",
+          "name": "bbs-2.3.3-1.21.1",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 10739246,
+            "MD5": "b9a43825d025a36fec806de7f34135a3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/bbs-2.3.3-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:betteradvancedtooltips:2101.1.0-build.5",
+          "name": "better-advanced-tooltips-2101.1.0-build.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37653,
+            "MD5": "edf97f2f11f57fffb4ed6d71c7b4508a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/better-advanced-tooltips-2101.1.0-build.5.jar"
+          }
+        },
+        {
+          "id": "rootrp:betterclouds:1.13.11+1.21.1-neoforge",
+          "name": "better-clouds-1.13.11+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 817079,
+            "MD5": "7b844ad0568fbbd2aea9ad12ebc7b398",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/better-clouds-1.13.11%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:betteranimationscollection:21.1.1",
+          "name": "BetterAnimationsCollection-v21.1.1-1.21.1-NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 191292,
+            "MD5": "9c5b3463a798a6578a414bcbc0e4bbe3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/BetterAnimationsCollection-v21.1.1-1.21.1-NeoForge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:bettercombat-neoforge:2.4.0",
+          "name": "bettercombat-neoforge-2.4.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1045389,
+            "MD5": "73b115123b9d41b211c5acda16df738f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/bettercombat-neoforge-2.4.0%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:brewinandchewin:4.5.0",
+          "name": "BrewinAndChewin-neoforge-4.5.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1575450,
+            "MD5": "4548d2c0d5813e5a0acaf5c68a86ec6c",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/BrewinAndChewin-neoforge-4.5.0%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:catalogue-neoforge:1.11.2",
+          "name": "catalogue-neoforge-1.21.1-1.11.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 302750,
+            "MD5": "cc87e5716eb52398b2c46e4032126de4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/catalogue-neoforge-1.21.1-1.11.2.jar"
+          }
+        },
+        {
+          "id": "rootrp:chunksfadein:3.0.26-1.21",
+          "name": "chunksfadein-neoforge-3.0.26-1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 674876,
+            "MD5": "498b28ac40b99e08d69be37b6ab33d81",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/chunksfadein-neoforge-3.0.26-1.21.jar"
+          }
+        },
+        {
+          "id": "curse.maven:clientcrafting:2.1",
+          "name": "clientcrafting-1.21-2.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7144,
+            "MD5": "09e8c9e83844ea5a9b1a569b8c14f515",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/clientcrafting-1.21-2.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:cloth-config:15.0.140",
+          "name": "cloth-config-15.0.140-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1163890,
+            "MD5": "4c3757160403fcccb8ad468c2ea22862",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cloth-config-15.0.140-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:codxlib:1.6.1",
+          "name": "codxlib-1.6.1-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 193045,
+            "MD5": "53028b7828bc61e428edcc0d5c0afa9d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/codxlib-1.6.1-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:colorwheel-patcher-neoforge:1.0.5",
+          "name": "colorwheel_patcher-neoforge-1.0.5+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 210569,
+            "MD5": "395253024ca2839433d824b9eb715ad4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/colorwheel_patcher-neoforge-1.0.5%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:colorwheel-neoforge:1.2.9",
+          "name": "colorwheel-neoforge-1.2.9+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398004,
+            "MD5": "5fb6fde45515060b695c245ecbf5f1ae",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/colorwheel-neoforge-1.2.9%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:connectivity:7.6",
+          "name": "connectivity-1.21.1-7.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 114165,
+            "MD5": "f2d38f850688eefa338b807801df2b4b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connectivity-1.21.1-7.6.jar"
+          }
+        },
+        {
+          "id": "rootrp:connector:2.0.0",
+          "name": "connector-2.0.0-beta.15+1.21.1-full",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4527066,
+            "MD5": "b2129fe4eb40ebbef0e56e02b3ab53b1",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connector-2.0.0-beta.15%2B1.21.1-full.jar"
+          },
+          "placeInMods": true
+        },
+        {
+          "id": "rootrp:copycats:3.0.4+mc.1.21.1-neoforge",
+          "name": "copycats-3.0.4+mc.1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1791747,
+            "MD5": "c9f1a4b031cdfab8ebfc06d81e891c43",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:craftedcore:5.8.2",
+          "name": "craftedcore-5.8.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 780543,
+            "MD5": "87a7406e504e3daecaff0974bf1eb537",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/craftedcore-5.8.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:create-bb:1.0.7",
+          "name": "create_bb-1.0.7-1.21.1-Neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2613213,
+            "MD5": "4785597d4a3bf7152a7911f7392ec7b6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/create_bb-1.0.7-1.21.1-Neoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:create:6.0.10",
+          "name": "create-1.21.1-6.0.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19123767,
+            "MD5": "179189c52b45a469e683570be4e77188",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/create-1.21.1-6.0.10.jar"
+          }
+        },
+        {
+          "id": "curse.maven:createbetterfps:1.1.4",
+          "name": "createbetterfps-1.21.1-1.1.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26547,
+            "MD5": "88827dcbad6f5bf8974c40e6fff77ed5",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/createbetterfps-1.21.1-1.1.4.jar"
+          }
+        },
+        {
+          "id": "curse.maven:createdeco:2.1.3",
+          "name": "createdeco-2.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3328498,
+            "MD5": "16d5818298f6332038528cd13bd4ff1a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/createdeco-2.1.3.jar"
+          }
+        },
+        {
+          "id": "curse.maven:createthreadedtrains-neoforge:1.0.0",
+          "name": "createthreadedtrains-neoforge-1.21.1-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77249,
+            "MD5": "b238820bf15c5250150632d6712c5da3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/createthreadedtrains-neoforge-1.21.1-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:creativecore:2.13.47",
+          "name": "CreativeCore_NEOFORGE_v2.13.47_mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1236173,
+            "MD5": "7032cace7770d062a8725c56bbae7ef9",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/CreativeCore_NEOFORGE_v2.13.47_mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:cronarca:1.0.0",
+          "name": "cronarca-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215069,
+            "MD5": "8bc49e8bffa836be8c75255a4449aee4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cronarca-1.0.0.jar"
+          }
+        },
+        {
+          "id": "curse.maven:cupboard:3.9",
+          "name": "cupboard-1.21.1-3.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28829,
+            "MD5": "6edcf9b5d6e6c44cbfbcdc69cf8c98d3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cupboard-1.21.1-3.9.jar"
+          }
+        },
+        {
+          "id": "curse.maven:curios-neoforge:9.5.1",
+          "name": "curios-neoforge-9.5.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 410690,
+            "MD5": "e8f0a3574264bb202c153b90293dc84c",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/curios-neoforge-9.5.1%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:customplayermodels:0.6.27",
+          "name": "CustomPlayerModels-1.21-0.6.27a",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2793136,
+            "MD5": "d74eddfd5685aec041d6c5b097b689f3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/CustomPlayerModels-1.21-0.6.27a.jar"
+          }
+        },
+        {
+          "id": "curse.maven:design-n-decor:2.2",
+          "name": "Design-n-Decor-1.21.1-2.2b",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6329899,
+            "MD5": "18a1bbc60ad9084d3bdff5eed4b8f953",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Design-n-Decor-1.21.1-2.2b.jar"
+          }
+        },
+        {
+          "id": "curse.maven:despawntweaks-neoforge:1.0.0",
+          "name": "despawntweaks-neoforge-1.0.0-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 458075,
+            "MD5": "d30558e280ec4ee34b831f96ebd2e148",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/despawntweaks-neoforge-1.0.0-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:distanthorizons:3.3.3",
+          "name": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28289212,
+            "MD5": "578523767ee8cef71a9933a79126f67b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:do_a_barrel_roll:3.7.3",
+          "name": "do_a_barrel_roll-neoforge-3.7.3+1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 465787,
+            "MD5": "92ad2f96176a94d07283b1bd0ec76d5e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar"
+          }
+        },
+        {
+          "id": "curse.maven:drippyloadingscreen-neoforge:3.1.2",
+          "name": "drippyloadingscreen_neoforge_3.1.2_MC_1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174055,
+            "MD5": "610536f1d20735e90b3f4c05ddfd2cb7",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:dummmmmmy-neoforge:2.1.0",
+          "name": "dummmmmmy-neoforge-1.21-2.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 214030,
+            "MD5": "ac9b3ac4a46b8f062261106e6b8ee9e5",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dummmmmmy-neoforge-1.21-2.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:easy_mob_spawn_control:1.6.2",
+          "name": "easy_mob_spawn_control-1.6.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517612,
+            "MD5": "8795f4c3822885ffc491fa47aad33ce0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/easy_mob_spawn_control-1.6.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:eatinganimation:6.0.1",
+          "name": "eatinganimation-1.21.0-6.0.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 289863,
+            "MD5": "9f413a8ab62a6d0a0641ac3335c3f41b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/eatinganimation-1.21.0-6.0.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:eg_particle_interactions:0.4.1",
+          "name": "eg_particle_interactions-0.4.1-neoforge-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 322743,
+            "MD5": "9ceb55b527a570332af9a09c25fd46eb",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/eg_particle_interactions-0.4.1-neoforge-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:emotecraft-borrow-their-emote:1.0.0",
+          "name": "emotecraft-borrow-their-emote-1.0.0+1.21.1+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 303471,
+            "MD5": "fe91c35bafcd0d72ffd01ef6d83f7e66",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/emotecraft-borrow-their-emote-1.0.0%2B1.21.1%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:emotecraft-for-mc1-21-1:2.4.12",
+          "name": "emotecraft-for-MC1.21.1-2.4.12-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 861829,
+            "MD5": "c4840725c74865e2ba95807396c66a4f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:entityculling:1.12.2",
+          "name": "entityculling-neoforge-1.12.2-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1524256,
+            "MD5": "41fbbaeaff69d6a870abda23041cdef2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entityculling-neoforge-1.12.2-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:entitydatafix:1.0.0",
+          "name": "entitydatafix-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7046,
+            "MD5": "49fd7bfd4dc9332693a8f8973e4e88d2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entitydatafix-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:explosiveenhancement:1.2.0",
+          "name": "explosiveenhancement-neoforge-1.21.1-1.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96211,
+            "MD5": "e2e43372c3698ad72c14df872ed3ffac",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/explosiveenhancement-neoforge-1.21.1-1.2.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:fallingleaves:1.21.1-2.6.0",
+          "name": "fallingleaves-1.21.1-2.6.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 153794,
+            "MD5": "d681ff78c4e5a5be2bad0c4a2ce04cc1",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/fallingleaves-1.21.1-2.6.0.jar"
+          }
+        },
+        {
+          "id": "curse.maven:fancymenu-neoforge:3.9.8",
+          "name": "fancymenu_neoforge_3.9.8_MC_1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25505615,
+            "MD5": "946c712d179ed64a15b001e597dbee16",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/fancymenu_neoforge_3.9.8_MC_1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:farmersdelight:1.3.4",
+          "name": "FarmersDelight-1.21.1-1.3.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3160490,
+            "MD5": "588f140d2c343e9029dc30f10b73fdd4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/FarmersDelight-1.21.1-1.3.4.jar"
+          }
+        },
+        {
+          "id": "curse.maven:farsight:5.1",
+          "name": "farsight-1.21.1-5.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 388544,
+            "MD5": "718edaf3b3af7e48e3d0d978388b4851",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/farsight-1.21.1-5.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:fast-ip-ping:1.0.11",
+          "name": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10413,
+            "MD5": "d94b835066ce722287652235370464bf",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:fastboot:1.3",
+          "name": "fastboot-1.21.x-v1.3neo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9085,
+            "MD5": "e7682cf7c0bb064251c498f3c289f59d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/fastboot-1.21.x-v1.3neo.jar"
+          }
+        },
+        {
+          "id": "curse.maven:fastsuite:6.0.7",
+          "name": "FastSuite-1.21.1-6.0.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28193,
+            "MD5": "010a9646123e843de2468805068f0c34",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/FastSuite-1.21.1-6.0.7.jar"
+          }
+        },
+        {
+          "id": "rootrp:ferritecore:7.0.3",
+          "name": "ferritecore-7.0.3-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 121559,
+            "MD5": "e0374dac41d6c641903f9e241911e1d3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/ferritecore-7.0.3-neoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:forgematica:0.4.2",
+          "name": "forgematica-0.4.2+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1646155,
+            "MD5": "fdc09f7225b0b814b6bea67d84deb6e6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/forgematica-0.4.2%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:fabric_api:0.116.14+2.3.0+1.21.1",
+          "name": "forgified-fabric-api-0.116.14+2.3.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5592546,
+            "MD5": "0138e5f389f7e8905075090bae94f25f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/forgified-fabric-api-0.116.14%2B2.3.0%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:forgivingvoid-neoforge:21.1.7",
+          "name": "forgivingvoid-neoforge-1.21.1-21.1.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76432,
+            "MD5": "4a83bfbbd71ea772b5b75ead38a47c9d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/forgivingvoid-neoforge-1.21.1-21.1.7.jar"
+          }
+        },
+        {
+          "id": "rootrp:fwa:1.3.10",
+          "name": "fwa+1.21.1-neoforge-1.3.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 410968,
+            "MD5": "df61fbcbe17ed804efb60f133b0049c0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/fwa%2B1.21.1-neoforge-1.3.10.jar"
+          }
+        },
+        {
+          "id": "rootrp:fzzy_config:0.7.7+fix1+1.21+neoforge",
+          "name": "fzzy_config-0.7.7+fix1+1.21+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2392720,
+            "MD5": "f453f946e3fbf1b46809141dba1aaeaf",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:geckolib:4.9.3",
+          "name": "geckolib-neoforge-1.21.1-4.9.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 634531,
+            "MD5": "ddb8a5ef680c3a1df09ef98dc8b7c116",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/geckolib-neoforge-1.21.1-4.9.3.jar"
+          }
+        },
+        {
+          "id": "curse.maven:glitchcore-neoforge:2.1.0",
+          "name": "GlitchCore-neoforge-1.21.1-2.1.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 90717,
+            "MD5": "3bdf763d2461aa2731ed3515e0761d2f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:gml:6.0.2",
+          "name": "gml-6.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10981280,
+            "MD5": "5770d4f9a8b6fd2482c0e1104e9210ee",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/gml-6.0.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:gpumemleakfix:1.8",
+          "name": "gpumemleakfix-1.21-1.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6574,
+            "MD5": "96a47a7cff915294a949f73a5f2a8816",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/gpumemleakfix-1.21-1.8.jar"
+          }
+        },
+        {
+          "id": "curse.maven:handcrafted-neoforge:4.0.3",
+          "name": "handcrafted-neoforge-1.21.1-4.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7132842,
+            "MD5": "0f875f5741a6fad6f1c4f6fdbe5f538b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/handcrafted-neoforge-1.21.1-4.0.3.jar"
+          }
+        },
+        {
+          "id": "rootrp:icys_better_horses:2.1.6",
+          "name": "icys-better-horses-2.1.6-neo-1.21.1-youerfix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4069096,
+            "MD5": "ce25fc3bb5d43d5af26c7850f5de4e36",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/icys-better-horses-2.1.6-neo-1.21.1-youerfix.jar"
+          }
+        },
+        {
+          "id": "curse.maven:imfast-neoforge:1.0.2",
+          "name": "imfast-NEOFORGE-1.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4157,
+            "MD5": "c5452cd774be8b0bd67fa75c54be2dba",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/imfast-NEOFORGE-1.0.2.jar"
+          }
+        },
+        {
+          "id": "rootrp:immediatelyfast:1.6.15+1.21.1",
+          "name": "ImmediatelyFast-NeoForge-1.6.15+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 368896,
+            "MD5": "246e7a78710e73e070118a671b1d2d87",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:immersive-melodies-neoforge:0.6.4",
+          "name": "immersive_melodies-neoforge-0.6.4+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5521192,
+            "MD5": "03d6d811f7009d7bfb5fc838a779a7d4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/immersive_melodies-neoforge-0.6.4%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:immersivehotbar:1.3.0-neoforge-1.21-1.21.1",
+          "name": "immersivehotbar-1.3.0-neoforge-1.21-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 190601,
+            "MD5": "1b71a032e1530a66b6c85c13f2ab4dad",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/immersivehotbar-1.3.0-neoforge-1.21-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:iris-neoforge:1.8.12",
+          "name": "iris-neoforge-1.8.12+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2438548,
+            "MD5": "6c1122aa7c2b1a4f24831e394c5b513f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:irons-lib:2.1.0",
+          "name": "irons_lib-1.21.1-2.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 406284,
+            "MD5": "5ac685e3e5ce76a9c80d0e865769bd60",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/irons_lib-1.21.1-2.1.0.jar"
+          }
+        },
+        {
+          "id": "curse.maven:irons-spellbooks:3.16.2",
+          "name": "irons_spellbooks-1.21.1-3.16.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13874139,
+            "MD5": "1982cbf9474f89a4d0f08c9aeba73607",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/irons_spellbooks-1.21.1-3.16.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:item-obliterator-neoforge-mc1-21-1:2.3.0",
+          "name": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24037,
+            "MD5": "f47cadc2258d5c7a7e91ddf521e13713",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:itemphysiclite:1.6.13",
+          "name": "ItemPhysicLite_NEOFORGE_v1.6.13_mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20187,
+            "MD5": "303d7dd1e5ee73a8faa522f96e7ff2f6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/ItemPhysicLite_NEOFORGE_v1.6.13_mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:jamlib-neoforge:1.3.6",
+          "name": "jamlib-neoforge-1.3.6+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188553,
+            "MD5": "87ad4d47e5c266e20e2076ad5933d0cc",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/jamlib-neoforge-1.3.6%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:jei:19.51.0.418",
+          "name": "jei-1.21.1-neoforge-19.51.0.418",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1804792,
+            "MD5": "95936c7df31109eeba9cd9bf114fed44",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/jei-1.21.1-neoforge-19.51.0.418.jar"
+          }
+        },
+        {
+          "id": "rootrp:journeymap:1.21.1-6.0.7",
+          "name": "journeymap-neoforge-1.21.1-6.0.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4299852,
+            "MD5": "c516fdc2d5266abfcadd5f6f1c13c899",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/journeymap-neoforge-1.21.1-6.0.7.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_chinesefood:1.2.0-neoforge+1.21.1",
+          "name": "kaleidoscope_chinesefood-1.2.0-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5009895,
+            "MD5": "c4f97e6dcd18e17d70606330e6a2ef09",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_chinesefood-1.2.0-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_grilling:1.1.1",
+          "name": "kaleidoscope_grilling-1.1.1-neoforge1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3245725,
+            "MD5": "ee988e2b1a076c94b0991a72fe0b6c5e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_grilling-1.1.1-neoforge1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_world_liquor:1.2.0-neoforge+1.21.1",
+          "name": "kaleidoscope_world_liquor-1.2.0-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2667260,
+            "MD5": "83673b0ec5e63984015bfd8c9bf2ed6d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_world_liquor-1.2.0-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_flora:0.3.5.1",
+          "name": "kaleidoscope-flora-0.3.5.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 837545,
+            "MD5": "36990736968e29b68a6f95ab218e340e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope-flora-0.3.5.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_cookery:1.6.0-neoforge+mc1.21.1",
+          "name": "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3496661,
+            "MD5": "a01c3d2872f12f8a4b020bfd66affac3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_tavern:1.2.0-neoforge+mc1.21.1",
+          "name": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1708047,
+            "MD5": "35c1224358390f52abd619ff08e68f3a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:konkrete-neoforge:1.9.9",
+          "name": "konkrete_neoforge_1.9.9_MC_1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 618842,
+            "MD5": "6e77d08299ea1ec7756a299263bc469b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/konkrete_neoforge_1.9.9_MC_1.21.jar"
+          }
+        },
+        {
+          "id": "rootrp:kotlinforforge:5.13.0",
+          "name": "kotlinforforge-5.13.0-all",
+          "type": "ForgeMod",
+          "placeInMods": true,
+          "artifact": {
+            "size": 7364729,
+            "MD5": "4aa3558b0dde2f035fa5288505093e56",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kotlinforforge-5.13.0-all.jar"
+          }
+        },
+        {
+          "id": "curse.maven:kubejs-create-neoforge:2101.3.1",
+          "name": "kubejs-create-neoforge-2101.3.1-build.18",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38630,
+            "MD5": "25b13d8e4ac7b369129302aa7afd3b79",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs-create-neoforge-2101.3.1-build.18.jar"
+          }
+        },
+        {
+          "id": "rootrp:kubejs:2101.7.2-build.377",
+          "name": "kubejs-neoforge-2101.7.2-build.377",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2294111,
+            "MD5": "95e68543f4be46edc6d2cac8a9a4cfd3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs-neoforge-2101.7.2-build.377.jar"
+          }
+        },
+        {
+          "id": "curse.maven:lithium-neoforge:0.15.4",
+          "name": "lithium-neoforge-0.15.4+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 774220,
+            "MD5": "969860e6a6ebe4dc2e2154b56f05483e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:logbegone-neoforge:1.0.3",
+          "name": "logbegone-neoforge-1.21.1-1.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73237,
+            "MD5": "bcb679479b36762c5d98ba06479842a2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/logbegone-neoforge-1.21.1-1.0.3.jar"
+          }
+        },
+        {
+          "id": "curse.maven:mafglib:0.4.3",
+          "name": "mafglib-0.4.3+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1314767,
+            "MD5": "3b3dafc71cfb16845d3e019a0d8670ec",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/mafglib-0.4.3%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:make_bubbles_pop:0.4.0-beta.2",
+          "name": "make_bubbles_pop-0.4.0-beta.2-neoforge-mc1.21-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 44208,
+            "MD5": "e3045722c59abb6af7bf1c16bcdd3555",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/make_bubbles_pop-0.4.0-beta.2-neoforge-mc1.21-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:melody-neoforge:1.0.10",
+          "name": "melody_neoforge_1.0.10_MC_1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 36096,
+            "MD5": "875f4a68f2cd7ee2cc135904653c93d4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/melody_neoforge_1.0.10_MC_1.21.jar"
+          }
+        },
+        {
+          "id": "curse.maven:memorysettings:6.0",
+          "name": "memorysettings-1.21-6.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22329,
+            "MD5": "801e0c3e6050b1311880b750b73b4362",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/memorysettings-1.21-6.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:modonomicon:1.120.7",
+          "name": "modonomicon-1.21.1-neoforge-1.120.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2407448,
+            "MD5": "51c3a92e194e0bb9ff8d595e735f1d22",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/modonomicon-1.21.1-neoforge-1.120.7.jar"
+          }
+        },
+        {
+          "id": "curse.maven:moonlight-neoforge:3.3.0",
+          "name": "moonlight-neoforge-1.21.1-3.3.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2135671,
+            "MD5": "a13f5142d4ff5aec62561976bc374732",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/moonlight-neoforge-1.21.1-3.3.0.jar"
+          }
+        },
+        {
+          "id": "curse.maven:moreculling-neoforge:1.0.7",
+          "name": "moreculling-neoforge-1.21.1-1.0.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 344279,
+            "MD5": "97f704f5fca2a00952f75abe78bac964",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/moreculling-neoforge-1.21.1-1.0.7.jar"
+          }
+        },
+        {
+          "id": "curse.maven:mossylib:1.5.0",
+          "name": "MossyLib-1.5.0+1.21.1+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 179463,
+            "MD5": "e7829c0230d7d5866e9d9f0957cc6f61",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/MossyLib-1.5.0%2B1.21.1%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:mru:1.0.41+1.21.1",
+          "name": "mru-1.0.41+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 151764,
+            "MD5": "000710fa7a0674ee6b37b2b355d97489",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/mru-1.0.41%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:naturalist:2.0.5",
+          "name": "naturalist-2.0.5-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11325729,
+            "MD5": "0a92897fdecbf953d4b2f4af1e3107af",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/naturalist-2.0.5-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:necronomicon-neoforge:1.6.0",
+          "name": "Necronomicon-NeoForge-1.6.0+1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29865,
+            "MD5": "6250002ee6b5583f7db70564ecdd9fbe",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Necronomicon-NeoForge-1.6.0%2B1.21.jar"
+          }
+        },
+        {
+          "id": "rootrp:notenoughanimations:1.12.7",
+          "name": "notenoughanimations-neoforge-1.12.7-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1868196,
+            "MD5": "3c069d484f9315fef55be1bd09904cea",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/notenoughanimations-neoforge-1.12.7-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:packetfixer:3.3.1",
+          "name": "packetfixer-3.3.1-1.20.5-1.21.X-merged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 46623,
+            "MD5": "8f22fb065079340a72ae5ce0da12efcb",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+          }
+        },
+        {
+          "id": "rootrp:pamhc2crops:1.0.0",
+          "name": "pamhc2crops-NEOFORGE-1.21.1-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1047144,
+            "MD5": "f71b6a0d1e58644d07040e8fc34c89d5",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/pamhc2crops-NEOFORGE-1.21.1-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:particle_effects:1.7.0+1.21.1+neoforge",
+          "name": "ParticleEffects-1.7.0+1.21.1+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 320362,
+            "MD5": "634c425d8fe66a9b850130cb6f43b206",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/ParticleEffects-1.7.0%2B1.21.1%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:particlerain:4.0.4",
+          "name": "particlerain-4.0.4+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 626707,
+            "MD5": "649cd4d65f050f43221db94a0eacecb7",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/particlerain-4.0.4%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:particular:1.6.1",
+          "name": "particular-1.21.1-NeoForge-1.6.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398461,
+            "MD5": "608ed45156d0bb71b4f82ba60623a297",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/particular-1.21.1-NeoForge-1.6.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:patchouli:1.0.0",
+          "name": "Patchouli-1.21.1-93-NEOFORGE",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 646777,
+            "MD5": "8178d65cd07dd7a646446729058ae2bf",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Patchouli-1.21.1-93-NEOFORGE.jar"
+          }
+        },
+        {
+          "id": "curse.maven:placebo:9.9.2",
+          "name": "Placebo-1.21.1-9.9.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 324058,
+            "MD5": "208b373fb2bdc703cdd2e087753ed859",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Placebo-1.21.1-9.9.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:player-animation-lib-forge:2.0.4",
+          "name": "player-animation-lib-forge-2.0.4+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 203149,
+            "MD5": "ecb81c9479605db12a77bea774b88406",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:pretty-in-pink:1.0.4",
+          "name": "pretty_in_pink-1.0.4-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1075764,
+            "MD5": "46b8c91c3235bd38abd387bf4f907edc",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/pretty_in_pink-1.0.4-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:puzzleslib:21.1.66",
+          "name": "puzzleslib-v21.1.66-mc1.21.1+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1451120,
+            "MD5": "0285f0a5f92265c50e41d08207166c77",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/puzzleslib-v21.1.66-mc1.21.1%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:railways:0.2.1",
+          "name": "railways-0.2.1+neoforge-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12118736,
+            "MD5": "a1e93677459b11e2b4edbe01998ffdbd",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/railways-0.2.1%2Bneoforge-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:remorphed:4.2",
+          "name": "remorphed-4.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 94324,
+            "MD5": "8e321b64b8a2256f0ed4ef6d51ee28e7",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/remorphed-4.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:resourcefulconfig-neoforge:3.0.11",
+          "name": "resourcefulconfig-neoforge-1.21-3.0.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341009,
+            "MD5": "84ff2805a591b10d22b7e0c69b44246c",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+          }
+        },
+        {
+          "id": "curse.maven:resourcefullib-neoforge:3.0.12",
+          "name": "resourcefullib-neoforge-1.21-3.0.12",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 484332,
+            "MD5": "32da88903167d24bb20febeeb2c79225",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/resourcefullib-neoforge-1.21-3.0.12.jar"
+          }
+        },
+        {
+          "id": "curse.maven:rhino:2101.2.7",
+          "name": "rhino-2101.2.7-build.85",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 882075,
+            "MD5": "f5df23fab1aef88b69f67776e0f79904",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rhino-2101.2.7-build.85.jar"
+          }
+        },
+        {
+          "id": "curse.maven:rightclickharvest-neoforge:4.6.1",
+          "name": "rightclickharvest-neoforge-4.6.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 287634,
+            "MD5": "b1188249c44aed7f666ff89ab591e9a4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rightclickharvest-neoforge-4.6.1%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:root_origins:0.1.0",
+          "name": "root_origins-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6259367,
+            "MD5": "41d3fe6e613e1b92ad2dceba071e00f8",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_origins-0.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:root_skills:1.0.0",
+          "name": "root_skills-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1802344,
+            "MD5": "52cae3c8433152266a6babbc4e4618a2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_skills-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:escalada:1.0.0",
+          "name": "root-escalada-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73290,
+            "MD5": "2e3d042fe6f0f9c67c59731d1b9b45d6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root-escalada-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootbeats:1.1.0",
+          "name": "rootbeats-1.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 420515,
+            "MD5": "fc6c681ec7c57b6fa8b250e3c4637d39",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootbeats-1.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootjobs:1.0.0",
+          "name": "rootjobs-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2944042,
+            "MD5": "0000bfd53dce694903744e5a4cb20b43",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootjobs-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootmobs:1.0.0",
+          "name": "rootmobs-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13238,
+            "MD5": "0849c97108fdebaa63a6dbdffc711e2c",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootmobs-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootmonsters:1.0.0",
+          "name": "rootmonsters-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 597037,
+            "MD5": "b7b9cd85d2aacab3008c9a6c65c9ffe2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootmonsters-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootpets:0.1.0",
+          "name": "rootpets-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 447834,
+            "MD5": "dae4a2f8173f845146ebebbd5cdca65f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootpets-0.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:scalablelux:0.1.0.1+neoforge.1cb1e91",
+          "name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 176443,
+            "MD5": "18099d60c13c6ab9b46af0fafef552fe",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/ScalableLux-0.1.0.1%2Bneoforge.1cb1e91-all.jar"
+          }
+        },
+        {
+          "id": "rootrp:sereneseasons:10.1.0.9",
+          "name": "SereneSeasons-neoforge-1.21.1-10.1.0.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 163020,
+            "MD5": "5d16d03c33c8be3539b27a86f11ed286",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/SereneSeasons-neoforge-1.21.1-10.1.0.9.jar"
+          }
+        },
+        {
+          "id": "rootrp:shouldersurfing:1.21.1-5.2.0",
+          "name": "ShoulderSurfing-NeoForge-1.21.1-5.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 423716,
+            "MD5": "a80099252d72fe3846e603ed711d0024",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/ShoulderSurfing-NeoForge-1.21.1-5.2.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:smoothskies:2.10.4",
+          "name": "smoothskies-2.10.4+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115701,
+            "MD5": "288e35e53f98bb39bc6cf7f5b040a6b0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/smoothskies-2.10.4%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:smoothswapping:0.9.3.2",
+          "name": "smoothswapping-0.9.3.2-1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62900,
+            "MD5": "e4aa1952b3f111d29c8a94647d3d88a1",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/smoothswapping-0.9.3.2-1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:sodium-neoforge:0.6.13",
+          "name": "sodium-neoforge-0.6.13+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1162994,
+            "MD5": "e5018c782d851fea76be0205b7616e5d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:sodiumdynamiclights-neoforge:1.0.10",
+          "name": "sodiumdynamiclights-neoforge-1.0.10-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299353,
+            "MD5": "daaa3a9e438fddffc1db19bf8a7dfba0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:sound-physics-remastered-neoforge:1.5.1",
+          "name": "sound-physics-remastered-neoforge-1.21.1-1.5.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 202454,
+            "MD5": "fe3cafa3f67c86272ee1d0cdf96fb2ac",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:sounds:2.4.22+lts",
+          "name": "sounds-2.4.22+lts+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8732437,
+            "MD5": "3d3192200872da35ae479c2fda2152dc",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:spark:1.10.124",
+          "name": "spark-1.10.124-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3642581,
+            "MD5": "a61dd250e618f8fd62fc6b0943831c50",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/spark-1.10.124-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:spatial_gui:1.7.2",
+          "name": "spatial-gui-1.7.2+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 251869,
+            "MD5": "b939ed72d781bf9901638ca6f1564746",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/spatial-gui-1.7.2%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:spawn:4.0.8-1.21.1",
+          "name": "spawn-4.0.8-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73681436,
+            "MD5": "b01700e00bde9d8cca1b94d50bad443c",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/spawn-4.0.8-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:solonion:1.5.6",
+          "name": "SpiceOfLifeOnion_NEOFORGE_v1.5.6_mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 292176,
+            "MD5": "874873911389b6ccc05ebb9081469191",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/SpiceOfLifeOnion_NEOFORGE_v1.5.6_mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:subtle_effects:1.15.3",
+          "name": "SubtleEffects-neoforge-1.21.1-1.15.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3477966,
+            "MD5": "6127494b8ed796fe1c209b205c36e755",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/SubtleEffects-neoforge-1.21.1-1.15.3.jar"
+          }
+        },
+        {
+          "id": "curse.maven:teallib:1.3",
+          "name": "teallib-1.3.teal",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 262609,
+            "MD5": "a28cb71c13e6edf8659b9d5cce3c457b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/teallib-1.3.teal.jar"
+          }
+        },
+        {
+          "id": "rootrp:travelerstitles:1.21.1-NeoForge-5.1.3",
+          "name": "TravelersTitles-1.21.1-NeoForge-5.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 235345,
+            "MD5": "3de1311143641ac65cb2664ff8120329",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/TravelersTitles-1.21.1-NeoForge-5.1.3.jar"
+          }
+        },
+        {
+          "id": "curse.maven:txnilib-neoforge:1.0.24",
+          "name": "txnilib-neoforge-1.0.24-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6276522,
+            "MD5": "69cd87744e40cc444b4176022ec6d17a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/txnilib-neoforge-1.0.24-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:walkers:5.8.13",
+          "name": "walkers-5.8.13",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1147028,
+            "MD5": "d132f321a07f6d4f3aae63a6a4462e9b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/walkers-5.8.13.jar"
+          }
+        },
+        {
+          "id": "curse.maven:weaponmaster-ydm:4.2.7",
+          "name": "weaponmaster_ydm-1.21.1-neoforge-4.2.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 344392,
+            "MD5": "7617648be8472946beb2795680161aba",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
+          }
+        },
+        {
+          "id": "rootrp:windy:1.1.1+1.21-neoforge",
+          "name": "windy-1.1.1+1.21-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33416,
+            "MD5": "8f27e1dfd0336b069f06661dc5214c55",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/windy-1.1.1%2B1.21-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:yet_another_config_lib_v3:3.8.2+1.21.1-neoforge",
+          "name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1118651,
+            "MD5": "c346120062c3364a0d215c228354030e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:yungsapi:1.21.1-NeoForge-5.1.9",
+          "name": "YungsApi-1.21.1-NeoForge-5.1.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 413763,
+            "MD5": "efb56fb5799379b2b7ec9c7694e2ad62",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/YungsApi-1.21.1-NeoForge-5.1.9.jar"
+          }
+        }
+      ],
+      "access": [
+        "STAFF"
+      ]
+    },
+    {
+      "id": "RootLite",
+      "name": "Root RP · Lite",
+      "description": "Feita pra PC fraco: tira o que pesa e soma otimizações. Roda liso.",
+      "icon": "icon.png",
+      "version": "1.0.0",
+      "address": "sd-br10.blazebr.com:25899",
+      "minecraftVersion": "1.21.1",
+      "discord": {
+        "clientId": "1572333823646240768",
+        "shortId": "Root RP",
+        "largeImageKey": "icon",
+        "largeImageText": "Root RP · rootrp.com.br"
+      },
+      "mainServer": false,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "curse.maven:neoforge-installer:21.1.248",
+          "name": "NeoForge Installer",
+          "type": "File",
+          "artifact": {
+            "size": 6972104,
+            "MD5": "90eee26ffd6be552a8453e23a15a6e35",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-installer.jar",
+            "path": "files/neoforge-installer/21.1.248/neoforge-installer-21.1.248.jar"
+          }
+        },
+        {
+          "id": "net.neoforged:neoforge:21.1.248",
+          "name": "NeoForge",
+          "type": "NeoForge",
+          "artifact": {
+            "size": 6972104,
+            "MD5": "90eee26ffd6be552a8453e23a15a6e35",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-installer.jar",
+            "path": "files/neoforge-installer/21.1.248/neoforge-installer-21.1.248.jar"
+          }
+        },
+        {
+          "id": "curse.maven:kubejs-pack:1.0.0",
+          "name": "KubeJS Scripts",
+          "type": "File",
+          "extractTo": "kubejs",
+          "artifact": {
+            "size": 127604,
+            "MD5": "4a6cec9a79cbfe5574195a77a6859681",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs.zip",
+            "path": "files/kubejs-pack/1.0.0/kubejs-pack-1.0.0.zip"
+          }
+        },
+        {
+          "id": "curse.maven:config-pack:1.0.0",
+          "name": "Configs",
+          "type": "File",
+          "extractTo": "config",
+          "artifact": {
+            "size": 386545,
+            "MD5": "9560b0a0e28b9dc50471385e561f7efe",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/config.zip",
+            "path": "files/config-pack/1.0.0/config-pack-1.0.0.zip"
+          }
+        },
+        {
+          "id": "rootrp:alexsmobs:2.2.2",
+          "name": "alexsmobs-2.2.2-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27464680,
+            "MD5": "c3ff76e655f2b2ef1649973ff9e374d2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/alexsmobs-2.2.2-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:almanac:1.5.2",
+          "name": "Almanac-1.21.1-2-neoforge-1.5.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25593,
+            "MD5": "49d03c4b56618fda3c7e01af2fc73e7d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Almanac-1.21.1-2-neoforge-1.5.2.jar"
+          }
+        },
+        {
+          "id": "rootrp:aquaculture:2.7.21",
+          "name": "Aquaculture-1.21.1-2.7.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 605949,
+            "MD5": "53d4d0d0f62c555638c27206087c2476",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Aquaculture-1.21.1-2.7.21.jar"
+          }
+        },
+        {
+          "id": "curse.maven:architectury:13.0.11",
+          "name": "architectury-13.0.11-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 584734,
+            "MD5": "aefbea361809755c331126bcff6e6d3e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/architectury-13.0.11-neoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:backport-neogorge:2.1.0",
+          "name": "backport_neogorge-2.1.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 148633,
+            "MD5": "596c76d3f984dde7a3a3ff25b9eaf1fd",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/backport_neogorge-2.1.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:badoptimizations:2.4.1",
+          "name": "BadOptimizations-2.4.1-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 283566,
+            "MD5": "59ee243a5ccd09fff1dd2879b3cad72a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/BadOptimizations-2.4.1-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:balm-neoforge:21.0.63",
+          "name": "balm-neoforge-1.21.1-21.0.63",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 782380,
+            "MD5": "dc3cfe59a6b263a39c5234d69e227900",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/balm-neoforge-1.21.1-21.0.63.jar"
+          }
+        },
+        {
+          "id": "rootrp:bbs:2.3.3-1.21.1",
+          "name": "bbs-2.3.3-1.21.1",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 10739246,
+            "MD5": "b9a43825d025a36fec806de7f34135a3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/bbs-2.3.3-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:betteradvancedtooltips:2101.1.0-build.5",
+          "name": "better-advanced-tooltips-2101.1.0-build.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37653,
+            "MD5": "edf97f2f11f57fffb4ed6d71c7b4508a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/better-advanced-tooltips-2101.1.0-build.5.jar"
+          }
+        },
+        {
+          "id": "curse.maven:bettercombat-neoforge:2.4.0",
+          "name": "bettercombat-neoforge-2.4.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1045389,
+            "MD5": "73b115123b9d41b211c5acda16df738f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/bettercombat-neoforge-2.4.0%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:brewinandchewin:4.5.0",
+          "name": "BrewinAndChewin-neoforge-4.5.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1575450,
+            "MD5": "4548d2c0d5813e5a0acaf5c68a86ec6c",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/BrewinAndChewin-neoforge-4.5.0%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:catalogue-neoforge:1.11.2",
+          "name": "catalogue-neoforge-1.21.1-1.11.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 302750,
+            "MD5": "cc87e5716eb52398b2c46e4032126de4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/catalogue-neoforge-1.21.1-1.11.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:clientcrafting:2.1",
+          "name": "clientcrafting-1.21-2.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7144,
+            "MD5": "09e8c9e83844ea5a9b1a569b8c14f515",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/clientcrafting-1.21-2.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:cloth-config:15.0.140",
+          "name": "cloth-config-15.0.140-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1163890,
+            "MD5": "4c3757160403fcccb8ad468c2ea22862",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cloth-config-15.0.140-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:codxlib:1.6.1",
+          "name": "codxlib-1.6.1-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 193045,
+            "MD5": "53028b7828bc61e428edcc0d5c0afa9d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/codxlib-1.6.1-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:connectivity:7.6",
+          "name": "connectivity-1.21.1-7.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 114165,
+            "MD5": "f2d38f850688eefa338b807801df2b4b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connectivity-1.21.1-7.6.jar"
+          }
+        },
+        {
+          "id": "rootrp:connector:2.0.0",
+          "name": "connector-2.0.0-beta.15+1.21.1-full",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4527066,
+            "MD5": "b2129fe4eb40ebbef0e56e02b3ab53b1",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/connector-2.0.0-beta.15%2B1.21.1-full.jar"
+          },
+          "placeInMods": true
+        },
+        {
+          "id": "rootrp:copycats:3.0.4+mc.1.21.1-neoforge",
+          "name": "copycats-3.0.4+mc.1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1791747,
+            "MD5": "c9f1a4b031cdfab8ebfc06d81e891c43",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:craftedcore:5.8.2",
+          "name": "craftedcore-5.8.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 780543,
+            "MD5": "87a7406e504e3daecaff0974bf1eb537",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/craftedcore-5.8.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:create-bb:1.0.7",
+          "name": "create_bb-1.0.7-1.21.1-Neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2613213,
+            "MD5": "4785597d4a3bf7152a7911f7392ec7b6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/create_bb-1.0.7-1.21.1-Neoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:create:6.0.10",
+          "name": "create-1.21.1-6.0.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19123767,
+            "MD5": "179189c52b45a469e683570be4e77188",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/create-1.21.1-6.0.10.jar"
+          }
+        },
+        {
+          "id": "curse.maven:createbetterfps:1.1.4",
+          "name": "createbetterfps-1.21.1-1.1.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26547,
+            "MD5": "88827dcbad6f5bf8974c40e6fff77ed5",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/createbetterfps-1.21.1-1.1.4.jar"
+          }
+        },
+        {
+          "id": "curse.maven:createdeco:2.1.3",
+          "name": "createdeco-2.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3328498,
+            "MD5": "16d5818298f6332038528cd13bd4ff1a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/createdeco-2.1.3.jar"
+          }
+        },
+        {
+          "id": "curse.maven:createthreadedtrains-neoforge:1.0.0",
+          "name": "createthreadedtrains-neoforge-1.21.1-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77249,
+            "MD5": "b238820bf15c5250150632d6712c5da3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/createthreadedtrains-neoforge-1.21.1-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:creativecore:2.13.47",
+          "name": "CreativeCore_NEOFORGE_v2.13.47_mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1236173,
+            "MD5": "7032cace7770d062a8725c56bbae7ef9",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/CreativeCore_NEOFORGE_v2.13.47_mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:cronarca:1.0.0",
+          "name": "cronarca-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215069,
+            "MD5": "8bc49e8bffa836be8c75255a4449aee4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cronarca-1.0.0.jar"
+          }
+        },
+        {
+          "id": "curse.maven:cupboard:3.9",
+          "name": "cupboard-1.21.1-3.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28829,
+            "MD5": "6edcf9b5d6e6c44cbfbcdc69cf8c98d3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/cupboard-1.21.1-3.9.jar"
+          }
+        },
+        {
+          "id": "curse.maven:curios-neoforge:9.5.1",
+          "name": "curios-neoforge-9.5.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 410690,
+            "MD5": "e8f0a3574264bb202c153b90293dc84c",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/curios-neoforge-9.5.1%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:customplayermodels:0.6.27",
+          "name": "CustomPlayerModels-1.21-0.6.27a",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2793136,
+            "MD5": "d74eddfd5685aec041d6c5b097b689f3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/CustomPlayerModels-1.21-0.6.27a.jar"
+          }
+        },
+        {
+          "id": "curse.maven:design-n-decor:2.2",
+          "name": "Design-n-Decor-1.21.1-2.2b",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6329899,
+            "MD5": "18a1bbc60ad9084d3bdff5eed4b8f953",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Design-n-Decor-1.21.1-2.2b.jar"
+          }
+        },
+        {
+          "id": "curse.maven:despawntweaks-neoforge:1.0.0",
+          "name": "despawntweaks-neoforge-1.0.0-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 458075,
+            "MD5": "d30558e280ec4ee34b831f96ebd2e148",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/despawntweaks-neoforge-1.0.0-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:do_a_barrel_roll:3.7.3",
+          "name": "do_a_barrel_roll-neoforge-3.7.3+1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 465787,
+            "MD5": "92ad2f96176a94d07283b1bd0ec76d5e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar"
+          }
+        },
+        {
+          "id": "curse.maven:drippyloadingscreen-neoforge:3.1.2",
+          "name": "drippyloadingscreen_neoforge_3.1.2_MC_1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174055,
+            "MD5": "610536f1d20735e90b3f4c05ddfd2cb7",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:dummmmmmy-neoforge:2.1.0",
+          "name": "dummmmmmy-neoforge-1.21-2.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 214030,
+            "MD5": "ac9b3ac4a46b8f062261106e6b8ee9e5",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dummmmmmy-neoforge-1.21-2.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:dynamic_fps:3.11.4",
+          "name": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 220193,
+            "MD5": "e5ef3e5d37eedad79cf44897229fd8f2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:easy_mob_spawn_control:1.6.2",
+          "name": "easy_mob_spawn_control-1.6.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517612,
+            "MD5": "8795f4c3822885ffc491fa47aad33ce0",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/easy_mob_spawn_control-1.6.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:emotecraft-borrow-their-emote:1.0.0",
+          "name": "emotecraft-borrow-their-emote-1.0.0+1.21.1+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 303471,
+            "MD5": "fe91c35bafcd0d72ffd01ef6d83f7e66",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/emotecraft-borrow-their-emote-1.0.0%2B1.21.1%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:emotecraft-for-mc1-21-1:2.4.12",
+          "name": "emotecraft-for-MC1.21.1-2.4.12-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 861829,
+            "MD5": "c4840725c74865e2ba95807396c66a4f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:entityculling:1.12.2",
+          "name": "entityculling-neoforge-1.12.2-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1524256,
+            "MD5": "41fbbaeaff69d6a870abda23041cdef2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entityculling-neoforge-1.12.2-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:entitydatafix:1.0.0",
+          "name": "entitydatafix-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7046,
+            "MD5": "49fd7bfd4dc9332693a8f8973e4e88d2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/entitydatafix-1.0.0.jar"
+          }
+        },
+        {
+          "id": "curse.maven:fancymenu-neoforge:3.9.8",
+          "name": "fancymenu_neoforge_3.9.8_MC_1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25505615,
+            "MD5": "946c712d179ed64a15b001e597dbee16",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/fancymenu_neoforge_3.9.8_MC_1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:farmersdelight:1.3.4",
+          "name": "FarmersDelight-1.21.1-1.3.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3160490,
+            "MD5": "588f140d2c343e9029dc30f10b73fdd4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/FarmersDelight-1.21.1-1.3.4.jar"
+          }
+        },
+        {
+          "id": "curse.maven:fast-ip-ping:1.0.11",
+          "name": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10413,
+            "MD5": "d94b835066ce722287652235370464bf",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:fastboot:1.3",
+          "name": "fastboot-1.21.x-v1.3neo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9085,
+            "MD5": "e7682cf7c0bb064251c498f3c289f59d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/fastboot-1.21.x-v1.3neo.jar"
+          }
+        },
+        {
+          "id": "curse.maven:fastsuite:6.0.7",
+          "name": "FastSuite-1.21.1-6.0.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28193,
+            "MD5": "010a9646123e843de2468805068f0c34",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/FastSuite-1.21.1-6.0.7.jar"
+          }
+        },
+        {
+          "id": "rootrp:ferritecore:7.0.3",
+          "name": "ferritecore-7.0.3-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 121559,
+            "MD5": "e0374dac41d6c641903f9e241911e1d3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/ferritecore-7.0.3-neoforge.jar"
+          }
+        },
+        {
+          "id": "curse.maven:forgematica:0.4.2",
+          "name": "forgematica-0.4.2+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1646155,
+            "MD5": "fdc09f7225b0b814b6bea67d84deb6e6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/forgematica-0.4.2%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:fabric_api:0.116.14+2.3.0+1.21.1",
+          "name": "forgified-fabric-api-0.116.14+2.3.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5592546,
+            "MD5": "0138e5f389f7e8905075090bae94f25f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/forgified-fabric-api-0.116.14%2B2.3.0%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:forgivingvoid-neoforge:21.1.7",
+          "name": "forgivingvoid-neoforge-1.21.1-21.1.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76432,
+            "MD5": "4a83bfbbd71ea772b5b75ead38a47c9d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/forgivingvoid-neoforge-1.21.1-21.1.7.jar"
+          }
+        },
+        {
+          "id": "rootrp:geckolib:4.9.3",
+          "name": "geckolib-neoforge-1.21.1-4.9.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 634531,
+            "MD5": "ddb8a5ef680c3a1df09ef98dc8b7c116",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/geckolib-neoforge-1.21.1-4.9.3.jar"
+          }
+        },
+        {
+          "id": "curse.maven:glitchcore-neoforge:2.1.0",
+          "name": "GlitchCore-neoforge-1.21.1-2.1.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 90717,
+            "MD5": "3bdf763d2461aa2731ed3515e0761d2f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:gpumemleakfix:1.8",
+          "name": "gpumemleakfix-1.21-1.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6574,
+            "MD5": "96a47a7cff915294a949f73a5f2a8816",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/gpumemleakfix-1.21-1.8.jar"
+          }
+        },
+        {
+          "id": "curse.maven:handcrafted-neoforge:4.0.3",
+          "name": "handcrafted-neoforge-1.21.1-4.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7132842,
+            "MD5": "0f875f5741a6fad6f1c4f6fdbe5f538b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/handcrafted-neoforge-1.21.1-4.0.3.jar"
+          }
+        },
+        {
+          "id": "rootrp:icys_better_horses:2.1.6",
+          "name": "icys-better-horses-2.1.6-neo-1.21.1-youerfix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4069096,
+            "MD5": "ce25fc3bb5d43d5af26c7850f5de4e36",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/icys-better-horses-2.1.6-neo-1.21.1-youerfix.jar"
+          }
+        },
+        {
+          "id": "curse.maven:imfast-neoforge:1.0.2",
+          "name": "imfast-NEOFORGE-1.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4157,
+            "MD5": "c5452cd774be8b0bd67fa75c54be2dba",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/imfast-NEOFORGE-1.0.2.jar"
+          }
+        },
+        {
+          "id": "rootrp:immediatelyfast:1.6.15+1.21.1",
+          "name": "ImmediatelyFast-NeoForge-1.6.15+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 368896,
+            "MD5": "246e7a78710e73e070118a671b1d2d87",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:immersive-melodies-neoforge:0.6.4",
+          "name": "immersive_melodies-neoforge-0.6.4+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5521192,
+            "MD5": "03d6d811f7009d7bfb5fc838a779a7d4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/immersive_melodies-neoforge-0.6.4%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:irons-lib:2.1.0",
+          "name": "irons_lib-1.21.1-2.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 406284,
+            "MD5": "5ac685e3e5ce76a9c80d0e865769bd60",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/irons_lib-1.21.1-2.1.0.jar"
+          }
+        },
+        {
+          "id": "curse.maven:irons-spellbooks:3.16.2",
+          "name": "irons_spellbooks-1.21.1-3.16.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13874139,
+            "MD5": "1982cbf9474f89a4d0f08c9aeba73607",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/irons_spellbooks-1.21.1-3.16.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:item-obliterator-neoforge-mc1-21-1:2.3.0",
+          "name": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24037,
+            "MD5": "f47cadc2258d5c7a7e91ddf521e13713",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar"
+          }
+        },
+        {
+          "id": "curse.maven:jamlib-neoforge:1.3.6",
+          "name": "jamlib-neoforge-1.3.6+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188553,
+            "MD5": "87ad4d47e5c266e20e2076ad5933d0cc",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/jamlib-neoforge-1.3.6%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:jei:19.51.0.418",
+          "name": "jei-1.21.1-neoforge-19.51.0.418",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1804792,
+            "MD5": "95936c7df31109eeba9cd9bf114fed44",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/jei-1.21.1-neoforge-19.51.0.418.jar"
+          }
+        },
+        {
+          "id": "rootrp:journeymap:1.21.1-6.0.7",
+          "name": "journeymap-neoforge-1.21.1-6.0.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4299852,
+            "MD5": "c516fdc2d5266abfcadd5f6f1c13c899",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/journeymap-neoforge-1.21.1-6.0.7.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_chinesefood:1.2.0-neoforge+1.21.1",
+          "name": "kaleidoscope_chinesefood-1.2.0-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5009895,
+            "MD5": "c4f97e6dcd18e17d70606330e6a2ef09",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_chinesefood-1.2.0-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_grilling:1.1.1",
+          "name": "kaleidoscope_grilling-1.1.1-neoforge1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3245725,
+            "MD5": "ee988e2b1a076c94b0991a72fe0b6c5e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_grilling-1.1.1-neoforge1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_world_liquor:1.2.0-neoforge+1.21.1",
+          "name": "kaleidoscope_world_liquor-1.2.0-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2667260,
+            "MD5": "83673b0ec5e63984015bfd8c9bf2ed6d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope_world_liquor-1.2.0-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_flora:0.3.5.1",
+          "name": "kaleidoscope-flora-0.3.5.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 837545,
+            "MD5": "36990736968e29b68a6f95ab218e340e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscope-flora-0.3.5.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_cookery:1.6.0-neoforge+mc1.21.1",
+          "name": "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3496661,
+            "MD5": "a01c3d2872f12f8a4b020bfd66affac3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:kaleidoscope_tavern:1.2.0-neoforge+mc1.21.1",
+          "name": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1708047,
+            "MD5": "35c1224358390f52abd619ff08e68f3a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:konkrete-neoforge:1.9.9",
+          "name": "konkrete_neoforge_1.9.9_MC_1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 618842,
+            "MD5": "6e77d08299ea1ec7756a299263bc469b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/konkrete_neoforge_1.9.9_MC_1.21.jar"
+          }
+        },
+        {
+          "id": "curse.maven:kubejs-create-neoforge:2101.3.1",
+          "name": "kubejs-create-neoforge-2101.3.1-build.18",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38630,
+            "MD5": "25b13d8e4ac7b369129302aa7afd3b79",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs-create-neoforge-2101.3.1-build.18.jar"
+          }
+        },
+        {
+          "id": "rootrp:kubejs:2101.7.2-build.377",
+          "name": "kubejs-neoforge-2101.7.2-build.377",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2294111,
+            "MD5": "95e68543f4be46edc6d2cac8a9a4cfd3",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/kubejs-neoforge-2101.7.2-build.377.jar"
+          }
+        },
+        {
+          "id": "curse.maven:lithium-neoforge:0.15.4",
+          "name": "lithium-neoforge-0.15.4+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 774220,
+            "MD5": "969860e6a6ebe4dc2e2154b56f05483e",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:logbegone-neoforge:1.0.3",
+          "name": "logbegone-neoforge-1.21.1-1.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73237,
+            "MD5": "bcb679479b36762c5d98ba06479842a2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/logbegone-neoforge-1.21.1-1.0.3.jar"
+          }
+        },
+        {
+          "id": "curse.maven:mafglib:0.4.3",
+          "name": "mafglib-0.4.3+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1314767,
+            "MD5": "3b3dafc71cfb16845d3e019a0d8670ec",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/mafglib-0.4.3%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:melody-neoforge:1.0.10",
+          "name": "melody_neoforge_1.0.10_MC_1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 36096,
+            "MD5": "875f4a68f2cd7ee2cc135904653c93d4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/melody_neoforge_1.0.10_MC_1.21.jar"
+          }
+        },
+        {
+          "id": "curse.maven:memorysettings:6.0",
+          "name": "memorysettings-1.21-6.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22329,
+            "MD5": "801e0c3e6050b1311880b750b73b4362",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/memorysettings-1.21-6.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:modernfix:5.27.27+mc1.21.1",
+          "name": "modernfix-neoforge-5.27.27+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 614138,
+            "MD5": "cab1e1285f6766edbbd8c8724c320249",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:modonomicon:1.120.7",
+          "name": "modonomicon-1.21.1-neoforge-1.120.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2407448,
+            "MD5": "51c3a92e194e0bb9ff8d595e735f1d22",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/modonomicon-1.21.1-neoforge-1.120.7.jar"
+          }
+        },
+        {
+          "id": "curse.maven:moonlight-neoforge:3.3.0",
+          "name": "moonlight-neoforge-1.21.1-3.3.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2135671,
+            "MD5": "a13f5142d4ff5aec62561976bc374732",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/moonlight-neoforge-1.21.1-3.3.0.jar"
+          }
+        },
+        {
+          "id": "curse.maven:moreculling-neoforge:1.0.7",
+          "name": "moreculling-neoforge-1.21.1-1.0.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 344279,
+            "MD5": "97f704f5fca2a00952f75abe78bac964",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/moreculling-neoforge-1.21.1-1.0.7.jar"
+          }
+        },
+        {
+          "id": "curse.maven:mossylib:1.5.0",
+          "name": "MossyLib-1.5.0+1.21.1+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 179463,
+            "MD5": "e7829c0230d7d5866e9d9f0957cc6f61",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/MossyLib-1.5.0%2B1.21.1%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:naturalist:2.0.5",
+          "name": "naturalist-2.0.5-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11325729,
+            "MD5": "0a92897fdecbf953d4b2f4af1e3107af",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/naturalist-2.0.5-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:necronomicon-neoforge:1.6.0",
+          "name": "Necronomicon-NeoForge-1.6.0+1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29865,
+            "MD5": "6250002ee6b5583f7db70564ecdd9fbe",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Necronomicon-NeoForge-1.6.0%2B1.21.jar"
+          }
+        },
+        {
+          "id": "rootrp:obe:1.2.14",
+          "name": "obe+1.21.1-neoforge-1.2.14",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 287803,
+            "MD5": "53faaa5c60335bc4fcccb3401978a028",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/obe%2B1.21.1-neoforge-1.2.14.jar"
+          }
+        },
+        {
+          "id": "curse.maven:packetfixer:3.3.1",
+          "name": "packetfixer-3.3.1-1.20.5-1.21.X-merged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 46623,
+            "MD5": "8f22fb065079340a72ae5ce0da12efcb",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+          }
+        },
+        {
+          "id": "rootrp:pamhc2crops:1.0.0",
+          "name": "pamhc2crops-NEOFORGE-1.21.1-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1047144,
+            "MD5": "f71b6a0d1e58644d07040e8fc34c89d5",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/pamhc2crops-NEOFORGE-1.21.1-1.0.0.jar"
+          }
+        },
+        {
+          "id": "curse.maven:patchouli:1.0.0",
+          "name": "Patchouli-1.21.1-93-NEOFORGE",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 646777,
+            "MD5": "8178d65cd07dd7a646446729058ae2bf",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Patchouli-1.21.1-93-NEOFORGE.jar"
+          }
+        },
+        {
+          "id": "curse.maven:placebo:9.9.2",
+          "name": "Placebo-1.21.1-9.9.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 324058,
+            "MD5": "208b373fb2bdc703cdd2e087753ed859",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/Placebo-1.21.1-9.9.2.jar"
+          }
+        },
+        {
+          "id": "curse.maven:player-animation-lib-forge:2.0.4",
+          "name": "player-animation-lib-forge-2.0.4+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 203149,
+            "MD5": "ecb81c9479605db12a77bea774b88406",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:pretty-in-pink:1.0.4",
+          "name": "pretty_in_pink-1.0.4-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1075764,
+            "MD5": "46b8c91c3235bd38abd387bf4f907edc",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/pretty_in_pink-1.0.4-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:railways:0.2.1",
+          "name": "railways-0.2.1+neoforge-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12118736,
+            "MD5": "a1e93677459b11e2b4edbe01998ffdbd",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/railways-0.2.1%2Bneoforge-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:remorphed:4.2",
+          "name": "remorphed-4.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 94324,
+            "MD5": "8e321b64b8a2256f0ed4ef6d51ee28e7",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/remorphed-4.2.jar"
+          }
+        },
+        {
+          "id": "rootrp:renderscale:2.0.0-beta.1",
+          "name": "renderscale-2.0.0-beta.1-neoforge+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 163983,
+            "MD5": "1bf5d22931f2307e48ef6029f0c7f533",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/renderscale-2.0.0-beta.1-neoforge%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:resourcefulconfig-neoforge:3.0.11",
+          "name": "resourcefulconfig-neoforge-1.21-3.0.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341009,
+            "MD5": "84ff2805a591b10d22b7e0c69b44246c",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+          }
+        },
+        {
+          "id": "curse.maven:resourcefullib-neoforge:3.0.12",
+          "name": "resourcefullib-neoforge-1.21-3.0.12",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 484332,
+            "MD5": "32da88903167d24bb20febeeb2c79225",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/resourcefullib-neoforge-1.21-3.0.12.jar"
+          }
+        },
+        {
+          "id": "curse.maven:rhino:2101.2.7",
+          "name": "rhino-2101.2.7-build.85",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 882075,
+            "MD5": "f5df23fab1aef88b69f67776e0f79904",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rhino-2101.2.7-build.85.jar"
+          }
+        },
+        {
+          "id": "curse.maven:rightclickharvest-neoforge:4.6.1",
+          "name": "rightclickharvest-neoforge-4.6.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 287634,
+            "MD5": "b1188249c44aed7f666ff89ab591e9a4",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rightclickharvest-neoforge-4.6.1%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:root_origins:0.1.0",
+          "name": "root_origins-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6259367,
+            "MD5": "41d3fe6e613e1b92ad2dceba071e00f8",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_origins-0.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:root_skills:1.0.0",
+          "name": "root_skills-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1802344,
+            "MD5": "52cae3c8433152266a6babbc4e4618a2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root_skills-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:escalada:1.0.0",
+          "name": "root-escalada-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73290,
+            "MD5": "2e3d042fe6f0f9c67c59731d1b9b45d6",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/root-escalada-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootbeats:1.1.0",
+          "name": "rootbeats-1.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 420515,
+            "MD5": "fc6c681ec7c57b6fa8b250e3c4637d39",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootbeats-1.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootjobs:1.0.0",
+          "name": "rootjobs-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2944042,
+            "MD5": "0000bfd53dce694903744e5a4cb20b43",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootjobs-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootmobs:1.0.0",
+          "name": "rootmobs-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13238,
+            "MD5": "0849c97108fdebaa63a6dbdffc711e2c",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootmobs-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootmonsters:1.0.0",
+          "name": "rootmonsters-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 597037,
+            "MD5": "b7b9cd85d2aacab3008c9a6c65c9ffe2",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootmonsters-1.0.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:rootpets:0.1.0",
+          "name": "rootpets-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 447834,
+            "MD5": "dae4a2f8173f845146ebebbd5cdca65f",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/rootpets-0.1.0.jar"
+          }
+        },
+        {
+          "id": "rootrp:scalablelux:0.1.0.1+neoforge.1cb1e91",
+          "name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 176443,
+            "MD5": "18099d60c13c6ab9b46af0fafef552fe",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/ScalableLux-0.1.0.1%2Bneoforge.1cb1e91-all.jar"
+          }
+        },
+        {
+          "id": "rootrp:sereneseasons:10.1.0.9",
+          "name": "SereneSeasons-neoforge-1.21.1-10.1.0.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 163020,
+            "MD5": "5d16d03c33c8be3539b27a86f11ed286",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/SereneSeasons-neoforge-1.21.1-10.1.0.9.jar"
+          }
+        },
+        {
+          "id": "rootrp:shouldersurfing:1.21.1-5.2.0",
+          "name": "ShoulderSurfing-NeoForge-1.21.1-5.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 423716,
+            "MD5": "a80099252d72fe3846e603ed711d0024",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/ShoulderSurfing-NeoForge-1.21.1-5.2.0.jar"
+          }
+        },
+        {
+          "id": "curse.maven:sodium-neoforge:0.6.13",
+          "name": "sodium-neoforge-0.6.13+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1162994,
+            "MD5": "e5018c782d851fea76be0205b7616e5d",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:spark:1.10.124",
+          "name": "spark-1.10.124-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3642581,
+            "MD5": "a61dd250e618f8fd62fc6b0943831c50",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/spark-1.10.124-neoforge.jar"
+          }
+        },
+        {
+          "id": "rootrp:spawn:4.0.8-1.21.1",
+          "name": "spawn-4.0.8-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73681436,
+            "MD5": "b01700e00bde9d8cca1b94d50bad443c",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/spawn-4.0.8-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:solonion:1.5.6",
+          "name": "SpiceOfLifeOnion_NEOFORGE_v1.5.6_mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 292176,
+            "MD5": "874873911389b6ccc05ebb9081469191",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/SpiceOfLifeOnion_NEOFORGE_v1.5.6_mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curse.maven:teallib:1.3",
+          "name": "teallib-1.3.teal",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 262609,
+            "MD5": "a28cb71c13e6edf8659b9d5cce3c457b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/teallib-1.3.teal.jar"
+          }
+        },
+        {
+          "id": "curse.maven:txnilib-neoforge:1.0.24",
+          "name": "txnilib-neoforge-1.0.24-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6276522,
+            "MD5": "69cd87744e40cc444b4176022ec6d17a",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/txnilib-neoforge-1.0.24-1.21.1.jar"
+          }
+        },
+        {
+          "id": "rootrp:walkers:5.8.13",
+          "name": "walkers-5.8.13",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1147028,
+            "MD5": "d132f321a07f6d4f3aae63a6a4462e9b",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/walkers-5.8.13.jar"
+          }
+        },
+        {
+          "id": "curse.maven:weaponmaster-ydm:4.2.7",
+          "name": "weaponmaster_ydm-1.21.1-neoforge-4.2.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 344392,
+            "MD5": "7617648be8472946beb2795680161aba",
+            "url": "https://github.com/WesleyNogueiraOne/modpack/releases/download/v2.0/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
+          }
+        }
+      ],
+      "access": [
+        "STAFF"
+      ]
+    },
+    {
       "id": "AMT",
       "name": "A.M.T",
       "description": "Gravações fora do Root RP",

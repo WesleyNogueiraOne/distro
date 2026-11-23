@@ -75,6 +75,40 @@
       ]
     },
     {
+      "id": "RootImersiva",
+      "name": "Root RP · Imersiva",
+      "description": "Visual e sons caprichados: chuva, partículas, nuvens, animações de comer e beber. Pra PC bom.",
+      "folder": "mods-imersiva",
+      "extends": "MeuServidor",
+      "access": [
+        "STAFF"
+      ],
+      "exclude": []
+    },
+    {
+      "id": "RootLite",
+      "name": "Root RP · Lite",
+      "description": "Feita pra PC fraco: tira o que pesa e soma otimizações. Roda liso.",
+      "folder": "mods-lite",
+      "extends": "MeuServidor",
+      "access": [
+        "STAFF"
+      ],
+      "exclude": [
+        "auroras",
+        "colorwheel",
+        "colorwheel_patcher",
+        "distanthorizons",
+        "eatinganimation",
+        "farsight_view",
+        "gml",
+        "iris",
+        "sodiumdynamiclights",
+        "sound_physics_remastered",
+        "spatial_gui"
+      ]
+    },
+    {
       "id": "AMT",
       "name": "A.M.T",
       "description": "Gravações fora do Root RP",
