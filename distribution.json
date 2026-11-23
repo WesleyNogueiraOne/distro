@@ -6625,12 +6625,19 @@
         "desc": "Chuva, neve e tempestades de areia com partículas de verdade, sem pesar.",
         "icon": "https://cdn.modrinth.com/data/nrikgvxm/e637304d1bec07c39e833d810aa4bdbb9703bf95_96.webp",
         "project": "nrikgvxm",
-        "version": "RxfaR4ud",
-        "versionName": "v4.0.2+1.21.1-neoforge",
-        "file": "particlerain-4.0.2+1.21.1-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/RxfaR4ud/particlerain-4.0.2%2B1.21.1-neoforge.jar",
-        "sha512": "dc5fd6224dbd58079d9c82ef318ba2b945e5aa58f3476daea371ca86bb9ce976db5f4893a7093a990c0c1a8ddb7716089b24cced176f30cb253c2696b0cfd5b2",
-        "size": 623257
+        "version": "DW2m22Qi",
+        "versionName": "v4.0.4+1.21.1-neoforge",
+        "file": "particlerain-4.0.4+1.21.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/DW2m22Qi/particlerain-4.0.4%2B1.21.1-neoforge.jar",
+        "sha512": "0e3ba8f5f83904ff8979d8d69f8e5be0eef340b6d1e326762ec9ab933c088ab63ef3b88117dc1023000ade11e9ad23d84390e3840b08519bb20638c131b08151",
+        "size": 626707,
+        "servers": [
+          "MeuServidor",
+          "RootStaff",
+          "RootGravacao",
+          "RootLite",
+          "AMT"
+        ]
       }
     ],
     "blocked": [
