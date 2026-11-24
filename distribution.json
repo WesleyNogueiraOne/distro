@@ -1323,7 +1323,46 @@
       ],
       "access": [
         "APOIADOR"
-      ]
+      ],
+      "javaOptions": {
+        "ram": {
+          "recommended": 4096,
+          "minimum": 3072
+        }
+      },
+      "presets": {
+        "version": 1,
+        "files": [
+          {
+            "file": "options.txt",
+            "format": "options",
+            "set": {
+              "renderDistance": "10",
+              "graphicsMode": "1",
+              "particles": "1",
+              "renderClouds": "\"fast\"",
+              "biomeBlendRadius": "1",
+              "mipmapLevels": "4",
+              "enableVsync": "true",
+              "maxFps": "120"
+            }
+          },
+          {
+            "file": "config/DistantHorizons.toml",
+            "format": "toml",
+            "set": {
+              "lodChunkRenderDistanceRadius": "128"
+            }
+          },
+          {
+            "file": "config/iris.properties",
+            "format": "properties",
+            "set": {
+              "maxShadowRenderDistance": "24"
+            }
+          }
+        ]
+      }
     },
     {
       "id": "RootStaff",
@@ -5170,7 +5209,47 @@
         "MANAGER",
         "ADMIN",
         "OWNER"
-      ]
+      ],
+      "javaOptions": {
+        "ram": {
+          "recommended": 6144,
+          "minimum": 4096
+        }
+      },
+      "presets": {
+        "version": 1,
+        "files": [
+          {
+            "file": "options.txt",
+            "format": "options",
+            "set": {
+              "renderDistance": "12",
+              "graphicsMode": "1",
+              "particles": "0",
+              "renderClouds": "\"true\"",
+              "biomeBlendRadius": "2",
+              "mipmapLevels": "4",
+              "entityShadows": "true",
+              "enableVsync": "true",
+              "maxFps": "120"
+            }
+          },
+          {
+            "file": "config/DistantHorizons.toml",
+            "format": "toml",
+            "set": {
+              "lodChunkRenderDistanceRadius": "128"
+            }
+          },
+          {
+            "file": "config/iris.properties",
+            "format": "properties",
+            "set": {
+              "maxShadowRenderDistance": "24"
+            }
+          }
+        ]
+      }
     },
     {
       "id": "RootLite",
@@ -6442,7 +6521,44 @@
         "MANAGER",
         "ADMIN",
         "OWNER"
-      ]
+      ],
+      "javaOptions": {
+        "ram": {
+          "recommended": 4096,
+          "minimum": 2048
+        }
+      },
+      "presets": {
+        "version": 1,
+        "files": [
+          {
+            "file": "options.txt",
+            "format": "options",
+            "set": {
+              "renderDistance": "8",
+              "simulationDistance": "6",
+              "graphicsMode": "0",
+              "particles": "2",
+              "renderClouds": "\"false\"",
+              "biomeBlendRadius": "0",
+              "mipmapLevels": "1",
+              "entityShadows": "false",
+              "entityDistanceScaling": "0.75",
+              "ao": "false",
+              "enableVsync": "false",
+              "maxFps": "60",
+              "fullscreen": "true"
+            }
+          },
+          {
+            "file": "config/renderscale.json5",
+            "format": "json",
+            "set": {
+              "scale": 0.75
+            }
+          }
+        ]
+      }
     },
     {
       "id": "AMT",
